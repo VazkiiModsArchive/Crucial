@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-07T17:51:36.2310195Z",
+  "lastPlayed": "2019-06-07T18:41:46.6964104Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -839,21 +839,6 @@
       "fileSize": 1363935
     },
     {
-      "folderName": "clarity-1.1.jar",
-      "fingerprint": 3290647999,
-      "fileDateHash": 2165019904,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3290647999
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2216006Z",
-      "lastWriteTimeUtc": "2019-05-28T19:25:38.5768458Z",
-      "queryTimestamp": "2019-06-07T14:57:51.1506024Z",
-      "fileCount": 1,
-      "fileSize": 1987
-    },
-    {
       "folderName": "CoralReef-2.5-1.12.2.jar",
       "fingerprint": 2416974035,
       "fileDateHash": 184522510,
@@ -867,6 +852,21 @@
       "queryTimestamp": "2019-06-07T14:57:51.1506024Z",
       "fileCount": 1,
       "fileSize": 73465
+    },
+    {
+      "folderName": "clarity-1.1.jar",
+      "fingerprint": 3290647999,
+      "fileDateHash": 2165019904,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3290647999
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T14:57:50.2216006Z",
+      "lastWriteTimeUtc": "2019-05-28T19:25:38.5768458Z",
+      "queryTimestamp": "2019-06-07T14:57:51.1506024Z",
+      "fileCount": 1,
+      "fileSize": 1987
     },
     {
       "folderName": "worleycaves-1.4.1.jar",
@@ -979,21 +979,6 @@
       "queryTimestamp": "2019-06-07T14:57:51.1506024Z",
       "fileCount": 1,
       "fileSize": 132644
-    },
-    {
-      "folderName": "PotionCore-1.6_for_1.12.2.jar",
-      "fingerprint": 2067871059,
-      "fileDateHash": 1720354899,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2067871059
-      ],
-      "status": 1,
-      "timestamp": "2019-05-28T18:41:29.9589864Z",
-      "lastWriteTimeUtc": "2019-05-28T18:35:35.6926841Z",
-      "queryTimestamp": "2019-06-07T14:57:51.1516012Z",
-      "fileCount": 1,
-      "fileSize": 141297
     },
     {
       "folderName": "cosmeticbeds-1.12.2-1.0.2.2.jar",
@@ -1131,21 +1116,6 @@
       "fileSize": 62668
     },
     {
-      "folderName": "SimplifiedHorses-v1.2.1-1.11.jar",
-      "fingerprint": 1857194196,
-      "fileDateHash": 965565060,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1857194196
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2436006Z",
-      "lastWriteTimeUtc": "2019-05-28T19:26:29.3095802Z",
-      "queryTimestamp": "2019-06-07T14:57:51.1525998Z",
-      "fileCount": 1,
-      "fileSize": 79887
-    },
-    {
       "folderName": "QuarkOddities-1.12.2.jar",
       "fingerprint": 4267477614,
       "fileDateHash": 365475679,
@@ -1159,6 +1129,21 @@
       "queryTimestamp": "2019-06-07T14:57:51.1525998Z",
       "fileCount": 1,
       "fileSize": 1556
+    },
+    {
+      "folderName": "SimplifiedHorses-v1.2.1-1.11.jar",
+      "fingerprint": 1857194196,
+      "fileDateHash": 965565060,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1857194196
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T14:57:50.2436006Z",
+      "lastWriteTimeUtc": "2019-05-28T19:26:29.3095802Z",
+      "queryTimestamp": "2019-06-07T14:57:51.1525998Z",
+      "fileCount": 1,
+      "fileSize": 79887
     },
     {
       "folderName": "Chameleon-1.12-4.1.3.jar",
@@ -1176,19 +1161,19 @@
       "fileSize": 96859
     },
     {
-      "folderName": "wards-1.3.1.jar",
-      "fingerprint": 3334941503,
-      "fileDateHash": 4150134080,
+      "folderName": "Charm-1.12.2-1.1.2.jar",
+      "fingerprint": 759334941,
+      "fileDateHash": 1307614604,
       "sectionID": 8,
       "individualFingerprints": [
-        3334941503
+        759334941
       ],
       "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2476018Z",
-      "lastWriteTimeUtc": "2019-06-06T04:12:05.4196295Z",
+      "timestamp": "2019-06-07T14:57:50.2075999Z",
+      "lastWriteTimeUtc": "2019-06-06T04:12:34.3236288Z",
       "queryTimestamp": "2019-06-07T14:57:51.1525998Z",
       "fileCount": 1,
-      "fileSize": 41639
+      "fileSize": 2295119
     },
     {
       "folderName": "Tips-1.12.2-1.0.7.jar",
@@ -1206,34 +1191,19 @@
       "fileSize": 19209
     },
     {
-      "folderName": "Charm-1.12.2-1.1.2.jar",
-      "fingerprint": 759334941,
-      "fileDateHash": 1307614604,
+      "folderName": "wards-1.3.1.jar",
+      "fingerprint": 3334941503,
+      "fileDateHash": 4150134080,
       "sectionID": 8,
       "individualFingerprints": [
-        759334941
+        3334941503
       ],
       "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2075999Z",
-      "lastWriteTimeUtc": "2019-06-06T04:12:34.3236288Z",
+      "timestamp": "2019-06-07T14:57:50.2476018Z",
+      "lastWriteTimeUtc": "2019-06-06T04:12:05.4196295Z",
       "queryTimestamp": "2019-06-07T14:57:51.1525998Z",
       "fileCount": 1,
-      "fileSize": 2295119
-    },
-    {
-      "folderName": "stg-1.12.2-1.2.3.jar",
-      "fingerprint": 201836877,
-      "fileDateHash": 1292295434,
-      "sectionID": 8,
-      "individualFingerprints": [
-        201836877
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.244602Z",
-      "lastWriteTimeUtc": "2019-05-28T19:26:38.7499305Z",
-      "queryTimestamp": "2019-06-07T14:57:51.1536017Z",
-      "fileCount": 1,
-      "fileSize": 24024
+      "fileSize": 41639
     },
     {
       "folderName": "DynamicSurroundings-1.12.2-3.5.4.3.jar",
@@ -1249,6 +1219,21 @@
       "queryTimestamp": "2019-06-07T14:57:51.1536017Z",
       "fileCount": 1,
       "fileSize": 14779288
+    },
+    {
+      "folderName": "stg-1.12.2-1.2.3.jar",
+      "fingerprint": 201836877,
+      "fileDateHash": 1292295434,
+      "sectionID": 8,
+      "individualFingerprints": [
+        201836877
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T14:57:50.244602Z",
+      "lastWriteTimeUtc": "2019-05-28T19:26:38.7499305Z",
+      "queryTimestamp": "2019-06-07T14:57:51.1536017Z",
+      "fileCount": 1,
+      "fileSize": 24024
     },
     {
       "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
@@ -2402,7 +2387,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 307806,
@@ -5253,7 +5238,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 311552,
@@ -5374,76 +5359,6 @@
       "dateInstalled": "2019-05-28T18:39:16.9282343Z",
       "dateUpdated": "2019-05-28T18:39:16.9302346Z",
       "dateLastUpdateAttempted": "2019-05-28T18:39:16.9302346Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 242872,
-      "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
-      "installedFile": {
-        "id": 2529753,
-        "displayName": "PotionCore-1.6_for_1.12.2.jar",
-        "fileName": "PotionCore-1.6_for_1.12.2.jar",
-        "fileDate": "2018-02-10T05:49:20.557Z",
-        "fileLength": 141297,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2529/753/PotionCore-1.6_for_1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 2529754,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1466116386,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 4273342347,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1698324018,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3186301657,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2067871059,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "PotionCore-1.6_for_1.12.2.jar"
-      },
-      "dateInstalled": "2019-05-28T18:35:35.6926841Z",
-      "dateUpdated": "2019-05-28T18:35:35.6976864Z",
-      "dateLastUpdateAttempted": "2019-05-28T18:35:35.6976864Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -5667,7 +5582,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 276951,
@@ -6482,6 +6397,149 @@
       "installedTargets": null
     },
     {
+      "addonID": 247357,
+      "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
+      "installedFile": {
+        "id": 2623984,
+        "displayName": "extraalchemy-0.3.8.6.1-release.jar",
+        "fileName": "extraalchemy-0.3.8.6.1-release.jar",
+        "fileDate": "2018-10-03T18:54:47.6Z",
+        "fileLength": 210138,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2623/984/extraalchemy-0.3.8.6.1-release.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 303759,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 286348,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3301654993,
+            "type": 0
+          },
+          {
+            "foldername": "zabi",
+            "fingerprint": 2960894183,
+            "type": 0
+          },
+          {
+            "foldername": "changes.txt",
+            "fingerprint": 919028126,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3525745286,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3954124040,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2557455395,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "extraalchemy-0.3.8.6.1-release.jar"
+      },
+      "dateInstalled": "2019-05-28T19:00:32.8345652Z",
+      "dateUpdated": "2019-05-28T19:00:32.8385649Z",
+      "dateLastUpdateAttempted": "2019-05-28T19:00:32.8385649Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 283644,
+      "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
+      "installedFile": {
+        "id": 2694382,
+        "displayName": "Placebo-1.12.2-1.6.0.jar",
+        "fileName": "Placebo-1.12.2-1.6.0.jar",
+        "fileDate": "2019-04-01T17:45:01.17Z",
+        "fileLength": 76902,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3586471488,
+            "type": 0
+          },
+          {
+            "foldername": "shadows",
+            "fingerprint": 2826136401,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2199692995,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2862833350,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "Placebo-1.12.2-1.6.0.jar"
+      },
+      "dateInstalled": "2019-05-28T18:36:37.6220625Z",
+      "dateUpdated": "2019-05-28T18:36:37.6240626Z",
+      "dateLastUpdateAttempted": "2019-05-28T18:36:37.6240626Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 292785,
       "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
       "installedFile": {
@@ -6582,149 +6640,6 @@
       "dateInstalled": "2019-05-28T18:02:11.7959743Z",
       "dateUpdated": "2019-05-28T18:02:11.8039764Z",
       "dateLastUpdateAttempted": "2019-05-28T18:02:11.8039764Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 283644,
-      "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
-      "installedFile": {
-        "id": 2694382,
-        "displayName": "Placebo-1.12.2-1.6.0.jar",
-        "fileName": "Placebo-1.12.2-1.6.0.jar",
-        "fileDate": "2019-04-01T17:45:01.17Z",
-        "fileLength": 76902,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3586471488,
-            "type": 0
-          },
-          {
-            "foldername": "shadows",
-            "fingerprint": 2826136401,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2199692995,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2862833350,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Placebo-1.12.2-1.6.0.jar"
-      },
-      "dateInstalled": "2019-05-28T18:36:37.6220625Z",
-      "dateUpdated": "2019-05-28T18:36:37.6240626Z",
-      "dateLastUpdateAttempted": "2019-05-28T18:36:37.6240626Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 247357,
-      "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
-      "installedFile": {
-        "id": 2623984,
-        "displayName": "extraalchemy-0.3.8.6.1-release.jar",
-        "fileName": "extraalchemy-0.3.8.6.1-release.jar",
-        "fileDate": "2018-10-03T18:54:47.6Z",
-        "fileLength": 210138,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2623/984/extraalchemy-0.3.8.6.1-release.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 303759,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 286348,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3301654993,
-            "type": 0
-          },
-          {
-            "foldername": "zabi",
-            "fingerprint": 2960894183,
-            "type": 0
-          },
-          {
-            "foldername": "changes.txt",
-            "fingerprint": 919028126,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3525745286,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3954124040,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2557455395,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "extraalchemy-0.3.8.6.1-release.jar"
-      },
-      "dateInstalled": "2019-05-28T19:00:32.8345652Z",
-      "dateUpdated": "2019-05-28T19:00:32.8385649Z",
-      "dateLastUpdateAttempted": "2019-05-28T19:00:32.8385649Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
