@@ -1,0 +1,24 @@
+# Add the following to your gitignore:
+
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
+
+# Optional: Generic Modpack Ignores
+**/*.log
+/logs
+/screenshots
+/.mixin.out
+/saves
+/downloads
+/resourcepacks
+.curseclient
+options.txt
+usernamecache.json
+usercache.json
+playerschoice.marker
+desktop.ini
+.ReAuth.cfg
+patchouli_data.json
