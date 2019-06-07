@@ -1,0 +1,2 @@
+# QBS
+Quantum blockchain synergy
