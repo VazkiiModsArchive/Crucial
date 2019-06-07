@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-07T18:41:46.6964104Z",
+  "lastPlayed": "2019-06-07T19:25:42.9159294Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -398,6 +398,21 @@
       "queryTimestamp": "2019-06-07T14:57:51.1466015Z",
       "fileCount": 1,
       "fileSize": 1124675
+    },
+    {
+      "folderName": "NotEnoughCats-1.12.2-1.2.jar",
+      "fingerprint": 150369896,
+      "fileDateHash": 2145492990,
+      "sectionID": 8,
+      "individualFingerprints": [
+        150369896
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T18:43:02.8236741Z",
+      "lastWriteTimeUtc": "2019-06-07T17:59:26.0364864Z",
+      "queryTimestamp": "2019-06-07T18:43:03.427676Z",
+      "fileCount": 1,
+      "fileSize": 457418
     },
     {
       "folderName": "MouseTweaks-2.10-mc1.12.2.jar",
@@ -884,19 +899,46 @@
       "fileSize": 60430
     },
     {
-      "folderName": "NotEnoughCats-1.12.2-1.1.1.jar",
-      "fingerprint": 1056015530,
-      "fileDateHash": 1609975277,
-      "sectionID": 8,
+      "folderName": "New World-----",
+      "fingerprint": 4019127369,
+      "fileDateHash": 2170569416,
+      "sectionID": 10,
       "individualFingerprints": [
-        1056015530
+        339682237,
+        489458212,
+        489458212,
+        758054953,
+        758054953,
+        758054953,
+        1231863825,
+        1606484836,
+        1756900342,
+        1761564077,
+        1786695535,
+        2074953462,
+        2133294961,
+        2170125966,
+        2336574816,
+        2464403461,
+        2466275276,
+        2748824091,
+        2748824091,
+        2748824091,
+        2896463345,
+        3017818849,
+        3116643344,
+        3287554918,
+        3594819839,
+        3709416011,
+        4157829042,
+        4213863462
       ],
       "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2235992Z",
-      "lastWriteTimeUtc": "2019-06-06T04:12:17.4433602Z",
-      "queryTimestamp": "2019-06-07T14:57:51.1506024Z",
-      "fileCount": 1,
-      "fileSize": 441923
+      "timestamp": "2019-06-07T18:43:02.8726739Z",
+      "lastWriteTimeUtc": "2019-06-07T18:38:41.9711153Z",
+      "queryTimestamp": "2019-06-07T18:43:03.4316764Z",
+      "fileCount": 13,
+      "fileSize": 0
     },
     {
       "folderName": "yoyos_1.12.2-1.2.2.20.jar",
@@ -915,38 +957,38 @@
     },
     {
       "folderName": "New World----",
-      "fingerprint": 3580149669,
-      "fileDateHash": 3353255684,
+      "fingerprint": 3828917776,
+      "fileDateHash": 3975201562,
       "sectionID": 10,
       "individualFingerprints": [
-        412614332,
+        468605044,
         489458212,
         489458212,
+        552317376,
+        602915195,
+        631049387,
+        730700423,
         758054953,
         758054953,
         758054953,
         770499991,
+        1246129474,
         1451304759,
-        1524719259,
-        1650204836,
         2336574816,
-        2536683292,
-        2687840376,
-        2748467283,
+        2638224534,
         2748824091,
         2748824091,
         2748824091,
-        2791891612,
+        3060644166,
         3125009922,
         3429610747,
         3608152513,
-        4213863462,
-        4238853769
+        4213863462
       ],
       "status": 1,
-      "timestamp": "2019-06-07T17:25:41.8980403Z",
-      "lastWriteTimeUtc": "2019-06-07T16:35:34.9217266Z",
-      "queryTimestamp": "2019-06-07T17:25:42.2290392Z",
+      "timestamp": "2019-06-07T18:43:02.8336763Z",
+      "lastWriteTimeUtc": "2019-06-07T17:27:45.2527422Z",
+      "queryTimestamp": "2019-06-07T18:43:03.4326775Z",
       "fileCount": 13,
       "fileSize": 0
     },
@@ -1161,21 +1203,6 @@
       "fileSize": 96859
     },
     {
-      "folderName": "Charm-1.12.2-1.1.2.jar",
-      "fingerprint": 759334941,
-      "fileDateHash": 1307614604,
-      "sectionID": 8,
-      "individualFingerprints": [
-        759334941
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2075999Z",
-      "lastWriteTimeUtc": "2019-06-06T04:12:34.3236288Z",
-      "queryTimestamp": "2019-06-07T14:57:51.1525998Z",
-      "fileCount": 1,
-      "fileSize": 2295119
-    },
-    {
       "folderName": "Tips-1.12.2-1.0.7.jar",
       "fingerprint": 2282999150,
       "fileDateHash": 2582430310,
@@ -1249,6 +1276,21 @@
       "queryTimestamp": "2019-06-07T14:57:51.1536017Z",
       "fileCount": 1,
       "fileSize": 16612
+    },
+    {
+      "folderName": "Charm-1.12.2-1.1.3.jar",
+      "fingerprint": 766348370,
+      "fileDateHash": 1872183046,
+      "sectionID": 8,
+      "individualFingerprints": [
+        766348370
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T18:43:02.8086757Z",
+      "lastWriteTimeUtc": "2019-06-07T17:59:22.7108893Z",
+      "queryTimestamp": "2019-06-07T18:43:03.4346755Z",
+      "fileCount": 1,
+      "fileSize": 2295308
     },
     {
       "folderName": "Triumph-1.12.2-3.17.0.jar",
@@ -1351,7 +1393,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-06-07T17:25:43.0030417Z",
+  "lastPreviousMatchUpdate": "2019-06-07T18:43:03.8856758Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -6073,6 +6115,98 @@
       "installedTargets": null
     },
     {
+      "addonID": 322948,
+      "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
+      "installedFile": {
+        "id": 2718820,
+        "displayName": "betterportals-0.1.4.jar",
+        "fileName": "betterportals-0.1.4.jar",
+        "fileDate": "2019-06-01T20:08:26.06Z",
+        "fileLength": 1459868,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2718/820/betterportals-0.1.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 248453,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2874979643,
+            "type": 0
+          },
+          {
+            "foldername": "de",
+            "fingerprint": 2665920712,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 256206283,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3029804346,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.betterportals.json",
+            "fingerprint": 4049573268,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 3933732671,
+            "type": 0
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 469879977,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.betterportals.refmap.json",
+            "fingerprint": 1312276388,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2746192732,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "betterportals-0.1.4.jar"
+      },
+      "dateInstalled": "2019-06-07T19:08:01.7636438Z",
+      "dateUpdated": "2019-06-07T19:08:01.7666652Z",
+      "dateLastUpdateAttempted": "2019-06-07T19:08:01.7666652Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 294419,
       "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
       "installedFile": {
@@ -6333,6 +6467,89 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 248453,
+      "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
+      "installedFile": {
+        "id": 2640952,
+        "displayName": "Forgelin-1.8.2.jar",
+        "fileName": "Forgelin-1.8.2.jar",
+        "fileDate": "2018-11-24T18:40:20.357Z",
+        "fileLength": 5124663,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2640/952/Forgelin-1.8.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4162908722,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 727906538,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 194231937,
+            "type": 0
+          },
+          {
+            "foldername": "dummyThing",
+            "fingerprint": 79582461,
+            "type": 0
+          },
+          {
+            "foldername": "kotlin",
+            "fingerprint": 3451189410,
+            "type": 0
+          },
+          {
+            "foldername": "kotlinx",
+            "fingerprint": 2481535210,
+            "type": 0
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 3526491005,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3233439295,
+        "gameVersion": [
+          "1.12",
+          "1.9.4",
+          "1.10.2",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "Forgelin-1.8.2.jar"
+      },
+      "dateInstalled": "2019-06-07T19:07:59.9236265Z",
+      "dateUpdated": "2019-06-07T19:07:59.9478732Z",
+      "dateLastUpdateAttempted": "2019-06-07T19:07:59.9478732Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 231837,

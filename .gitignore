@@ -14,6 +14,7 @@
 /saves
 /downloads
 /resourcepacks
+/crash-reports
 .curseclient
 options.txt
 usernamecache.json
