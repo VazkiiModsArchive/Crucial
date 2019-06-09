@@ -24,3 +24,4 @@ desktop.ini
 .ReAuth.cfg
 patchouli_data.json
 config/multimob/modInformation/*.txt
+config/NetherEx/Biomes/**/*.json
