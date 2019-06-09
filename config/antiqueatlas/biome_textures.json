@@ -73,6 +73,7 @@
     "traverse:autumnal_woods": "FOREST",
     "traverse:badlands": "DESERT",
     "traverse:birch_forested_hills": "FOREST_HILLS",
+    "traverse:canyon": "PLAINS",
     "traverse:cliffs": "MOUNTAINS_NAKED",
     "traverse:crag_cliffs": "PLAINS",
     "traverse:desert_shrubland": "PLAINS",

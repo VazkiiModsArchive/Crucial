@@ -83,6 +83,7 @@ traverse:glacier
 traverse:glacier_spikes
 traverse:snowy_coniferous_forest
 traverse:lush_hills
+traverse:canyon
 traverse:crag_cliffs
 traverse:desert_shrubland
 traverse:thicket
