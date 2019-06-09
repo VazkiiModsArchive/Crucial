@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-07T19:25:42.9159294Z",
+  "lastPlayed": "2019-06-09T14:13:22.9059965Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -4972,83 +4972,6 @@
       "dateUpdated": "2019-05-28T17:13:07.8417688Z",
       "dateLastUpdateAttempted": "2019-05-28T17:13:07.8417688Z",
       "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 243121,
-      "gameInstanceID": "fa3f19d2-1343-49ec-a215-36a39063bfbe",
-      "installedFile": {
-        "id": 2722330,
-        "displayName": "Quark-r1.5-157.jar",
-        "fileName": "Quark-r1.5-157.jar",
-        "fileDate": "2019-06-09T12:58:00.39Z",
-        "fileLength": 2576946,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2722/330/Quark-r1.5-157.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 250363,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4208354416,
-            "type": 0
-          },
-          {
-            "foldername": "vazkii",
-            "fingerprint": 1611726430,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 134982995,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 269628555,
-            "type": 0
-          },
-          {
-            "foldername": "proxypack.mcmeta",
-            "fingerprint": 3313685099,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1906913919,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Quark-r1.5-157.jar"
-      },
-      "dateInstalled": "2019-05-28T17:10:32.5957379Z",
-      "dateUpdated": "2019-06-09T13:44:32.511191Z",
-      "dateLastUpdateAttempted": "2019-06-09T13:44:32.511191Z",
-      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
