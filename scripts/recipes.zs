@@ -1,0 +1,1 @@
+recipes.addShapeless("wither_dust", <quark:black_ash> * 3, [ <nex:wither_bone> ]);

@@ -29,6 +29,8 @@ minecraft:lure
 minecraft:mending
 minecraft:vanishing_curse
 jaff:roasting
+endercore:autosmelt
+endercore:xpboost
 minecraftfuture:channeling
 minecraftfuture:impaling
 minecraftfuture:loyalty

@@ -1,0 +1,1 @@
+game.setLocalization("en_us", "tile.pcb_block.name", "Etched Stone Block");
