@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-10T22:28:39.7145719Z",
+  "lastPlayed": "2019-06-10T22:34:53.1424904Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -138,21 +138,6 @@
       "queryTimestamp": "2019-06-10T16:50:49.7957916Z",
       "fileCount": 1,
       "fileSize": 5566
-    },
-    {
-      "folderName": "Placebo-1.12.2-1.6.0.jar",
-      "fingerprint": 2862833350,
-      "fileDateHash": 3966722084,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2862833350
-      ],
-      "status": 1,
-      "timestamp": "2019-06-10T16:00:13.8164396Z",
-      "lastWriteTimeUtc": "2019-05-28T18:36:37.6220625Z",
-      "queryTimestamp": "2019-06-10T16:00:14.4247046Z",
-      "fileCount": 1,
-      "fileSize": 76902
     },
     {
       "folderName": "LibEx-1.12.2-1.0.8.jar",
@@ -565,21 +550,6 @@
       "queryTimestamp": "2019-06-10T16:50:49.7997943Z",
       "fileCount": 1,
       "fileSize": 5200
-    },
-    {
-      "folderName": "EnderCore-1.12.2-0.5.57.jar",
-      "fingerprint": 2833802509,
-      "fileDateHash": 3108448186,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2833802509
-      ],
-      "status": 1,
-      "timestamp": "2019-06-10T15:10:50.8274144Z",
-      "lastWriteTimeUtc": "2019-06-09T18:35:10.8416836Z",
-      "queryTimestamp": "2019-06-10T15:10:51.3724124Z",
-      "fileCount": 1,
-      "fileSize": 638350
     },
     {
       "folderName": "Plated-0.1.0.jar",
@@ -2106,76 +2076,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 231868,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2699428,
-        "displayName": "EnderCore - 1.12.2-0.5.57",
-        "fileName": "EnderCore-1.12.2-0.5.57.jar",
-        "fileDate": "2019-04-15T07:14:30.313Z",
-        "fileLength": 638350,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2699/428/EnderCore-1.12.2-0.5.57.jar",
-        "isAlternate": false,
-        "alternateFileId": 2699429,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 402871891,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2758401751,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1524080036,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2266219055,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1160059302,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2833802509,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "EnderCore-1.12.2-0.5.57.jar"
-      },
-      "dateInstalled": "2019-06-09T18:35:10.8426844Z",
-      "dateUpdated": "2019-06-09T18:35:10.8446877Z",
-      "dateLastUpdateAttempted": "2019-06-09T18:35:10.8446877Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 227441,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -2906,6 +2806,68 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 240783,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2645984,
+        "displayName": "Harvest-1.12-1.2.7-20.jar",
+        "fileName": "Harvest-1.12-1.2.7-20.jar",
+        "fileDate": "2018-12-10T03:38:09.747Z",
+        "fileLength": 17988,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2645/984/Harvest-1.12-1.2.7-20.jar",
+        "isAlternate": false,
+        "alternateFileId": 2645985,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1750972409,
+            "type": 0
+          },
+          {
+            "foldername": "tehnut",
+            "fingerprint": 3656663292,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3982197487,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1260477084,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "Harvest-1.12-1.2.7-20.jar"
+      },
+      "dateInstalled": "2019-06-10T22:34:36.3654989Z",
+      "dateUpdated": "2019-06-10T22:34:36.3674902Z",
+      "dateLastUpdateAttempted": "2019-06-10T22:34:36.3674902Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 308653,
@@ -6852,89 +6814,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 248453,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2640952,
-        "displayName": "Forgelin-1.8.2.jar",
-        "fileName": "Forgelin-1.8.2.jar",
-        "fileDate": "2018-11-24T18:40:20.357Z",
-        "fileLength": 5124663,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2640/952/Forgelin-1.8.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4162908722,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 727906538,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 194231937,
-            "type": 0
-          },
-          {
-            "foldername": "dummyThing",
-            "fingerprint": 79582461,
-            "type": 0
-          },
-          {
-            "foldername": "kotlin",
-            "fingerprint": 3451189410,
-            "type": 0
-          },
-          {
-            "foldername": "kotlinx",
-            "fingerprint": 2481535210,
-            "type": 0
-          },
-          {
-            "foldername": "org",
-            "fingerprint": 3526491005,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3233439295,
-        "gameVersion": [
-          "1.12",
-          "1.9.4",
-          "1.10.2",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Forgelin-1.8.2.jar"
-      },
-      "dateInstalled": "2019-06-10T22:26:53.6536323Z",
-      "dateUpdated": "2019-06-10T22:26:53.6716217Z",
-      "dateLastUpdateAttempted": "2019-06-10T22:26:53.6716217Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 231837,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -6995,79 +6874,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 283644,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2694382,
-        "displayName": "Placebo-1.12.2-1.6.0.jar",
-        "fileName": "Placebo-1.12.2-1.6.0.jar",
-        "fileDate": "2019-04-01T17:45:01.17Z",
-        "fileLength": 76902,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3586471488,
-            "type": 3
-          },
-          {
-            "foldername": "shadows",
-            "fingerprint": 2826136401,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2199692995,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 2862833350,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1539909,
-        "projectId": 283644,
-        "packageFingerprintId": 304809249,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 1783933,
-        "gameVersionId": 6756,
-        "gameId": 432,
-        "FileNameOnDisk": "Placebo-1.12.2-1.6.0.jar"
-      },
-      "dateInstalled": "2019-06-10T16:00:14.8507278Z",
-      "dateUpdated": "2018-06-10T16:00:14.8507278Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     },
     {
       "addonID": 247357,
