@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-10T15:52:39.9703027Z",
+  "lastPlayed": "2019-06-10T16:01:03.1273734Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -148,9 +148,9 @@
         2862833350
       ],
       "status": 1,
-      "timestamp": "2019-05-28T18:41:29.9579872Z",
+      "timestamp": "2019-06-10T16:00:13.8164396Z",
       "lastWriteTimeUtc": "2019-05-28T18:36:37.6220625Z",
-      "queryTimestamp": "2019-06-09T16:40:48.0513117Z",
+      "queryTimestamp": "2019-06-10T16:00:14.4247046Z",
       "fileCount": 1,
       "fileSize": 76902
     },
@@ -726,21 +726,6 @@
       "fileSize": 18396
     },
     {
-      "folderName": "PlayersChoice 1.2-5.jar",
-      "fingerprint": 1110180427,
-      "fileDateHash": 2966939277,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1110180427
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2265992Z",
-      "lastWriteTimeUtc": "2019-05-28T19:36:39.5285488Z",
-      "queryTimestamp": "2019-06-09T16:40:48.0593129Z",
-      "fileCount": 1,
-      "fileSize": 18350
-    },
-    {
       "folderName": "mysticallib-1.12.2-1.2.1.jar",
       "fingerprint": 1424005437,
       "fileDateHash": 4038522278,
@@ -1010,41 +995,41 @@
     },
     {
       "folderName": "Copy of New World",
-      "fingerprint": 3361160589,
-      "fileDateHash": 3678934877,
+      "fingerprint": 4024469452,
+      "fileDateHash": 72042870,
       "sectionID": 10,
       "individualFingerprints": [
-        376253727,
+        270593744,
+        430455535,
         489458212,
         489458212,
         758054953,
         758054953,
         758054953,
-        777802373,
-        946462619,
-        1225532734,
+        808309669,
         1277334193,
-        1583891802,
+        1439573227,
+        1494330967,
+        1846715998,
+        2101489494,
+        2288907558,
         2336574816,
         2374522350,
-        2713533388,
+        2382700935,
         2748824091,
         2748824091,
         2748824091,
-        2750723677,
-        2968760594,
-        3255329423,
-        3322237319,
-        3377452404,
-        3483878321,
-        3501910152,
-        3550576869,
+        2794554273,
+        3050706763,
+        3262065610,
+        3830077793,
+        3846438743,
         4213863462
       ],
       "status": 1,
-      "timestamp": "2019-06-10T15:45:57.9423437Z",
-      "lastWriteTimeUtc": "2019-06-10T15:42:56.0840748Z",
-      "queryTimestamp": "2019-06-10T15:45:58.8278712Z",
+      "timestamp": "2019-06-10T16:00:13.8184401Z",
+      "lastWriteTimeUtc": "2019-06-10T15:58:25.5754235Z",
+      "queryTimestamp": "2019-06-10T16:00:14.4307138Z",
       "fileCount": 13,
       "fileSize": 0
     },
@@ -6609,71 +6594,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 294419,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2648684,
-        "displayName": "PlayersChoice 1.2-5.jar",
-        "fileName": "PlayersChoice 1.2-5.jar",
-        "fileDate": "2018-12-16T00:54:14.367Z",
-        "fileLength": 18350,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2648/684/PlayersChoice 1.2-5.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3328124757,
-            "type": 0
-          },
-          {
-            "foldername": "vazkii",
-            "fingerprint": 3824371088,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2006191036,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3421731778,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1110180427,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "PlayersChoice 1.2-5.jar"
-      },
-      "dateInstalled": "2019-05-28T19:36:39.5285488Z",
-      "dateUpdated": "2019-05-28T19:36:39.5295338Z",
-      "dateLastUpdateAttempted": "2019-05-28T19:36:39.5295338Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 248994,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -7153,6 +7073,79 @@
       "installedTargets": null
     },
     {
+      "addonID": 283644,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2694382,
+        "displayName": "Placebo-1.12.2-1.6.0.jar",
+        "fileName": "Placebo-1.12.2-1.6.0.jar",
+        "fileDate": "2019-04-01T17:45:01.17Z",
+        "fileLength": 76902,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3586471488,
+            "type": 3
+          },
+          {
+            "foldername": "shadows",
+            "fingerprint": 2826136401,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2199692995,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2862833350,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1539909,
+        "projectId": 283644,
+        "packageFingerprintId": 304809249,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 1783933,
+        "gameVersionId": 6756,
+        "gameId": 432,
+        "FileNameOnDisk": "Placebo-1.12.2-1.6.0.jar"
+      },
+      "dateInstalled": "2019-06-10T16:00:14.8507278Z",
+      "dateUpdated": "2018-06-10T16:00:14.8507278Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 247357,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -7224,66 +7217,6 @@
       "dateInstalled": "2019-05-28T19:00:32.8345652Z",
       "dateUpdated": "2019-05-28T19:00:32.8385649Z",
       "dateLastUpdateAttempted": "2019-05-28T19:00:32.8385649Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 283644,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2694382,
-        "displayName": "Placebo-1.12.2-1.6.0.jar",
-        "fileName": "Placebo-1.12.2-1.6.0.jar",
-        "fileDate": "2019-04-01T17:45:01.17Z",
-        "fileLength": 76902,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3586471488,
-            "type": 0
-          },
-          {
-            "foldername": "shadows",
-            "fingerprint": 2826136401,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2199692995,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2862833350,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Placebo-1.12.2-1.6.0.jar"
-      },
-      "dateInstalled": "2019-05-28T18:36:37.6220625Z",
-      "dateUpdated": "2019-05-28T18:36:37.6240626Z",
-      "dateLastUpdateAttempted": "2019-05-28T18:36:37.6240626Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
