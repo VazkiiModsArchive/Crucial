@@ -25,16 +25,28 @@ JEI.removeAndHide(<earthworks:tool_gold_hammer>);
 JEI.removeAndHide(<earthworks:tool_diamond_hammer>);
 JEI.removeAndHide(<jaff:iron_hook>);
 JEI.removeAndHide(<yoyos:cord>);
+JEI.removeAndHide(<base:wrench>);
+JEI.removeAndHide(<nex:golden_wither_bone_hammer>);
+JEI.hide(<charset:icon>);
+JEI.hide(<familiarfauna:ff_icon>);
+JEI.hide(<quark:glowstone_dust_block>);
+JEI.hide(<quark:gunpowder_block>);
+JEI.hide(<redstoneplusplus:debug>);
 JEI.removeAndHide(<storagedrawers:keybutton:*>);
 JEI.removeAndHide(<storagedrawers:basicdrawers:1>);
 JEI.removeAndHide(<storagedrawers:basicdrawers:2>);
 JEI.removeAndHide(<storagedrawers:basicdrawers:3>);
 JEI.removeAndHide(<storagedrawers:basicdrawers:4>);
+JEI.removeAndHide(<inspirations:materials:4>);
+JEI.removeAndHide(<inspirations:materials:5>);
 
 removeFromJEIRegex("earthworks:.*slate.*");
 removeFromJEIRegex("redstoneplusplus:.*dummy.*");
 removeFromJEIRegex("storagedrawers:.*upgrade.*");
 removeFromJEIRegex("traverse:fir_.*");
+
+hideFromJEIRegex("ore_stone_variants:.*");
+JEI.hide(<ore_stone_variants:lapis_ore:1>);
 
 recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>);
 recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);
@@ -46,5 +58,12 @@ function removeFromJEIRegex(exp as string) {
 	var allItems = itemUtils.getItemsByRegexRegistryName(exp) as IItemStack[];
 	for item in allItems {
 		JEI.removeAndHide(item);
+	}
+}
+
+function hideFromJEIRegex(exp as string) {
+	var allItems = itemUtils.getItemsByRegexRegistryName(exp) as IItemStack[];
+	for item in allItems {
+		JEI.hide(item);
 	}
 }
