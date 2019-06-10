@@ -11,7 +11,7 @@ recipes.addShapeless("wither_dust", <quark:black_ash> * 3, [ <nex:wither_bone> ]
 recipes.addShaped("ez_collector", <inspirations:collector>,
 	[[null, null, wood],
 	[null, wood, stringItem],
-	[stick , <minecraft:dropper>, stringItem]]);
+	[stick, <minecraft:dropper>, stringItem]]);
 
 // Wooden Scaffold with Bamboo
 recipes.removeByRecipeName("notenoughscaffold:wooden_scaffold");

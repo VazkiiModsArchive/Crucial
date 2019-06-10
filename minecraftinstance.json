@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-10T15:09:29.5648583Z",
+  "lastPlayed": "2019-06-10T15:52:39.9703027Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -402,6 +402,21 @@
       "fileSize": 75166
     },
     {
+      "folderName": "base-1.12.2-3.13.0.jar",
+      "fingerprint": 503243924,
+      "fileDateHash": 3497636749,
+      "sectionID": 8,
+      "individualFingerprints": [
+        503243924
+      ],
+      "status": 1,
+      "timestamp": "2019-06-10T15:45:57.924346Z",
+      "lastWriteTimeUtc": "2019-06-10T15:31:26.1115528Z",
+      "queryTimestamp": "2019-06-10T15:45:58.8228705Z",
+      "fileCount": 1,
+      "fileSize": 685028
+    },
+    {
       "folderName": "Redstone++ ver1.2d.jar",
       "fingerprint": 1707561293,
       "fileDateHash": 569141436,
@@ -565,6 +580,21 @@
       "queryTimestamp": "2019-06-09T16:40:48.0543134Z",
       "fileCount": 1,
       "fileSize": 5200
+    },
+    {
+      "folderName": "EnderCore-1.12.2-0.5.57.jar",
+      "fingerprint": 2833802509,
+      "fileDateHash": 3108448186,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2833802509
+      ],
+      "status": 1,
+      "timestamp": "2019-06-10T15:10:50.8274144Z",
+      "lastWriteTimeUtc": "2019-06-09T18:35:10.8416836Z",
+      "queryTimestamp": "2019-06-10T15:10:51.3724124Z",
+      "fileCount": 1,
+      "fileSize": 638350
     },
     {
       "folderName": "Plated-0.1.0.jar",
@@ -834,19 +864,19 @@
       "fileSize": 0
     },
     {
-      "folderName": "Charm-1.12.2-1.1.5.jar",
-      "fingerprint": 932623882,
-      "fileDateHash": 3879940938,
+      "folderName": "dwmh-2.1.1.jar",
+      "fingerprint": 1816447688,
+      "fileDateHash": 4118960183,
       "sectionID": 8,
       "individualFingerprints": [
-        932623882
+        1816447688
       ],
       "status": 1,
-      "timestamp": "2019-06-09T16:40:46.6803126Z",
-      "lastWriteTimeUtc": "2019-06-09T13:43:09.7473295Z",
-      "queryTimestamp": "2019-06-09T16:40:48.0603116Z",
+      "timestamp": "2019-06-10T15:10:50.8234127Z",
+      "lastWriteTimeUtc": "2019-06-09T18:34:39.3920829Z",
+      "queryTimestamp": "2019-06-10T15:10:51.3744133Z",
       "fileCount": 1,
-      "fileSize": 2308043
+      "fileSize": 670828
     },
     {
       "folderName": "stygian-1.0.4.jar",
@@ -980,43 +1010,58 @@
     },
     {
       "folderName": "Copy of New World",
-      "fingerprint": 1638452173,
-      "fileDateHash": 1617073265,
+      "fingerprint": 3361160589,
+      "fileDateHash": 3678934877,
       "sectionID": 10,
       "individualFingerprints": [
-        269335644,
+        376253727,
         489458212,
         489458212,
-        740313281,
         758054953,
         758054953,
         758054953,
+        777802373,
         946462619,
-        986817984,
-        1043775659,
+        1225532734,
         1277334193,
-        1923561062,
-        1964468812,
+        1583891802,
         2336574816,
         2374522350,
-        2602604327,
+        2713533388,
         2748824091,
         2748824091,
         2748824091,
+        2750723677,
         2968760594,
-        3117030829,
-        3206853545,
-        3243339350,
-        3895504482,
-        3964248422,
+        3255329423,
+        3322237319,
+        3377452404,
+        3483878321,
+        3501910152,
+        3550576869,
         4213863462
       ],
       "status": 1,
-      "timestamp": "2019-06-09T18:08:50.7017089Z",
-      "lastWriteTimeUtc": "2019-06-09T18:07:08.7262082Z",
-      "queryTimestamp": "2019-06-09T18:09:12.3731411Z",
+      "timestamp": "2019-06-10T15:45:57.9423437Z",
+      "lastWriteTimeUtc": "2019-06-10T15:42:56.0840748Z",
+      "queryTimestamp": "2019-06-10T15:45:58.8278712Z",
       "fileCount": 13,
       "fileSize": 0
+    },
+    {
+      "folderName": "Charm-1.12.2-1.1.7.jar",
+      "fingerprint": 464475882,
+      "fileDateHash": 1189470671,
+      "sectionID": 8,
+      "individualFingerprints": [
+        464475882
+      ],
+      "status": 1,
+      "timestamp": "2019-06-10T15:45:57.9273443Z",
+      "lastWriteTimeUtc": "2019-06-10T15:31:27.6685521Z",
+      "queryTimestamp": "2019-06-10T15:45:58.82887Z",
+      "fileCount": 1,
+      "fileSize": 2311271
     },
     {
       "folderName": "Farseek-1.12-2.3.2.jar",
@@ -1047,6 +1092,21 @@
       "queryTimestamp": "2019-06-09T16:40:48.0623118Z",
       "fileCount": 1,
       "fileSize": 1363935
+    },
+    {
+      "folderName": "ContentTweaker-1.12.2-4.9.1.jar",
+      "fingerprint": 4180990591,
+      "fileDateHash": 3806919987,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4180990591
+      ],
+      "status": 1,
+      "timestamp": "2019-06-10T15:10:50.8224122Z",
+      "lastWriteTimeUtc": "2019-06-09T18:35:23.1923782Z",
+      "queryTimestamp": "2019-06-10T15:10:51.3764126Z",
+      "fileCount": 1,
+      "fileSize": 274895
     },
     {
       "folderName": "CoralReef-2.5-1.12.2.jar",
@@ -1169,19 +1229,19 @@
       "fileSize": 0
     },
     {
-      "folderName": "yoyos_1.12.2-1.2.2.20.jar",
-      "fingerprint": 3030401415,
-      "fileDateHash": 1078972420,
+      "folderName": "LootTweaker-1.12.2-0.0.9.jar",
+      "fingerprint": 846073683,
+      "fileDateHash": 928069867,
       "sectionID": 8,
       "individualFingerprints": [
-        3030401415
+        846073683
       ],
       "status": 1,
-      "timestamp": "2019-05-28T17:20:19.6590396Z",
-      "lastWriteTimeUtc": "2019-05-28T17:14:25.8025653Z",
-      "queryTimestamp": "2019-06-09T16:40:48.0623118Z",
+      "timestamp": "2019-06-10T15:10:50.8314142Z",
+      "lastWriteTimeUtc": "2019-06-09T18:35:26.4795559Z",
+      "queryTimestamp": "2019-06-10T15:10:51.3764126Z",
       "fileCount": 1,
-      "fileSize": 176838
+      "fileSize": 62058
     },
     {
       "folderName": "New World----",
@@ -1527,6 +1587,21 @@
       "fileSize": 41639
     },
     {
+      "folderName": "yoyos_1.12.2-1.3.0.21.jar",
+      "fingerprint": 2438819787,
+      "fileDateHash": 3125690516,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2438819787
+      ],
+      "status": 1,
+      "timestamp": "2019-06-10T15:45:57.940344Z",
+      "lastWriteTimeUtc": "2019-06-10T15:31:32.7946169Z",
+      "queryTimestamp": "2019-06-10T15:45:58.8318697Z",
+      "fileCount": 1,
+      "fileSize": 329799
+    },
+    {
       "folderName": "DynamicSurroundings-1.12.2-3.5.4.3.jar",
       "fingerprint": 547702170,
       "fileDateHash": 778395261,
@@ -1713,7 +1788,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-06-09T18:09:17.2331426Z",
+  "lastPreviousMatchUpdate": "2019-06-10T15:45:59.2688712Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -2760,14 +2835,14 @@
       "addonID": 318872,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
-        "id": 2721664,
-        "displayName": "Charm-1.12.2-1.1.5.jar",
-        "fileName": "Charm-1.12.2-1.1.5.jar",
-        "fileDate": "2019-06-08T00:50:22.753Z",
-        "fileLength": 2308043,
+        "id": 2722390,
+        "displayName": "Charm-1.12.2-1.1.7.jar",
+        "fileName": "Charm-1.12.2-1.1.7.jar",
+        "fileDate": "2019-06-09T15:34:34.443Z",
+        "fileLength": 2311271,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2721/664/Charm-1.12.2-1.1.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2722/390/Charm-1.12.2-1.1.7.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2775,26 +2850,26 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 180142413,
+            "fingerprint": 1461393285,
             "type": 0
           },
           {
             "foldername": "svenhjol",
-            "fingerprint": 1080369830,
+            "fingerprint": 507939428,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2483934941,
+            "fingerprint": 3009024026,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3668884348,
+            "fingerprint": 2221675865,
             "type": 0
           }
         ],
-        "packageFingerprint": 932623882,
+        "packageFingerprint": 464475882,
         "gameVersion": [
           "1.12.2"
         ],
@@ -2805,12 +2880,12 @@
         "projectStatus": 0,
         "projectId": 0,
         "gameId": 0,
-        "FileNameOnDisk": "Charm-1.12.2-1.1.5.jar"
+        "FileNameOnDisk": "Charm-1.12.2-1.1.7.jar"
       },
       "dateInstalled": "2019-06-06T04:12:34.32463Z",
-      "dateUpdated": "2019-06-09T13:43:09.7503295Z",
-      "dateLastUpdateAttempted": "2019-06-09T13:43:09.7503295Z",
-      "status": 3,
+      "dateUpdated": "2019-06-10T15:31:27.6725549Z",
+      "dateLastUpdateAttempted": "2019-06-10T15:31:27.6725549Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3477,17 +3552,23 @@
       "addonID": 262692,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
-        "id": 2536187,
-        "displayName": "yoyos_1.12.2-1.2.2.20.jar",
-        "fileName": "yoyos_1.12.2-1.2.2.20.jar",
-        "fileDate": "2018-02-28T22:27:48.333Z",
-        "fileLength": 176838,
+        "id": 2722622,
+        "displayName": "yoyos_1.12.2-1.3.0.21.jar",
+        "fileName": "yoyos_1.12.2-1.3.0.21.jar",
+        "fileDate": "2019-06-10T00:03:49.88Z",
+        "fileLength": 329799,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2536/187/yoyos_1.12.2-1.2.2.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2722/622/yoyos_1.12.2-1.3.0.21.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
+        "alternateFileId": 2722624,
         "dependencies": [
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          },
           {
             "id": 0,
             "addonId": 263624,
@@ -3496,13 +3577,13 @@
           },
           {
             "id": 0,
-            "addonId": 260327,
+            "addonId": 74072,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 74072,
+            "addonId": 260327,
             "type": 2,
             "fileId": 0
           }
@@ -3511,26 +3592,26 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 409689280,
+            "fingerprint": 4150272059,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1597242374,
+            "fingerprint": 3343307963,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 4076734055,
+            "fingerprint": 1066019117,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 514866775,
+            "fingerprint": 3986558396,
             "type": 0
           }
         ],
-        "packageFingerprint": 3030401415,
+        "packageFingerprint": 2438819787,
         "gameVersion": [
           "1.12",
           "1.12.1",
@@ -3543,12 +3624,12 @@
         "projectStatus": 0,
         "projectId": 0,
         "gameId": 0,
-        "FileNameOnDisk": "yoyos_1.12.2-1.2.2.20.jar"
+        "FileNameOnDisk": "yoyos_1.12.2-1.3.0.21.jar"
       },
       "dateInstalled": "2019-05-28T17:14:25.8035646Z",
-      "dateUpdated": "2019-05-28T17:14:25.8045677Z",
-      "dateLastUpdateAttempted": "2019-05-28T17:14:25.8045677Z",
-      "status": 3,
+      "dateUpdated": "2019-06-10T15:31:32.7966204Z",
+      "dateLastUpdateAttempted": "2019-06-10T15:31:32.7966204Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5315,14 +5396,14 @@
       "addonID": 246996,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
-        "id": 2702845,
-        "displayName": "base-1.12.2-3.12.1.jar",
-        "fileName": "base-1.12.2-3.12.1.jar",
-        "fileDate": "2019-04-23T21:58:20.107Z",
-        "fileLength": 647117,
+        "id": 2722575,
+        "displayName": "base-1.12.2-3.13.0.jar",
+        "fileName": "base-1.12.2-3.13.0.jar",
+        "fileDate": "2019-06-09T22:04:30.68Z",
+        "fileLength": 685028,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2702/845/base-1.12.2-3.12.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2722/575/base-1.12.2-3.13.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5330,31 +5411,31 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2195605691,
+            "fingerprint": 324652980,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 4288583134,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1419535477,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 353364010,
+            "fingerprint": 2573585935,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 517476909,
             "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1188982169,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2088180633,
+            "type": 0
           }
         ],
-        "packageFingerprint": 1761973342,
+        "packageFingerprint": 503243924,
         "gameVersion": [
           "1.12.2"
         ],
@@ -5365,12 +5446,12 @@
         "projectStatus": 0,
         "projectId": 0,
         "gameId": 0,
-        "FileNameOnDisk": "base-1.12.2-3.12.1.jar"
+        "FileNameOnDisk": "base-1.12.2-3.13.0.jar"
       },
       "dateInstalled": "2019-06-09T18:35:22.7599298Z",
-      "dateUpdated": "2019-06-09T18:35:22.76292Z",
-      "dateLastUpdateAttempted": "2019-06-09T18:35:22.76292Z",
-      "status": 3,
+      "dateUpdated": "2019-06-10T15:31:26.123552Z",
+      "dateLastUpdateAttempted": "2019-06-10T15:31:26.123552Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

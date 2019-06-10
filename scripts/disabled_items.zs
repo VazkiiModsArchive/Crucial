@@ -34,10 +34,13 @@ JEI.removeAndHide(<storagedrawers:basicdrawers:4>);
 removeFromJEIRegex("earthworks:.*slate.*");
 removeFromJEIRegex("redstoneplusplus:.*dummy.*");
 removeFromJEIRegex("storagedrawers:.*upgrade.*");
+removeFromJEIRegex("traverse:fir_.*");
 
 recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>);
 recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);
 recipes.replaceAllOccurences(<yoyos:cord>, <minecraft:string>);
+
+recipes.removeByRegex("traverse:fir_.*");
 
 function removeFromJEIRegex(exp as string) {
 	var allItems = itemUtils.getItemsByRegexRegistryName(exp) as IItemStack[];
