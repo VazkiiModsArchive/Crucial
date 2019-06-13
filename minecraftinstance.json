@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-13T18:50:46.1889146Z",
+  "lastPlayed": "2019-06-13T19:37:42.1740846Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2141,6 +2141,73 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 253211,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2684561,
+        "displayName": "MTLib-3.0.6",
+        "fileName": "MTLib-3.0.6.jar",
+        "fileDate": "2019-03-07T23:02:28.413Z",
+        "fileLength": 30002,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2684/561/MTLib-3.0.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3365396811,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2697108139,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2935607937,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 396445966,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "MTLib-3.0.6.jar"
+      },
+      "dateInstalled": "2019-06-13T19:13:08.583919Z",
+      "dateUpdated": "2019-06-13T19:13:08.5859185Z",
+      "dateLastUpdateAttempted": "2019-06-13T19:13:08.5859185Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 230497,
@@ -5200,6 +5267,78 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 220954,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2693544,
+        "displayName": "modtweaker-4.0.17",
+        "fileName": "modtweaker-4.0.17.jar",
+        "fileDate": "2019-03-31T00:36:48.98Z",
+        "fileLength": 447874,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2693/544/modtweaker-4.0.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 253211,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4050752276,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 290369909,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4128909965,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1420232274,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2501908090,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "modtweaker-4.0.17.jar"
+      },
+      "dateInstalled": "2019-06-13T19:13:08.9789417Z",
+      "dateUpdated": "2019-06-13T19:13:08.9879429Z",
+      "dateLastUpdateAttempted": "2019-06-13T19:13:08.9879429Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 306549,

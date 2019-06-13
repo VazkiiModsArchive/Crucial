@@ -41,6 +41,8 @@ JEI.removeAndHide(<inspirations:materials:4>);
 JEI.removeAndHide(<inspirations:materials:5>);
 
 removeFromJEIRegex("earthworks:.*slate.*");
+removeFromJEIRegex("earthworks:.*chalk.*");
+removeFromJEIRegex("earthworks:.*concrete.*");
 removeFromJEIRegex("redstoneplusplus:.*dummy.*");
 removeFromJEIRegex("storagedrawers:.*upgrade.*");
 removeFromJEIRegex("traverse:fir_.*");

@@ -81,11 +81,6 @@ minecraft:llama_spit
 minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-quark:chest_passenger
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -100,6 +95,11 @@ quark:ashen
 quark:pirate
 quark:wraith
 quark:frog
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:chest_passenger
 quark:totem_of_holding
 redstoneplusplus:furnace_minecart
 charm:charged_emerald
