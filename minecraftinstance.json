@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-10T22:34:53.1424904Z",
+  "lastPlayed": "2019-06-13T18:50:46.1889146Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -945,21 +945,6 @@
       "fileSize": 0
     },
     {
-      "folderName": "Charm-1.12.2-1.1.7.jar",
-      "fingerprint": 464475882,
-      "fileDateHash": 1189470671,
-      "sectionID": 8,
-      "individualFingerprints": [
-        464475882
-      ],
-      "status": 1,
-      "timestamp": "2019-06-10T15:45:57.9273443Z",
-      "lastWriteTimeUtc": "2019-06-10T15:31:27.6685521Z",
-      "queryTimestamp": "2019-06-10T15:45:58.82887Z",
-      "fileCount": 1,
-      "fileSize": 2311271
-    },
-    {
       "folderName": "Farseek-1.12-2.3.2.jar",
       "fingerprint": 1273585918,
       "fileDateHash": 12193453,
@@ -973,6 +958,21 @@
       "queryTimestamp": "2019-06-10T16:50:49.8027929Z",
       "fileCount": 1,
       "fileSize": 482035
+    },
+    {
+      "folderName": "Charm-1.12.2-1.1.7.jar",
+      "fingerprint": 464475882,
+      "fileDateHash": 1189470671,
+      "sectionID": 8,
+      "individualFingerprints": [
+        464475882
+      ],
+      "status": 1,
+      "timestamp": "2019-06-10T15:45:57.9273443Z",
+      "lastWriteTimeUtc": "2019-06-10T15:31:27.6685521Z",
+      "queryTimestamp": "2019-06-10T15:45:58.82887Z",
+      "fileCount": 1,
+      "fileSize": 2311271
     },
     {
       "folderName": "CraftTweaker2-1.12-4.1.18.jar",
@@ -1393,21 +1393,6 @@
       "fileSize": 21613
     },
     {
-      "folderName": "Erosion-2.2.1.jar",
-      "fingerprint": 2643068269,
-      "fileDateHash": 188606248,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2643068269
-      ],
-      "status": 1,
-      "timestamp": "2019-06-10T16:50:49.1187933Z",
-      "lastWriteTimeUtc": "2019-06-10T16:48:48.7372368Z",
-      "queryTimestamp": "2019-06-10T16:50:49.8047928Z",
-      "fileCount": 1,
-      "fileSize": 26999
-    },
-    {
       "folderName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
       "fingerprint": 1663259258,
       "fileDateHash": 1731573717,
@@ -1423,19 +1408,19 @@
       "fileSize": 62668
     },
     {
-      "folderName": "QuarkOddities-1.12.2.jar",
-      "fingerprint": 4267477614,
-      "fileDateHash": 365475679,
+      "folderName": "Erosion-2.2.1.jar",
+      "fingerprint": 2643068269,
+      "fileDateHash": 188606248,
       "sectionID": 8,
       "individualFingerprints": [
-        4267477614
+        2643068269
       ],
       "status": 1,
-      "timestamp": "2019-05-28T17:20:18.3920059Z",
-      "lastWriteTimeUtc": "2019-05-28T17:10:33.2464958Z",
-      "queryTimestamp": "2019-06-10T16:50:49.8057927Z",
+      "timestamp": "2019-06-10T16:50:49.1187933Z",
+      "lastWriteTimeUtc": "2019-06-10T16:48:48.7372368Z",
+      "queryTimestamp": "2019-06-10T16:50:49.8047928Z",
       "fileCount": 1,
-      "fileSize": 1556
+      "fileSize": 26999
     },
     {
       "folderName": "SimplifiedHorses-v1.2.1-1.11.jar",
@@ -1453,6 +1438,21 @@
       "fileSize": 79887
     },
     {
+      "folderName": "QuarkOddities-1.12.2.jar",
+      "fingerprint": 4267477614,
+      "fileDateHash": 365475679,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4267477614
+      ],
+      "status": 1,
+      "timestamp": "2019-05-28T17:20:18.3920059Z",
+      "lastWriteTimeUtc": "2019-05-28T17:10:33.2464958Z",
+      "queryTimestamp": "2019-06-10T16:50:49.8057927Z",
+      "fileCount": 1,
+      "fileSize": 1556
+    },
+    {
       "folderName": "Chameleon-1.12-4.1.3.jar",
       "fingerprint": 2760206313,
       "fileDateHash": 2799037674,
@@ -1466,21 +1466,6 @@
       "queryTimestamp": "2019-06-10T16:50:49.8057927Z",
       "fileCount": 1,
       "fileSize": 96859
-    },
-    {
-      "folderName": "Tips-1.12.2-1.0.7.jar",
-      "fingerprint": 2282999150,
-      "fileDateHash": 2582430310,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2282999150
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2456015Z",
-      "lastWriteTimeUtc": "2019-05-28T19:36:45.8596516Z",
-      "queryTimestamp": "2019-06-10T16:50:49.8057927Z",
-      "fileCount": 1,
-      "fileSize": 19209
     },
     {
       "folderName": "wards-1.3.1.jar",
@@ -1498,6 +1483,21 @@
       "fileSize": 41639
     },
     {
+      "folderName": "Tips-1.12.2-1.0.7.jar",
+      "fingerprint": 2282999150,
+      "fileDateHash": 2582430310,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2282999150
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T14:57:50.2456015Z",
+      "lastWriteTimeUtc": "2019-05-28T19:36:45.8596516Z",
+      "queryTimestamp": "2019-06-10T16:50:49.8057927Z",
+      "fileCount": 1,
+      "fileSize": 19209
+    },
+    {
       "folderName": "yoyos_1.12.2-1.3.0.21.jar",
       "fingerprint": 2438819787,
       "fileDateHash": 3125690516,
@@ -1513,21 +1513,6 @@
       "fileSize": 329799
     },
     {
-      "folderName": "DynamicSurroundings-1.12.2-3.5.4.3.jar",
-      "fingerprint": 547702170,
-      "fileDateHash": 778395261,
-      "sectionID": 8,
-      "individualFingerprints": [
-        547702170
-      ],
-      "status": 1,
-      "timestamp": "2019-05-28T17:20:16.3310362Z",
-      "lastWriteTimeUtc": "2019-05-28T17:15:33.9499972Z",
-      "queryTimestamp": "2019-06-10T16:50:49.8067935Z",
-      "fileCount": 1,
-      "fileSize": 14779288
-    },
-    {
       "folderName": "stg-1.12.2-1.2.3.jar",
       "fingerprint": 201836877,
       "fileDateHash": 1292295434,
@@ -1541,6 +1526,21 @@
       "queryTimestamp": "2019-06-10T16:50:49.8067935Z",
       "fileCount": 1,
       "fileSize": 24024
+    },
+    {
+      "folderName": "DynamicSurroundings-1.12.2-3.5.4.3.jar",
+      "fingerprint": 547702170,
+      "fileDateHash": 778395261,
+      "sectionID": 8,
+      "individualFingerprints": [
+        547702170
+      ],
+      "status": 1,
+      "timestamp": "2019-05-28T17:20:16.3310362Z",
+      "lastWriteTimeUtc": "2019-05-28T17:15:33.9499972Z",
+      "queryTimestamp": "2019-06-10T16:50:49.8067935Z",
+      "fileCount": 1,
+      "fileSize": 14779288
     },
     {
       "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
@@ -1588,6 +1588,45 @@
       "fileSize": 5222
     },
     {
+      "folderName": "New World-",
+      "fingerprint": 691842160,
+      "fileDateHash": 896218357,
+      "sectionID": 10,
+      "individualFingerprints": [
+        56617908,
+        58997939,
+        317614449,
+        489458212,
+        489458212,
+        758054953,
+        758054953,
+        758054953,
+        1045429436,
+        1353853085,
+        1417013450,
+        1874791694,
+        2087718350,
+        2255112444,
+        2336574816,
+        2748824091,
+        2748824091,
+        2748824091,
+        2848465194,
+        2956471482,
+        3291525555,
+        3295555499,
+        3301873366,
+        3394909766,
+        3727388028
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T14:57:50.2526027Z",
+      "lastWriteTimeUtc": "2019-05-28T19:35:58.8966354Z",
+      "queryTimestamp": "2019-06-10T16:50:49.8067935Z",
+      "fileCount": 13,
+      "fileSize": 0
+    },
+    {
       "folderName": "New World------",
       "fingerprint": 4237994013,
       "fileDateHash": 845426389,
@@ -1624,45 +1663,6 @@
       "status": 1,
       "timestamp": "2019-06-09T16:40:47.224313Z",
       "lastWriteTimeUtc": "2019-06-09T14:04:06.9799276Z",
-      "queryTimestamp": "2019-06-10T16:50:49.8067935Z",
-      "fileCount": 13,
-      "fileSize": 0
-    },
-    {
-      "folderName": "New World-",
-      "fingerprint": 691842160,
-      "fileDateHash": 896218357,
-      "sectionID": 10,
-      "individualFingerprints": [
-        56617908,
-        58997939,
-        317614449,
-        489458212,
-        489458212,
-        758054953,
-        758054953,
-        758054953,
-        1045429436,
-        1353853085,
-        1417013450,
-        1874791694,
-        2087718350,
-        2255112444,
-        2336574816,
-        2748824091,
-        2748824091,
-        2748824091,
-        2848465194,
-        2956471482,
-        3291525555,
-        3295555499,
-        3301873366,
-        3394909766,
-        3727388028
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2526027Z",
-      "lastWriteTimeUtc": "2019-05-28T19:35:58.8966354Z",
       "queryTimestamp": "2019-06-10T16:50:49.8067935Z",
       "fileCount": 13,
       "fileSize": 0
@@ -2676,14 +2676,14 @@
       "addonID": 318872,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
-        "id": 2722390,
-        "displayName": "Charm-1.12.2-1.1.7.jar",
-        "fileName": "Charm-1.12.2-1.1.7.jar",
-        "fileDate": "2019-06-09T15:34:34.443Z",
-        "fileLength": 2311271,
+        "id": 2723717,
+        "displayName": "Charm-1.12.2-1.1.12.jar",
+        "fileName": "Charm-1.12.2-1.1.12.jar",
+        "fileDate": "2019-06-12T11:41:46.677Z",
+        "fileLength": 2306590,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2722/390/Charm-1.12.2-1.1.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2723/717/Charm-1.12.2-1.1.12.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2691,26 +2691,26 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1461393285,
+            "fingerprint": 1835985129,
             "type": 0
           },
           {
             "foldername": "svenhjol",
-            "fingerprint": 507939428,
+            "fingerprint": 3766007864,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3009024026,
+            "fingerprint": 1052942546,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2221675865,
+            "fingerprint": 2434569870,
             "type": 0
           }
         ],
-        "packageFingerprint": 464475882,
+        "packageFingerprint": 743797338,
         "gameVersion": [
           "1.12.2"
         ],
@@ -2721,11 +2721,11 @@
         "projectStatus": 0,
         "projectId": 0,
         "gameId": 0,
-        "FileNameOnDisk": "Charm-1.12.2-1.1.7.jar"
+        "FileNameOnDisk": "Charm-1.12.2-1.1.12.jar"
       },
       "dateInstalled": "2019-06-06T04:12:34.32463Z",
-      "dateUpdated": "2019-06-10T15:31:27.6725549Z",
-      "dateLastUpdateAttempted": "2019-06-10T15:31:27.6725549Z",
+      "dateUpdated": "2019-06-13T18:06:24.426596Z",
+      "dateLastUpdateAttempted": "2019-06-13T18:06:24.426596Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2858,7 +2858,7 @@
       "dateInstalled": "2019-06-10T22:34:36.3654989Z",
       "dateUpdated": "2019-06-10T22:34:36.3674902Z",
       "dateLastUpdateAttempted": "2019-06-10T22:34:36.3674902Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2867,7 +2867,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 308653,
@@ -3462,7 +3462,7 @@
       "dateInstalled": "2019-05-28T17:14:25.8035646Z",
       "dateUpdated": "2019-06-10T15:31:32.7966204Z",
       "dateLastUpdateAttempted": "2019-06-10T15:31:32.7966204Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4715,7 +4715,7 @@
       "dateInstalled": "2019-06-09T18:35:26.4795559Z",
       "dateUpdated": "2019-06-09T18:35:26.4815579Z",
       "dateLastUpdateAttempted": "2019-06-09T18:35:26.4815579Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4730,14 +4730,14 @@
       "addonID": 239197,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
-        "id": 2713681,
-        "displayName": "CraftTweaker2-1.12-4.1.18",
-        "fileName": "CraftTweaker2-1.12-4.1.18.jar",
-        "fileDate": "2019-05-20T17:28:24.927Z",
-        "fileLength": 1363935,
+        "id": 2724129,
+        "displayName": "CraftTweaker2-1.12-4.1.19",
+        "fileName": "CraftTweaker2-1.12-4.1.19.jar",
+        "fileDate": "2019-06-13T10:50:46.937Z",
+        "fileLength": 1368377,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2713/681/CraftTweaker2-1.12-4.1.18.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2724/129/CraftTweaker2-1.12-4.1.19.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4745,7 +4745,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3469346089,
+            "fingerprint": 455225493,
             "type": 0
           },
           {
@@ -4755,7 +4755,7 @@
           },
           {
             "foldername": "crafttweaker",
-            "fingerprint": 3747970071,
+            "fingerprint": 913092322,
             "type": 0
           },
           {
@@ -4770,11 +4770,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1366384790,
+            "fingerprint": 4262654729,
             "type": 0
           }
         ],
-        "packageFingerprint": 3944483312,
+        "packageFingerprint": 4052665094,
         "gameVersion": [
           "1.12.2"
         ],
@@ -4785,12 +4785,12 @@
         "projectStatus": 0,
         "projectId": 0,
         "gameId": 0,
-        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.18.jar"
+        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.19.jar"
       },
       "dateInstalled": "2019-05-28T17:15:35.59945Z",
-      "dateUpdated": "2019-05-28T17:15:35.6014496Z",
-      "dateLastUpdateAttempted": "2019-05-28T17:15:35.6014496Z",
-      "status": 5,
+      "dateUpdated": "2019-06-13T18:06:25.0967049Z",
+      "dateLastUpdateAttempted": "2019-06-13T18:06:25.0967049Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5190,7 +5190,7 @@
       "dateInstalled": "2019-06-10T17:27:51.1640939Z",
       "dateUpdated": "2019-06-10T17:27:51.1710936Z",
       "dateLastUpdateAttempted": "2019-06-10T17:27:51.1710936Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5199,7 +5199,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306549,
@@ -5405,7 +5405,7 @@
       "dateInstalled": "2019-06-09T18:35:22.7599298Z",
       "dateUpdated": "2019-06-10T15:31:26.123552Z",
       "dateLastUpdateAttempted": "2019-06-10T15:31:26.123552Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5420,82 +5420,69 @@
       "addonID": 243121,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
-        "id": 2722372,
-        "displayName": "Quark-r1.5-158.jar",
-        "fileName": "Quark-r1.5-158.jar",
-        "fileDate": "2019-06-09T14:25:27.84Z",
-        "fileLength": 2578643,
+        "id": 2724128,
+        "displayName": "Quark-r1.5-159.jar",
+        "fileName": "Quark-r1.5-159.jar",
+        "fileDate": "2019-06-13T10:50:13.377Z",
+        "fileLength": 2580250,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2722/372/Quark-r1.5-158.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2724/128/Quark-r1.5-159.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 27052626,
+            "id": 0,
             "addonId": 250363,
             "type": 3,
-            "fileId": 2722372
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1285634509,
-            "type": 3
+            "fingerprint": 3676038446,
+            "type": 0
           },
           {
             "foldername": "vazkii",
-            "fingerprint": 341799651,
-            "type": 3
+            "fingerprint": 1807768859,
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 134982995,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3054011790,
-            "type": 3
+            "fingerprint": 3956107271,
+            "type": 0
           },
           {
             "foldername": "proxypack.mcmeta",
             "fingerprint": 3313685099,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 2703702892,
+        "packageFingerprint": 2184340174,
         "gameVersion": [
           "1.12.2"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1573101,
-        "projectId": 243121,
-        "packageFingerprintId": 322565578,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1830504,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "FileNameOnDisk": "Quark-r1.5-158.jar"
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "Quark-r1.5-159.jar"
       },
       "dateInstalled": "2019-06-09T16:40:48.7983124Z",
-      "dateUpdated": "2018-06-09T16:40:48.7983124Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2019-06-13T18:06:33.5253402Z",
+      "dateLastUpdateAttempted": "2019-06-13T18:06:33.5253402Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6128,7 +6115,7 @@
       "dateInstalled": "2019-06-09T18:35:23.1923782Z",
       "dateUpdated": "2019-06-09T18:35:23.1943802Z",
       "dateLastUpdateAttempted": "2019-06-09T18:35:23.1943802Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6605,7 +6592,7 @@
       "dateInstalled": "2019-06-10T17:12:11.2834263Z",
       "dateUpdated": "2019-06-10T17:12:11.2844243Z",
       "dateLastUpdateAttempted": "2019-06-10T17:12:11.2844243Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6614,7 +6601,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 288885,
@@ -6732,7 +6719,7 @@
       "dateInstalled": "2019-06-10T16:48:48.7382221Z",
       "dateUpdated": "2019-06-10T16:48:48.8482516Z",
       "dateLastUpdateAttempted": "2019-06-10T16:48:48.8482516Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6741,7 +6728,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 60089,
@@ -6876,89 +6863,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 247357,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2623984,
-        "displayName": "extraalchemy-0.3.8.6.1-release.jar",
-        "fileName": "extraalchemy-0.3.8.6.1-release.jar",
-        "fileDate": "2018-10-03T18:54:47.6Z",
-        "fileLength": 210138,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2623/984/extraalchemy-0.3.8.6.1-release.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 303759,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 286348,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3301654993,
-            "type": 0
-          },
-          {
-            "foldername": "zabi",
-            "fingerprint": 2960894183,
-            "type": 0
-          },
-          {
-            "foldername": "changes.txt",
-            "fingerprint": 919028126,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3525745286,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3954124040,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2557455395,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "extraalchemy-0.3.8.6.1-release.jar"
-      },
-      "dateInstalled": "2019-05-28T19:00:32.8345652Z",
-      "dateUpdated": "2019-05-28T19:00:32.8385649Z",
-      "dateLastUpdateAttempted": "2019-05-28T19:00:32.8385649Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 292785,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -7059,6 +6963,89 @@
       "dateInstalled": "2019-05-28T18:02:11.7959743Z",
       "dateUpdated": "2019-05-28T18:02:11.8039764Z",
       "dateLastUpdateAttempted": "2019-05-28T18:02:11.8039764Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 247357,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2623984,
+        "displayName": "extraalchemy-0.3.8.6.1-release.jar",
+        "fileName": "extraalchemy-0.3.8.6.1-release.jar",
+        "fileDate": "2018-10-03T18:54:47.6Z",
+        "fileLength": 210138,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2623/984/extraalchemy-0.3.8.6.1-release.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 303759,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 286348,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3301654993,
+            "type": 0
+          },
+          {
+            "foldername": "zabi",
+            "fingerprint": 2960894183,
+            "type": 0
+          },
+          {
+            "foldername": "changes.txt",
+            "fingerprint": 919028126,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3525745286,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3954124040,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2557455395,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "extraalchemy-0.3.8.6.1-release.jar"
+      },
+      "dateInstalled": "2019-05-28T19:00:32.8345652Z",
+      "dateUpdated": "2019-05-28T19:00:32.8385649Z",
+      "dateLastUpdateAttempted": "2019-05-28T19:00:32.8385649Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
