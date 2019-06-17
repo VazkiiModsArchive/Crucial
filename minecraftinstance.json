@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-17T19:22:17.0345665Z",
+  "lastPlayed": "2019-06-17T20:16:52.6637062Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1172,21 +1172,6 @@
       "fileSize": 30002
     },
     {
-      "folderName": "LootTweaker-1.12.2-0.0.9.jar",
-      "fingerprint": 846073683,
-      "fileDateHash": 928069867,
-      "sectionID": 8,
-      "individualFingerprints": [
-        846073683
-      ],
-      "status": 1,
-      "timestamp": "2019-06-10T15:10:50.8314142Z",
-      "lastWriteTimeUtc": "2019-06-09T18:35:26.4795559Z",
-      "queryTimestamp": "2019-06-13T19:48:01.4086021Z",
-      "fileCount": 1,
-      "fileSize": 62058
-    },
-    {
       "folderName": "New World----",
       "fingerprint": 3828917776,
       "fileDateHash": 3975201562,
@@ -2039,6 +2024,76 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 254848,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2519605,
+        "displayName": "AdditionalEnderBlocks-2.0-1.12.2.jar",
+        "fileName": "AdditionalEnderBlocks-2.0-1.12.2.jar",
+        "fileDate": "2018-01-12T23:34:45.833Z",
+        "fileLength": 44019,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2519/605/AdditionalEnderBlocks-2.0-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0
+          },
+          {
+            "foldername": "panda",
+            "fingerprint": 3350064721,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3567862388,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 416106264,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1448143458,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "AdditionalEnderBlocks-2.0-1.12.2.jar"
+      },
+      "dateInstalled": "2019-06-17T19:34:53.4629197Z",
+      "dateUpdated": "2019-06-17T19:34:53.6654264Z",
+      "dateLastUpdateAttempted": "2019-06-17T19:34:53.6654264Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 322159,
@@ -4488,6 +4543,73 @@
       "installedTargets": null
     },
     {
+      "addonID": 261339,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2541554,
+        "displayName": "LootTableTweaker-1.12.2-1.1.14.jar",
+        "fileName": "LootTableTweaker-1.12.2-1.1.14.jar",
+        "fileDate": "2018-03-16T01:12:15.937Z",
+        "fileLength": 25043,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2541/554/LootTableTweaker-1.12.2-1.1.14.jar",
+        "isAlternate": false,
+        "alternateFileId": 2541555,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1217759552,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4086565539,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1962672455,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2368967896,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "LootTableTweaker-1.12.2-1.1.14.jar"
+      },
+      "dateInstalled": "2019-06-17T19:29:57.8791753Z",
+      "dateUpdated": "2019-06-17T19:29:57.8861756Z",
+      "dateLastUpdateAttempted": "2019-06-17T19:29:57.8861756Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 306770,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -4893,85 +5015,6 @@
       "dateInstalled": "2019-05-28T19:36:42.376001Z",
       "dateUpdated": "2019-05-28T19:36:42.3799918Z",
       "dateLastUpdateAttempted": "2019-05-28T19:36:42.3799918Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 255257,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2688260,
-        "displayName": "LootTweaker-1.12.2-0.0.9.jar",
-        "fileName": "LootTweaker-1.12.2-0.0.9.jar",
-        "fileDate": "2019-03-17T05:12:22.523Z",
-        "fileLength": 62058,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2688/260/LootTweaker-1.12.2-0.0.9.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 239197,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2033934156,
-            "type": 0
-          },
-          {
-            "foldername": "leviathan143",
-            "fingerprint": 3254875133,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3758063921,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3768007865,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1353275925,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 846073683,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "LootTweaker-1.12.2-0.0.9.jar"
-      },
-      "dateInstalled": "2019-06-09T18:35:26.4795559Z",
-      "dateUpdated": "2019-06-09T18:35:26.4815579Z",
-      "dateLastUpdateAttempted": "2019-06-09T18:35:26.4815579Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

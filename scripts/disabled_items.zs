@@ -1,5 +1,6 @@
 import crafttweaker.item.IItemStack;
 import mods.jei.JEI;
+import mods.ltt.LootTable;
 
 JEI.removeAndHide(<charm:crate:*>);
 JEI.removeAndHide(<extraalchemy:vial_break>);
@@ -57,6 +58,8 @@ recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);
 recipes.replaceAllOccurences(<yoyos:cord>, <minecraft:string>);
 
 recipes.removeByRegex("traverse:fir_.*");
+
+LootTable.removeGlobalItem("minecraft:fishing_rod");
 
 function removeFromJEIRegex(exp as string) {
 	var allItems = itemUtils.getItemsByRegexRegistryName(exp) as IItemStack[];
