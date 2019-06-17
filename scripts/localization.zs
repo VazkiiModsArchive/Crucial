@@ -18,3 +18,6 @@ game.setLocalization("en_us", "item.contenttweaker.hawthorn_paste.name", "Hawtho
 game.setLocalization("en_us", "item.contenttweaker.queen_charm.name", "Queen's Charm");
 game.setLocalization("en_us", "item.contenttweaker.iron_chunk.name", "Iron Chunk");
 game.setLocalization("en_us", "item.contenttweaker.gold_chunk.name", "Gold Chunk");
+game.setLocalization("en_us", "item.contenttweaker.psidust.name", "Psidust");
+game.setLocalization("en_us", "tile.contenttweaker.snail_shell_block.name", "Snail Shell Block");
+game.setLocalization("en_us", "tile.contenttweaker.pixie_dust_block.name", "Pixie Dust Block");

@@ -17,12 +17,14 @@ var ironIngot = <ore:ingotIron>;
 var leachstone = <stygian:endmagma>;
 var log = <ore:logWood>;
 var obsidian = <ore:obsidian>;
+var pixieDust = <familiarfauna:pixie_dust>;
 var prismarine = <ore:gemPrismarine>;
 var redstone = <ore:dustRedstone>;
 var rime = <ore:gemRime>;
 var rimeBlock = <ore:blockRime>;
 var salamanderHide = <nex:salamander_hide:*>;
 var slimeball = <ore:slimeball>;
+var snailShell = <familiarfauna:snail_shell>;
 var stick = <ore:stickWood>;
 var stone = <ore:stone>;
 var stringItem = <ore:string>;
@@ -202,3 +204,13 @@ recipes.removeByRecipeName("earthworks:block_reed");
 recipes.addShaped("bamboo_reed", <earthworks:block_reed> * 4,
 	[[bamboo, bamboo],
 	[bamboo, bamboo]]);
+
+// Pixie Dust Block
+recipes.addShaped("pixie_dust_block", <contenttweaker:pixie_dust_block>,
+	[[pixieDust, pixieDust],
+	[pixieDust, pixieDust]]);
+
+// Pixie Dust Block
+recipes.addShaped("snail_shell_block", <contenttweaker:snail_shell_block>,
+	[[snailShell, snailShell],
+	[snailShell, snailShell]]);
