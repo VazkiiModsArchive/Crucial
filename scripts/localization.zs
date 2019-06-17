@@ -11,8 +11,10 @@ game.setLocalization("en_us", "tile.trapexpansion.fan.name", "Levitator");
 game.setLocalization("en_us", "tile.earthworks.block_reed.name", "Bamboo Block");
 game.setLocalization("en_us", "tile.earthworks.slab_reed.name", "Bamboo Slab");
 game.setLocalization("en_us", "tile.earthworks.stair_reed.name", "Bamboo Stairs");
-game.setLocalization("en_us", "tile.earthworks.wall_reed.name", "Bamboo Slab");
+game.setLocalization("en_us", "tile.earthworks.wall_reed.name", "Bamboo Wall");
 
 // Custom Content
 game.setLocalization("en_us", "item.contenttweaker.hawthorn_paste.name", "Hawthorn Paste");
 game.setLocalization("en_us", "item.contenttweaker.queen_charm.name", "Queen's Charm");
+game.setLocalization("en_us", "item.contenttweaker.iron_chunk.name", "Iron Chunk");
+game.setLocalization("en_us", "item.contenttweaker.gold_chunk.name", "Gold Chunk");

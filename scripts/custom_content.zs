@@ -17,3 +17,13 @@ queenCharm.itemGetContainerItem = function(stack) {
 	return stack;
 };
 queenCharm.register();
+
+// Iron Chunk
+var ironChunk = VanillaFactory.createItem("iron_chunk");
+ironChunk.creativeTab = <creativetab:misc>;
+ironChunk.register();
+
+// Gold Chunk
+var goldChunk = VanillaFactory.createItem("gold_chunk");
+goldChunk.creativeTab = <creativetab:misc>;
+goldChunk.register();
