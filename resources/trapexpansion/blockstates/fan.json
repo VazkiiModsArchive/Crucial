@@ -1,0 +1,54 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "top": "trapexpansion:blocks/levitator_side",
+      "side": "trapexpansion:blocks/levitator_side",
+      "front":"trapexpansion:blocks/levitator_top"
+    },
+    "model": "orientable",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory":
+    {
+      "model": "orientable",
+      "transform": "forge:default-block"
+    },
+    "powered":
+    {
+      "true":{
+        "textures":{
+          "front": "trapexpansion:blocks/levitator_top_on"
+        }
+      },
+      "false":{
+        "textures":{
+          "front": "trapexpansion:blocks/levitator_top"
+        }
+      }
+    },
+    "facing":
+    {
+      "north":{
+        "y": 0
+      },
+      "south":{
+        "y": 180
+      },
+      "east":{
+        "y": 90
+      },
+      "west":{
+        "y": 270
+      },
+      "up":{
+        "x": 270
+      },
+      "down":{
+        "x": 90
+      }
+    }
+  }
+}

@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-13T19:48:23.2038181Z",
+  "lastPlayed": "2019-06-17T18:20:28.7067361Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -312,21 +312,6 @@
       "fileSize": 0
     },
     {
-      "folderName": "ConcreteExtends-1.1.2_1.12.jar",
-      "fingerprint": 214900707,
-      "fileDateHash": 3263490369,
-      "sectionID": 8,
-      "individualFingerprints": [
-        214900707
-      ],
-      "status": 1,
-      "timestamp": "2019-06-13T19:48:11.1084645Z",
-      "lastWriteTimeUtc": "2019-06-13T19:47:17.8336271Z",
-      "queryTimestamp": "2019-06-13T19:48:11.3629828Z",
-      "fileCount": 1,
-      "fileSize": 211566
-    },
-    {
       "folderName": "VanillaFix-1.0.10-99.jar",
       "fingerprint": 3241108399,
       "fileDateHash": 1247681742,
@@ -355,6 +340,21 @@
       "queryTimestamp": "2019-06-13T19:48:01.4036006Z",
       "fileCount": 1,
       "fileSize": 25391
+    },
+    {
+      "folderName": "ConcreteExtends-1.1.2_1.12.jar",
+      "fingerprint": 214900707,
+      "fileDateHash": 3263490369,
+      "sectionID": 8,
+      "individualFingerprints": [
+        214900707
+      ],
+      "status": 1,
+      "timestamp": "2019-06-13T19:48:11.1084645Z",
+      "lastWriteTimeUtc": "2019-06-13T19:47:17.8336271Z",
+      "queryTimestamp": "2019-06-13T19:48:11.3629828Z",
+      "fileCount": 1,
+      "fileSize": 211566
     },
     {
       "folderName": "Traverse-1.12.2-1.6.0-69.jar",
@@ -1082,21 +1082,6 @@
       "fileSize": 60430
     },
     {
-      "folderName": "MTLib-3.0.6.jar",
-      "fingerprint": 396445966,
-      "fileDateHash": 4227661050,
-      "sectionID": 8,
-      "individualFingerprints": [
-        396445966
-      ],
-      "status": 1,
-      "timestamp": "2019-06-13T19:48:00.9305225Z",
-      "lastWriteTimeUtc": "2019-06-13T19:13:08.5829192Z",
-      "queryTimestamp": "2019-06-13T19:48:01.4086021Z",
-      "fileCount": 1,
-      "fileSize": 30002
-    },
-    {
       "folderName": "New World-----",
       "fingerprint": 2243947793,
       "fileDateHash": 1670295877,
@@ -1170,6 +1155,21 @@
       "queryTimestamp": "2019-06-13T19:48:01.4086021Z",
       "fileCount": 13,
       "fileSize": 0
+    },
+    {
+      "folderName": "MTLib-3.0.6.jar",
+      "fingerprint": 396445966,
+      "fileDateHash": 4227661050,
+      "sectionID": 8,
+      "individualFingerprints": [
+        396445966
+      ],
+      "status": 1,
+      "timestamp": "2019-06-13T19:48:00.9305225Z",
+      "lastWriteTimeUtc": "2019-06-13T19:13:08.5829192Z",
+      "queryTimestamp": "2019-06-13T19:48:01.4086021Z",
+      "fileCount": 1,
+      "fileSize": 30002
     },
     {
       "folderName": "LootTweaker-1.12.2-0.0.9.jar",
@@ -2250,73 +2250,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 253211,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2684561,
-        "displayName": "MTLib-3.0.6",
-        "fileName": "MTLib-3.0.6.jar",
-        "fileDate": "2019-03-07T23:02:28.413Z",
-        "fileLength": 30002,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2684/561/MTLib-3.0.6.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 239197,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3365396811,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2697108139,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2935607937,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 396445966,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "MTLib-3.0.6.jar"
-      },
-      "dateInstalled": "2019-06-13T19:13:08.583919Z",
-      "dateUpdated": "2019-06-13T19:13:08.5859185Z",
-      "dateLastUpdateAttempted": "2019-06-13T19:13:08.5859185Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 230497,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -2438,6 +2371,73 @@
       "dateInstalled": "2019-05-28T17:35:36.2802318Z",
       "dateUpdated": "2019-05-28T17:35:36.283233Z",
       "dateLastUpdateAttempted": "2019-05-28T17:35:36.283233Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 253211,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2684561,
+        "displayName": "MTLib-3.0.6",
+        "fileName": "MTLib-3.0.6.jar",
+        "fileDate": "2019-03-07T23:02:28.413Z",
+        "fileLength": 30002,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2684/561/MTLib-3.0.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3365396811,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2697108139,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2935607937,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 396445966,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "MTLib-3.0.6.jar"
+      },
+      "dateInstalled": "2019-06-13T19:13:08.583919Z",
+      "dateUpdated": "2019-06-13T19:13:08.5859185Z",
+      "dateLastUpdateAttempted": "2019-06-13T19:13:08.5859185Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2900,7 +2900,7 @@
       "dateInstalled": "2019-06-06T04:12:34.32463Z",
       "dateUpdated": "2019-06-13T18:06:24.426596Z",
       "dateLastUpdateAttempted": "2019-06-13T18:06:24.426596Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4119,7 +4119,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 278494,
@@ -5047,7 +5047,7 @@
       "dateInstalled": "2019-05-28T17:15:35.59945Z",
       "dateUpdated": "2019-06-13T18:06:25.0967049Z",
       "dateLastUpdateAttempted": "2019-06-13T18:06:25.0967049Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5519,7 +5519,7 @@
       "dateInstalled": "2019-06-13T19:13:08.9789417Z",
       "dateUpdated": "2019-06-13T19:13:08.9879429Z",
       "dateLastUpdateAttempted": "2019-06-13T19:13:08.9879429Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5528,7 +5528,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306549,
@@ -5811,7 +5811,7 @@
       "dateInstalled": "2019-06-09T16:40:48.7983124Z",
       "dateUpdated": "2019-06-13T18:06:33.5253402Z",
       "dateLastUpdateAttempted": "2019-06-13T18:06:33.5253402Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
