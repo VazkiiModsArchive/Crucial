@@ -1,6 +1,6 @@
 
 setIcon("nex:ghast_queen_tear")
-setTranslatedTitle("Prelude to the End of the Game")
+setTranslatedTitle("1000 Crying Skies")
 setTranslatedDescription("Kill the Ghast Queen")
 
 addParent("triumph:vanilla/nether/brew_potion")

@@ -1,6 +1,6 @@
 
 setIcon("coralreef:coral")
-setTranslatedTitle("Empty Mermaid")
+setTranslatedTitle("Deep Sea Girl")
 setTranslatedDescription("Get all types of Coral")
 
 addParent("triumph:vanilla/adventure/sleep_in_bed")

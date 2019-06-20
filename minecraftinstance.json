@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-20T08:13:27.1885458Z",
+  "lastPlayed": "2019-06-20T17:09:20.0355473Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -125,6 +125,21 @@
       "fileSize": 0
     },
     {
+      "folderName": "Unmending-1.0-2.jar",
+      "fingerprint": 1000496098,
+      "fileDateHash": 167027068,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1000496098
+      ],
+      "status": 1,
+      "timestamp": "2019-06-07T14:57:50.2476018Z",
+      "lastWriteTimeUtc": "2019-05-28T19:37:13.680643Z",
+      "queryTimestamp": "2019-06-20T01:04:56.0870079Z",
+      "fileCount": 1,
+      "fileSize": 5566
+    },
+    {
       "folderName": "New World-------------",
       "fingerprint": 2101076895,
       "fileDateHash": 1785871664,
@@ -160,21 +175,6 @@
       "queryTimestamp": "2019-06-20T01:04:56.0870079Z",
       "fileCount": 13,
       "fileSize": 0
-    },
-    {
-      "folderName": "Unmending-1.0-2.jar",
-      "fingerprint": 1000496098,
-      "fileDateHash": 167027068,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1000496098
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2476018Z",
-      "lastWriteTimeUtc": "2019-05-28T19:37:13.680643Z",
-      "queryTimestamp": "2019-06-20T01:04:56.0870079Z",
-      "fileCount": 1,
-      "fileSize": 5566
     },
     {
       "folderName": "LibEx-1.12.2-1.0.8.jar",
@@ -559,21 +559,6 @@
       "fileSize": 596220
     },
     {
-      "folderName": "AdditionalEnderBlocks-2.1.jar",
-      "fingerprint": 342004969,
-      "fileDateHash": 2468774322,
-      "sectionID": 8,
-      "individualFingerprints": [
-        342004969
-      ],
-      "status": 1,
-      "timestamp": "2019-06-20T01:04:54.7370108Z",
-      "lastWriteTimeUtc": "2019-06-20T00:51:58.7583378Z",
-      "queryTimestamp": "2019-06-20T01:04:56.0900101Z",
-      "fileCount": 1,
-      "fileSize": 56421
-    },
-    {
       "folderName": "comforts-1.12.2-1.4.1.2.jar",
       "fingerprint": 1666307785,
       "fileDateHash": 2128873279,
@@ -587,6 +572,21 @@
       "queryTimestamp": "2019-06-20T01:04:56.0900101Z",
       "fileCount": 1,
       "fileSize": 166714
+    },
+    {
+      "folderName": "AdditionalEnderBlocks-2.1.jar",
+      "fingerprint": 342004969,
+      "fileDateHash": 2468774322,
+      "sectionID": 8,
+      "individualFingerprints": [
+        342004969
+      ],
+      "status": 1,
+      "timestamp": "2019-06-20T01:04:54.7370108Z",
+      "lastWriteTimeUtc": "2019-06-20T00:51:58.7583378Z",
+      "queryTimestamp": "2019-06-20T01:04:56.0900101Z",
+      "fileCount": 1,
+      "fileSize": 56421
     },
     {
       "folderName": "FastLeafDecay-v14.jar",
@@ -2923,7 +2923,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 284523,
@@ -4333,7 +4333,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238891,
@@ -5142,7 +5142,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 239197,
@@ -5981,7 +5981,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 258911,
@@ -6051,7 +6051,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 304894,
@@ -6629,7 +6629,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 250363,

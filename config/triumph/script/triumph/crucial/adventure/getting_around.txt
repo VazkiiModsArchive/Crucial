@@ -1,6 +1,6 @@
 
 setIcon("antiqueatlas:empty_antique_atlas")
-setTranslatedTitle("Thrilling One Way")
+setTranslatedTitle("Hi High")
 setTranslatedDescription("Craft an Atlas and a Barometer")
 setFrameType("goal")
 

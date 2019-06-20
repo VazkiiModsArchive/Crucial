@@ -1,5 +1,5 @@
 setIcon("quark:pickarang")
-setTranslatedTitle("The World Revolving")
+setTranslatedTitle("Go For Distance")
 setTranslatedDescription("Craft a Pickarang")
 setFrameType("goal")
 

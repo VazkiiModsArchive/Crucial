@@ -1,5 +1,5 @@
 setIcon("primitivemobs:dodo")
-setTranslatedTitle("Love Cherry Motion")
+setTranslatedTitle("Forever Young")
 setTranslatedDescription("Breed an animal that doesn't exist")
 
 addParent("triumph:vanilla/husbandry/breed_an_animal")

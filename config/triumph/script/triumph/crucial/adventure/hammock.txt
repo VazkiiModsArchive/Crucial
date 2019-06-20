@@ -1,0 +1,12 @@
+
+setIcon("comforts:hammock")
+setTranslatedTitle("Idyllic Landscape")
+setTranslatedDescription("Craft a Hammock to skip through the day")
+setFrameType("goal")
+
+addParent("triumph:crucial/adventure/get_bamboo")
+
+criteria = addCriteria("Hammock", "minecraft:inventory_changed")
+criteria.addItem("comforts:hammock")
+
+setPos(56,245)

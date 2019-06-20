@@ -1,5 +1,5 @@
 setIcon("storagedrawers:basicdrawers")
-setTranslatedTitle("Oneness")
+setTranslatedTitle("Mr. Dow Jones")
 setTranslatedDescription("Craft Drawers to store your items")
 setFrameType("goal")
 

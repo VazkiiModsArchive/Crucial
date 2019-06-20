@@ -1,0 +1,11 @@
+
+setIcon("minecraftfuture:bamboo")
+setTranslatedTitle("Bamboo Dance")
+setTranslatedDescription("Find and collect Bamboo")
+
+addParent("triumph:vanilla/adventure/sleep_in_bed")
+
+criteria = addCriteria("Orange Coral", "minecraft:inventory_changed")
+criteria.addItem("minecraftfuture:bamboo")
+
+setPos(-1,245)

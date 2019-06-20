@@ -9,4 +9,4 @@ addParent("triumph:vanilla/adventure/trade")
 criteria = addCriteria("Backpack", "minecraft:inventory_changed")
 criteria.addItem("quark:backpack");
 
-setPos(112,92)
+setPos(112,91)

@@ -1,6 +1,6 @@
 
 setIcon("quark:pirate_hat")
-setTranslatedTitle("All Eyes on Me")
+setTranslatedTitle("Live and Learn")
 setTranslatedDescription("Get all special hats")
 setFrameType("challenge")
 
