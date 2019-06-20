@@ -175,9 +175,6 @@ recipes.removeByRecipeName("redstoneplusplus:half_redstone");
 recipes.addShapeless("hawthorn_half_redstone", <redstoneplusplus:half_redstone>,
 	[<minecraft:slime>, <minecraft:stone_slab>, hawthornPaste]);
 
-// Hawthorn Paste
-furnace.addRecipe(<stygian:endcactus>, hawthornPaste);
-
 // Queen's Charm
 recipes.addShaped("queen_charm", <contenttweaker:queen_charm>,
 	[[goldIngot, goldIngot, goldIngot],
@@ -204,3 +201,10 @@ recipes.addShaped("pixie_dust_block", <contenttweaker:pixie_dust_block>,
 recipes.addShaped("snail_shell_block", <contenttweaker:snail_shell_block>,
 	[[snailShell, snailShell],
 	[snailShell, snailShell]]);
+
+// Hawthorn Paste
+furnace.addRecipe(hawthornPaste, <stygian:endcactus>);
+
+// Chunks to Bars
+furnace.addRecipe(<minecraft:iron_ingot>, <contenttweaker:iron_chunk>, 0.7);
+furnace.addRecipe(<minecraft:gold_ingot>, <contenttweaker:gold_chunk>, 1.0);

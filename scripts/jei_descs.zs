@@ -1,9 +1,11 @@
 import mods.jei.JEI;
 
+// Templates
 var stonelingInfo = "\n\nStonelings should be approached with care, sneak so they can't spot you.";
 var autumnalSaplingInfo = "Autumnal Tree Saplings come from trees in the Autumnal Wood biome.";
 var vanillaDiscInfo = "This Music Disc can be acquired by forcing a Skeleton to kill a Creeper.";
 var charmDiscInfo = "This Music Disc can be acquired by forcing a Skeleton to kill a Zombie.";
+var fishingRodInfo = "To use a Fishing Rod, you must first add bait to it. Simply craft some seeds alongside it to do so.";
 
 // Skulls
 JEI.addDescription(<minecraft:skull>, "This Skull can be obtained from dungeons underground, or from a Charged Creeper blowing up a Skeleton.");
@@ -48,20 +50,21 @@ JEI.addDescription(<quark:glowcelium>, "Glowcelium can be found in Underground G
 JEI.addDescription(<quark:glowshroom>, "Glowshrooms can be found in Underground Glowshroom Biomes, under cold mountains and mushroom islands. Glowshrooms can be grown over Glowcelium.");
 JEI.addDescription(<quark:smoker>, "Nether Vents are found in the edges of lava lakes in the standard Nether biome.");
 JEI.addDescription(<quark:crystal:*>, "Cave Crystals can be found in the rare Crystal Caves that spawn underground.");
-JEI.addDescription(<quark:rune:*>, "Runes can be found in loot chests like in dungeons.");
-JEI.addDescription(<quark:ancient_tome:*>, "Ancient Tomes can be found in loot chests like in dungeons.");
+JEI.addDescription(<quark:rune:*>, "Runes can be found in loot chests like in dungeons, and can be used in an anvil with an enchanted item to change its shine.");
+JEI.addDescription(<quark:ancient_tome:*>, "Ancient Tomes can be found in loot chests like in dungeons, and can be used in an anvil with a book with the same enchantment to power it up.");
 JEI.addDescription(<quark:root>, "Cave Roots can be found underground. They can be harvested with shears and will grow naturally in dark areas.");
 JEI.addDescription(<quark:root_flower:*>, "Sprouts drop from Cave Roots, which can be found underground. They can be harvested with shears and will grow naturally in dark areas.");
 JEI.addDescription(<quark:biotite>, "Ender Biotite spawns as an ore in the main end island after killing the Enderdragon. Killing more dragons makes more Biotite.");
 JEI.addDescription(<stygian:endmagma>, "Leachstone spawns in the outer islands of the End.");
 JEI.addDescription(<stygian:endcactus>, "Hawthorn spawns in the outer islands of the End. It grows on Leachstone.");
 JEI.addDescription(<forge:bucketfilled>.withTag({FluidName: "endacid", Amount: 1000}), "Stygian Acid spawns on the outer islands of the End. Bring a bucket to get it.");
-JEI.addDescription(<traverse:red_rock>), "Red Rock spawns in the Canyon biome.");
-JEI.addDescription(<traverse:crag_rock>), "Crag Rock spawns in the Crag Cliffs biome.");
-JEI.addDescription(<traverse:red_autumnal_sapling>), autumnalSaplingInfo);
-JEI.addDescription(<traverse:brown_autumnal_sapling>), autumnalSaplingInfo);
-JEI.addDescription(<traverse:orange_autumnal_sapling>), autumnalSaplingInfo);
-JEI.addDescription(<traverse:yellow_autumnal_sapling>), autumnalSaplingInfo);
+JEI.addDescription(<forge:bucketfilled>.withTag({FluidName: "blood", Amount: 1000}), "Ichor spawns in the frozen Nether biome. Bring a bucket to get it.");
+JEI.addDescription(<traverse:red_rock>, "Red Rock spawns in the Canyon biome.");
+JEI.addDescription(<traverse:blue_rock>, "Crag Rock spawns in the Crag Cliffs biome.");
+JEI.addDescription(<traverse:red_autumnal_sapling>, autumnalSaplingInfo);
+JEI.addDescription(<traverse:brown_autumnal_sapling>, autumnalSaplingInfo);
+JEI.addDescription(<traverse:orange_autumnal_sapling>, autumnalSaplingInfo);
+JEI.addDescription(<traverse:yellow_autumnal_sapling>, autumnalSaplingInfo);
 JEI.addDescription(<charm:totem_of_returning>, "The Totem of Returning can be found in loot chests in mineshafts, fortresses, or mansions.");
 JEI.addDescription(<charm:totem_of_shielding>, "The Totem of Shielding can be found in loot chests in temples or mansions.");
 
@@ -74,6 +77,8 @@ JEI.addDescription(<quark:archaeologist_hat>, "The Archaeologist Hat is sold by 
 JEI.addDescription(<redstonepcb:pcb_block>, "Etched Stone Blocks can be made by pouring Stygian Acid over Stone and waiting a few seconds.");
 JEI.addDescription(<charm:bound_compass>, "The Bound Compass can be created by right clicking a Compass on an active Beacon.");
 JEI.addDescription(<quark:glowshroom_block>, "Glowshroom Blocks can be acquired by bone mealing a Glowshroom over Glowcelium. The blocks can only be harvested with Silk Touch.");
+JEI.addDescription(<familiarfauna:bug_net>, "Can be used to capture Butterflies, Dragonflies, and Pixies. You need a Bug Habitat to store them.");
+JEI.addDescription(<familiarfauna:bug_habitat>, "Can be used to store Butterflies, Dragonflies, and Pixies. You need a Bug Net to catch them.");
 
 // Cakes
 JEI.addDescription(<charm:cake_swiftness>, "To get a Cake of Swiftness, right click a Cake with a long Potion of Swiftness. Eating the cake will give you the effect.");
@@ -124,6 +129,12 @@ JEI.addDescription(<charm:record_menu1>, charmDiscInfo);
 JEI.addDescription(<charm:record_menu2>, charmDiscInfo);
 JEI.addDescription(<charm:record_menu3>, charmDiscInfo);
 JEI.addDescription(<charm:record_menu4>, charmDiscInfo);
+
+// Fishing Rod Info
+JEI.addDescription(<jaff:wooden_fishing_rod>, fishingRodInfo);
+JEI.addDescription(<jaff:iron_fishing_rod>, fishingRodInfo);
+JEI.addDescription(<jaff:golden_fishing_rod>, fishingRodInfo);
+JEI.addDescription(<jaff:diamond_fishing_rod>, fishingRodInfo);
 
 // Memes
 JEI.addDescription(<contenttweaker:psidust>, "This item is completely uncraftable. No bypass commands work.");
