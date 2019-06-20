@@ -53,6 +53,8 @@ hideFromJEIRegex("ore_stone_variants:.*");
 
 JEI.hide(<redstoneplusplus:rotator_moving>);
 JEI.hide(<redstoneplusplus:rotator_head>);
+JEI.hide(<redstoneplusplus:rotator_clockwise>);
+JEI.hide(<storagedrawers:upgrade_creative>);
 
 recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>);
 recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);

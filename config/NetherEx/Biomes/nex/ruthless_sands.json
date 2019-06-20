@@ -5291,6 +5291,54 @@
       "minGroupCount": 1,
       "maxGroupCount": 1,
       "spawn": true
+    },
+    {
+      "entity": "primitivemobs:sheepman",
+      "creatureType": "multimob_passive",
+      "weight": 40,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_passive",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_water",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_lava",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:flame_spewer",
+      "creatureType": "multimob_lava",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:flame_spewer",
+      "creatureType": "multimob_lava",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
     }
   ],
   "features": [
