@@ -26,7 +26,6 @@ JEI.removeAndHide(<earthworks:tool_iron_hammer>);
 JEI.removeAndHide(<earthworks:tool_gold_hammer>);
 JEI.removeAndHide(<earthworks:tool_diamond_hammer>);
 JEI.removeAndHide(<jaff:iron_hook>);
-JEI.removeAndHide(<yoyos:cord>);
 JEI.removeAndHide(<base:wrench>);
 JEI.removeAndHide(<nex:golden_wither_bone_hammer>);
 JEI.hide(<charset:icon>);
@@ -55,7 +54,6 @@ JEI.hide(<ore_stone_variants:lapis_ore:1>);
 
 recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>);
 recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);
-recipes.replaceAllOccurences(<yoyos:cord>, <minecraft:string>);
 
 recipes.removeByRegex("traverse:fir_.*");
 

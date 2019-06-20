@@ -32,7 +32,6 @@ jaff:roasting
 minecraftfuture:channeling
 minecraftfuture:impaling
 minecraftfuture:loyalty
-yoyos:collecting
 charm:curse_break
 charm:rusting_curse
 charm:clumsiness_curse

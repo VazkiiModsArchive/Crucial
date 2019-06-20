@@ -81,12 +81,7 @@ recipes.addShaped("blast_furnace", <minecraftfuture:blast_furnace>,
 	[[stone, stone, stone],
 	[ironIngot, conMagmaCream, ironIngot],
 	[ironIngot, ironBlock, ironIngot]]);
-
-// Ender Arrow
-recipes.removeByRecipeName("quark:arrow_ender");
-recipes.addShapeless("ender_arrow_enbiotic", <quark:arrow_ender>,
-	[ <minecraft:arrow>, <minecraft:ender_pearl>, <stygian:endglow>]);
-
+	
 // Fan / Levitator
 recipes.removeByRecipeName("trapexpansion:fan");
 recipes.addShaped("levitator", <trapexpansion:fan>,
@@ -179,11 +174,6 @@ recipes.addShapeless("hawthorn_half_slime", <redstoneplusplus:half_slime>,
 recipes.removeByRecipeName("redstoneplusplus:half_redstone");
 recipes.addShapeless("hawthorn_half_redstone", <redstoneplusplus:half_redstone>,
 	[<minecraft:slime>, <minecraft:stone_slab>, hawthornPaste]);
-
-// Sticky Yoyo
-recipes.removeByRecipeName("yoyos:sticky_yoyo");
-recipes.addShapeless("hawthorn_yoyo", <yoyos:sticky_yoyo>,
-	[<yoyos:diamond_yoyo>, slimeball, hawthornPaste]);
 
 // Hawthorn Paste
 furnace.addRecipe(<stygian:endcactus>, hawthornPaste);

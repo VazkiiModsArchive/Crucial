@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-17T21:16:30.4287122Z",
+  "lastPlayed": "2019-06-20T01:03:49.7082937Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -327,21 +327,6 @@
       "fileSize": 1117860
     },
     {
-      "folderName": "AmbientEnvironment-1.0.1.jar",
-      "fingerprint": 1223749953,
-      "fileDateHash": 3012911486,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1223749953
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2036Z",
-      "lastWriteTimeUtc": "2019-06-07T14:17:08.6107109Z",
-      "queryTimestamp": "2019-06-13T19:48:01.4036006Z",
-      "fileCount": 1,
-      "fileSize": 25391
-    },
-    {
       "folderName": "ConcreteExtends-1.1.2_1.12.jar",
       "fingerprint": 214900707,
       "fileDateHash": 3263490369,
@@ -595,36 +580,6 @@
       "queryTimestamp": "2019-06-13T19:48:01.404601Z",
       "fileCount": 1,
       "fileSize": 30446
-    },
-    {
-      "folderName": "GlobalGameRules-1.12.2-2.2.7.jar",
-      "fingerprint": 3532092400,
-      "fileDateHash": 1343825587,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3532092400
-      ],
-      "status": 1,
-      "timestamp": "2019-05-28T18:41:29.9569869Z",
-      "lastWriteTimeUtc": "2019-05-28T18:35:49.3714806Z",
-      "queryTimestamp": "2019-06-13T19:48:01.405601Z",
-      "fileCount": 1,
-      "fileSize": 24050
-    },
-    {
-      "folderName": "BNBGamingCore-1.12.2-0.11.0.jar",
-      "fingerprint": 4212799678,
-      "fileDateHash": 1991621800,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4212799678
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2055999Z",
-      "lastWriteTimeUtc": "2019-05-28T19:36:55.2158965Z",
-      "queryTimestamp": "2019-06-13T19:48:01.405601Z",
-      "fileCount": 1,
-      "fileSize": 130110
     },
     {
       "folderName": "New World--",
@@ -1224,21 +1179,6 @@
       "fileSize": 381455
     },
     {
-      "folderName": "BNBGamingLib-1.12.2-2.17.6.jar",
-      "fingerprint": 1245112832,
-      "fileDateHash": 2254035330,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1245112832
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2066Z",
-      "lastWriteTimeUtc": "2019-05-28T19:36:54.5528955Z",
-      "queryTimestamp": "2019-06-13T19:48:01.4095908Z",
-      "fileCount": 1,
-      "fileSize": 132644
-    },
-    {
       "folderName": "cosmeticbeds-1.12.2-1.0.2.2.jar",
       "fingerprint": 576809086,
       "fileDateHash": 1969584630,
@@ -1590,21 +1530,6 @@
       "fileSize": 19209
     },
     {
-      "folderName": "yoyos_1.12.2-1.3.0.21.jar",
-      "fingerprint": 2438819787,
-      "fileDateHash": 3125690516,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2438819787
-      ],
-      "status": 1,
-      "timestamp": "2019-06-10T15:45:57.940344Z",
-      "lastWriteTimeUtc": "2019-06-10T15:31:32.7946169Z",
-      "queryTimestamp": "2019-06-13T19:48:01.4116006Z",
-      "fileCount": 1,
-      "fileSize": 329799
-    },
-    {
       "folderName": "stg-1.12.2-1.2.3.jar",
       "fingerprint": 201836877,
       "fileDateHash": 1292295434,
@@ -1648,21 +1573,6 @@
       "queryTimestamp": "2019-06-13T19:48:01.4126003Z",
       "fileCount": 1,
       "fileSize": 16612
-    },
-    {
-      "folderName": "Triumph-1.12.2-3.17.0.jar",
-      "fingerprint": 3343147766,
-      "fileDateHash": 2728313358,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3343147766
-      ],
-      "status": 1,
-      "timestamp": "2019-06-07T14:57:50.2456015Z",
-      "lastWriteTimeUtc": "2019-05-28T19:36:55.7598953Z",
-      "queryTimestamp": "2019-06-13T19:48:01.4126003Z",
-      "fileCount": 1,
-      "fileSize": 328530
     },
     {
       "folderName": "diethopper-1.1.jar",
@@ -1800,7 +1710,7 @@
   "preferenceQuickDeleteLibraries": true,
   "preferenceDeleteSavedVariables": true,
   "preferenceProcessFileCommands": true,
-  "preferenceReleaseType": 1,
+  "preferenceReleaseType": 2,
   "syncProfile": {
     "PreferenceEnabled": false,
     "PreferenceAutoSync": true,
@@ -2026,76 +1936,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 254848,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2519605,
-        "displayName": "AdditionalEnderBlocks-2.0-1.12.2.jar",
-        "fileName": "AdditionalEnderBlocks-2.0-1.12.2.jar",
-        "fileDate": "2018-01-12T23:34:45.833Z",
-        "fileLength": 44019,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2519/605/AdditionalEnderBlocks-2.0-1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0
-          },
-          {
-            "foldername": "panda",
-            "fingerprint": 3350064721,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3567862388,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 416106264,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1448143458,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "AdditionalEnderBlocks-2.0-1.12.2.jar"
-      },
-      "dateInstalled": "2019-06-17T19:34:53.4629197Z",
-      "dateUpdated": "2019-06-17T19:34:53.6654264Z",
-      "dateLastUpdateAttempted": "2019-06-17T19:34:53.6654264Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 322159,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -2155,6 +1995,76 @@
       "dateUpdated": "2019-06-07T17:59:26.0384844Z",
       "dateLastUpdateAttempted": "2019-06-07T17:59:26.0384844Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 254848,
+      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
+      "installedFile": {
+        "id": 2726042,
+        "displayName": "AdditionalEnderBlocks-2.1.jar",
+        "fileName": "AdditionalEnderBlocks-2.1.jar",
+        "fileDate": "2019-06-17T21:06:46.573Z",
+        "fileLength": 56421,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2726/42/AdditionalEnderBlocks-2.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 191011688,
+            "type": 0
+          },
+          {
+            "foldername": "panda",
+            "fingerprint": 3897730246,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2607819781,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1860342792,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 342004969,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "AdditionalEnderBlocks-2.1.jar"
+      },
+      "dateInstalled": "2019-06-17T19:34:53.4629197Z",
+      "dateUpdated": "2019-06-20T00:51:58.760337Z",
+      "dateLastUpdateAttempted": "2019-06-20T00:51:58.760337Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2704,107 +2614,6 @@
       "dateInstalled": "2019-05-28T19:01:32.9454519Z",
       "dateUpdated": "2019-05-28T19:01:32.9514521Z",
       "dateLastUpdateAttempted": "2019-05-28T19:01:32.9514521Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 235492,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2698456,
-        "displayName": "Triumph 1.12-3.17.0",
-        "fileName": "Triumph-1.12.2-3.17.0.jar",
-        "fileDate": "2019-04-13T00:05:26.813Z",
-        "fileLength": 328530,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2698/456/Triumph-1.12.2-3.17.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 272515,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 229587,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 274341,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1379891738,
-            "type": 0
-          },
-          {
-            "foldername": "betteradvancements",
-            "fingerprint": 1791446988,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 162034170,
-            "type": 0
-          },
-          {
-            "foldername": "defaultconfigs",
-            "fingerprint": 2920818074,
-            "type": 0
-          },
-          {
-            "foldername": "documentation",
-            "fingerprint": 3290270535,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1770476443,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3343147766,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Triumph-1.12.2-3.17.0.jar"
-      },
-      "dateInstalled": "2019-05-28T19:36:55.7598953Z",
-      "dateUpdated": "2019-05-28T19:36:55.7628959Z",
-      "dateLastUpdateAttempted": "2019-05-28T19:36:55.7628959Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3611,98 +3420,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 262692,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2722622,
-        "displayName": "yoyos_1.12.2-1.3.0.21.jar",
-        "fileName": "yoyos_1.12.2-1.3.0.21.jar",
-        "fileDate": "2019-06-10T00:03:49.88Z",
-        "fileLength": 329799,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2722/622/yoyos_1.12.2-1.3.0.21.jar",
-        "isAlternate": false,
-        "alternateFileId": 2722624,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 263624,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 74072,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 260327,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4150272059,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3343307963,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1066019117,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3986558396,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2438819787,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "yoyos_1.12.2-1.3.0.21.jar"
-      },
-      "dateInstalled": "2019-05-28T17:14:25.8035646Z",
-      "dateUpdated": "2019-06-10T15:31:32.7966204Z",
-      "dateLastUpdateAttempted": "2019-06-10T15:31:32.7966204Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 310059,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -4252,73 +3969,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 274341,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2698691,
-        "displayName": "BNBGamingCore 1.12-0.11.0",
-        "fileName": "BNBGamingCore-1.12.2-0.11.0.jar",
-        "fileDate": "2019-04-13T16:53:30.283Z",
-        "fileLength": 130110,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2698/691/BNBGamingCore-1.12.2-0.11.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1362632279,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 4012198010,
-            "type": 0
-          },
-          {
-            "foldername": "squeek",
-            "fingerprint": 1305795079,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3520107738,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 4212799678,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "BNBGamingCore-1.12.2-0.11.0.jar"
-      },
-      "dateInstalled": "2019-05-28T19:36:55.2158965Z",
-      "dateUpdated": "2019-05-28T19:36:55.2178966Z",
-      "dateLastUpdateAttempted": "2019-05-28T19:36:55.2178966Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 238891,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -4598,7 +4248,7 @@
       "dateInstalled": "2019-06-17T19:29:57.8791753Z",
       "dateUpdated": "2019-06-17T19:29:57.8861756Z",
       "dateLastUpdateAttempted": "2019-06-17T19:29:57.8861756Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4607,7 +4257,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306770,
@@ -4749,14 +4399,14 @@
       "addonID": 269379,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
-        "id": 2476145,
-        "displayName": "Redstone++ ver1.2d",
-        "fileName": "Redstone++ ver1.2d.jar",
-        "fileDate": "2017-09-05T17:31:47.747Z",
-        "fileLength": 476455,
-        "releaseType": 1,
+        "id": 2576949,
+        "displayName": "Redstone++ ver1.3 BETA-2",
+        "fileName": "Redstone++ ver1.3 BETA-2.jar",
+        "fileDate": "2018-06-27T08:41:57.1Z",
+        "fileLength": 640792,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2476/145/Redstone++ ver1.2d.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2576/949/Redstone++ ver1.3 BETA-2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4764,17 +4414,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2464251221,
+            "fingerprint": 1334821891,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3292002773,
+            "fingerprint": 2741582924,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2878280466,
+            "fingerprint": 3753233225,
             "type": 0
           },
           {
@@ -4784,17 +4434,14 @@
           },
           {
             "foldername": "sandro",
-            "fingerprint": 3309616813,
+            "fingerprint": 113001778,
             "type": 0
           }
         ],
-        "packageFingerprint": 1707561293,
+        "packageFingerprint": 2147743680,
         "gameVersion": [
           "1.12",
           "1.12.1",
-          "1.11",
-          "1.11.1",
-          "1.11.2",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -4804,12 +4451,12 @@
         "projectStatus": 0,
         "projectId": 0,
         "gameId": 0,
-        "FileNameOnDisk": "Redstone++ ver1.2d.jar"
+        "FileNameOnDisk": "Redstone++ ver1.3 BETA-2.jar"
       },
       "dateInstalled": "2019-05-28T17:16:04.5350639Z",
-      "dateUpdated": "2019-05-28T17:16:04.5410635Z",
-      "dateLastUpdateAttempted": "2019-05-28T17:16:04.5410635Z",
-      "status": 5,
+      "dateUpdated": "2019-06-20T00:52:01.5948744Z",
+      "dateLastUpdateAttempted": "2019-06-20T00:52:01.5948744Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6146,73 +5793,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 320163,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2703591,
-        "displayName": "AmbientEnvironment-1.0.1",
-        "fileName": "AmbientEnvironment-1.0.1.jar",
-        "fileDate": "2019-04-25T17:53:10.337Z",
-        "fileLength": 25391,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2703/591/AmbientEnvironment-1.0.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 905665250,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1959661336,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2647565318,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3608519601,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1223749953,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "AmbientEnvironment-1.0.1.jar"
-      },
-      "dateInstalled": "2019-06-07T14:17:08.6117096Z",
-      "dateUpdated": "2019-06-07T14:17:08.6127082Z",
-      "dateLastUpdateAttempted": "2019-06-07T14:17:08.6127082Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 276951,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -6439,78 +6019,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 229587,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2698688,
-        "displayName": "BNBGamingLib 1.12-2.17.6",
-        "fileName": "BNBGamingLib-1.12.2-2.17.6.jar",
-        "fileDate": "2019-04-13T16:49:31.17Z",
-        "fileLength": 132644,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2698/688/BNBGamingLib-1.12.2-2.17.6.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1562242874,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1979863911,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2340877875,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3747149291,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1245112832,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "BNBGamingLib-1.12.2-2.17.6.jar"
-      },
-      "dateInstalled": "2019-05-28T19:36:54.5528955Z",
-      "dateUpdated": "2019-05-28T19:36:54.5548959Z",
-      "dateLastUpdateAttempted": "2019-05-28T19:36:54.5548959Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 250363,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
@@ -6702,71 +6210,6 @@
       "dateInstalled": "2019-05-28T19:01:21.6597626Z",
       "dateUpdated": "2019-05-28T19:01:21.7617607Z",
       "dateLastUpdateAttempted": "2019-05-28T19:01:21.7617607Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 227657,
-      "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
-      "installedFile": {
-        "id": 2654852,
-        "displayName": "GlobalGameRules-1.12.2-2.2.7.jar",
-        "fileName": "GlobalGameRules-1.12.2-2.2.7.jar",
-        "fileDate": "2019-01-01T16:25:16.897Z",
-        "fileLength": 24050,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2654/852/GlobalGameRules-1.12.2-2.2.7.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1790530773,
-            "type": 0
-          },
-          {
-            "foldername": "se",
-            "fingerprint": 1770475735,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 147960073,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1973662293,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3532092400,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "GlobalGameRules-1.12.2-2.2.7.jar"
-      },
-      "dateInstalled": "2019-05-28T18:35:49.3724823Z",
-      "dateUpdated": "2019-05-28T18:35:49.3744803Z",
-      "dateLastUpdateAttempted": "2019-05-28T18:35:49.3744803Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
