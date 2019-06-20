@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-20T04:30:43.5053482Z",
+  "lastPlayed": "2019-06-20T04:42:21.4577901Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -5910,14 +5910,14 @@
       "addonID": 243121,
       "gameInstanceID": "6ee4436a-6b38-4df7-8612-761543066a4c",
       "installedFile": {
-        "id": 2724128,
-        "displayName": "Quark-r1.5-159.jar",
-        "fileName": "Quark-r1.5-159.jar",
-        "fileDate": "2019-06-13T10:50:13.377Z",
-        "fileLength": 2580250,
+        "id": 2727055,
+        "displayName": "Quark-r1.5-160.jar",
+        "fileName": "Quark-r1.5-160.jar",
+        "fileDate": "2019-06-20T00:52:40.523Z",
+        "fileLength": 2591480,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2724/128/Quark-r1.5-159.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2727/55/Quark-r1.5-160.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -5932,12 +5932,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3676038446,
+            "fingerprint": 536585764,
             "type": 0
           },
           {
             "foldername": "vazkii",
-            "fingerprint": 1807768859,
+            "fingerprint": 2390783216,
             "type": 0
           },
           {
@@ -5947,7 +5947,7 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3956107271,
+            "fingerprint": 3660672828,
             "type": 0
           },
           {
@@ -5956,7 +5956,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2184340174,
+        "packageFingerprint": 3068369582,
         "gameVersion": [
           "1.12.2"
         ],
@@ -5967,12 +5967,12 @@
         "projectStatus": 0,
         "projectId": 0,
         "gameId": 0,
-        "FileNameOnDisk": "Quark-r1.5-159.jar"
+        "FileNameOnDisk": "Quark-r1.5-160.jar"
       },
       "dateInstalled": "2019-06-09T16:40:48.7983124Z",
-      "dateUpdated": "2019-06-13T18:06:33.5253402Z",
-      "dateLastUpdateAttempted": "2019-06-13T18:06:33.5253402Z",
-      "status": 3,
+      "dateUpdated": "2019-06-20T04:40:09.5367795Z",
+      "dateLastUpdateAttempted": "2019-06-20T04:40:09.5367795Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

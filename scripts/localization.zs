@@ -8,6 +8,11 @@ game.setLocalization("en_us", "fluid.blood", "Ichor");
 game.setLocalization("en_us", "tile.quark:smoker.name", "Nether Vent");
 game.setLocalization("en_us", "tile.trapexpansion.fan.name", "Levitator");
 
+game.setLocalization("en_us", "item.fish_bucket_cod.name", "Cod in a Bucket");
+game.setLocalization("en_us", "item.fish_bucket_salmon.name", "Salmon in a Bucket");
+game.setLocalization("en_us", "item.fish_bucket_clownfish.name", "Clownfish in a Bucket");
+game.setLocalization("en_us", "item.fish_bucket_pufferfish.name", "Pufferfish in a Bucket");
+
 game.setLocalization("en_us", "tile.earthworks.block_reed.name", "Bamboo Block");
 game.setLocalization("en_us", "tile.earthworks.slab_reed.name", "Bamboo Slab");
 game.setLocalization("en_us", "tile.earthworks.stair_reed.name", "Bamboo Stairs");
