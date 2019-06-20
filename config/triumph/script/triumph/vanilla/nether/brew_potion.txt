@@ -5,4 +5,4 @@ setTranslatedDescription("advancements.nether.brew_potion.description")
 addParent("triumph:vanilla/nether/obtain_blaze_rod")
 
 criteria = addCriteria("potion", "minecraft:brewed_potion")
-setPos(55,-17)
+setPos(68,27)

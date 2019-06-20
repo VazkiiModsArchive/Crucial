@@ -1,0 +1,20 @@
+
+setIcon("nex:amethyst_crystal")
+setTranslatedTitle("Dancer in the Dark")
+setTranslatedDescription("Mine all different types of ores in the nether")
+
+addParent("triumph:vanilla/nether/root")
+
+criteria = addCriteria("Gold", "minecraft:inventory_changed")
+criteria.addItem("minecraft:gold_nugget")
+
+criteria = addCriteria("Quartz", "minecraft:inventory_changed")
+criteria.addItem("minecraft:quartz")
+
+criteria = addCriteria("Amethyst", "minecraft:inventory_changed")
+criteria.addItem("nex:amethyst_crystal")
+
+criteria = addCriteria("Rime", "minecraft:inventory_changed")
+criteria.addItem("nex:rime_crystal")
+
+setPos(-77,-16)

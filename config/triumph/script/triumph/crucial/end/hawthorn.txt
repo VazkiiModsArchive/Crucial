@@ -1,0 +1,10 @@
+setIcon("stygian:endcactus")
+setTranslatedTitle("Mirage Garden")
+setTranslatedDescription("Gather Hawthorn in the outer end islands")
+
+addParent("triumph:vanilla/end/enter_end_gateway")
+
+criteria = addCriteria("Hawthorn", "minecraft:inventory_changed")
+criteria.addItem("stygian:endcactus")
+
+setPos(161,106)

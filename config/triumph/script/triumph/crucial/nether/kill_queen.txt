@@ -1,0 +1,11 @@
+
+setIcon("nex:ghast_queen_tear")
+setTranslatedTitle("Prelude to the End of the Game")
+setTranslatedDescription("Kill the Ghast Queen")
+
+addParent("triumph:vanilla/nether/brew_potion")
+
+criteria = addCriteria("killed_ghast", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:ghast_queen")
+
+setPos(114,27)

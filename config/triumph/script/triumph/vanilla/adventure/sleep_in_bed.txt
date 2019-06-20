@@ -6,4 +6,4 @@ setTranslatedDescription("advancements.adventure.sleep_in_bed.description")
 addParent("triumph:vanilla/adventure/root")
 
 addCriteria("slept_in_bed", "minecraft:slept_in_bed")
-setPos(23,138)
+setPos(-39,205)

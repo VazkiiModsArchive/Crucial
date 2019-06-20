@@ -1,0 +1,11 @@
+setIcon("trapexpansion:fan")
+setTranslatedTitle("Reach for the Moon, Immortal Smoke")
+setTranslatedDescription("Craft a Levitator")
+setFrameType("goal");
+
+addParent("triumph:crucial/end/hawthorn")
+
+criteria = addCriteria("Levitator", "minecraft:inventory_changed")
+criteria.addItem("trapexpansion:fan")
+
+setPos(201,86)

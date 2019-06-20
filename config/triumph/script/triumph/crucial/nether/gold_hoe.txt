@@ -1,0 +1,11 @@
+
+setIcon("nex:golden_wither_bone_hoe")
+setTranslatedTitle("Fields of Gold")
+setTranslatedDescription("Craft a Golden Wither Bone Hoe to start farming Nether Wart")
+
+addParent("triumph:vanilla/nether/find_fortress")
+
+criteria = addCriteria("Hoe", "minecraft:inventory_changed")
+criteria.addItem("nex:golden_wither_bone_hoe")
+
+setPos(33,-12)

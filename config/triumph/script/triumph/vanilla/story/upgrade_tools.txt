@@ -6,4 +6,4 @@ addParent("triumph:vanilla/story/mine_stone")
 
 criteria = addCriteria("stone_pickaxe", "minecraft:inventory_changed")
 criteria.addItem("minecraft:stone_pickaxe")
-setPos(33,-1)
+setPos(21,-1)

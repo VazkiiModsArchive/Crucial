@@ -1,0 +1,26 @@
+setIcon("quark:biome_cobblestone", 1)
+setTranslatedTitle("Through the Fire and the Flames")
+setTranslatedDescription("Gather all unique blocks from underground biomes")
+setFrameType("challenge")
+
+addParent("triumph:vanilla/story/upgrade_tools")
+
+criteria = addCriteria("Brimstone", "minecraft:inventory_changed")
+criteria.addItem("quark:biome_cobblestone", 0)
+
+criteria = addCriteria("Permafrost", "minecraft:inventory_changed")
+criteria.addItem("quark:biome_cobblestone", 1)
+
+criteria = addCriteria("Elder Prismarine", "minecraft:inventory_changed")
+criteria.addItem("quark:elder_prismarine", 0)
+
+criteria = addCriteria("Elder Sea Lantern", "minecraft:inventory_changed")
+criteria.addItem("quark:elder_sea_lantern")
+
+criteria = addCriteria("Glowcelium", "minecraft:inventory_changed")
+criteria.addItem("quark:glowcelium")
+
+criteria = addCriteria("Glowshroom", "minecraft:inventory_changed")
+criteria.addItem("quark:glowshroom")
+
+setPos(64,-38)

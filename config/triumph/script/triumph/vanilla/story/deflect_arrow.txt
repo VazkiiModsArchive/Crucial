@@ -11,4 +11,4 @@ damage.setBlocked(true)
 
 damageSource = damage.getDamageSourceData()
 damageSource.isProjectile(true)
-setPos(136,-35)
+setPos(136,-51)

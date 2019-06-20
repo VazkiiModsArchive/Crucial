@@ -1,0 +1,10 @@
+setIcon("quark:parrot_egg")
+setTranslatedTitle("Rally Go Round")
+setTranslatedDescription("Feed a parrot Beetroot Seeds to get it to make an egg")
+
+addParent("triumph:vanilla/husbandry/plant_seed")
+
+criteria = addCriteria("Egg", "minecraft:inventory_changed")
+criteria.addItem("quark:parrot_egg")
+
+setPos(66,40)

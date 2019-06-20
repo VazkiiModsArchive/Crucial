@@ -6,4 +6,4 @@ addParent("triumph:vanilla/story/root")
 
 criteria = addCriteria("get_stone", "minecraft:inventory_changed")
 criteria.addItem("minecraft:cobblestone")
-setPos(2,-1)
+setPos(-20,-1)

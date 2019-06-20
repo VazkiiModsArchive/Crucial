@@ -1,0 +1,10 @@
+setIcon("quark:diamond_heart")
+setTranslatedTitle("Is your Heart Shining?")
+setTranslatedDescription("Kill a Stoneling for a Heart of Diamond")
+
+addParent("triumph:vanilla/story/mine_diamond")
+
+criteria = addCriteria("Heart", "minecraft:inventory_changed")
+criteria.addItem("quark:diamond_heart")
+
+setPos(229,36)

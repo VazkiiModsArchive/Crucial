@@ -7,4 +7,4 @@ setFrameType("goal")
 addParent("triumph:vanilla/story/enter_the_nether")
 
 criteria = addCriteria("cured_zombie", "minecraft:cured_zombie_villager")
-setPos(198,132)
+setPos(229,159)

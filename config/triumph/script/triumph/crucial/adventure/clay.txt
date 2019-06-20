@@ -1,0 +1,14 @@
+
+
+setIcon("minecraft:clay")
+setTranslatedTitle("Infinite Synthesis")
+setTranslatedDescription("ACQUIRE THE ONE ITEM THAT KEEPS THE WHOLE WORLD BALANCED")
+setFrameType("challenge")
+setHidden(true)
+
+addParent("triumph:crucial/adventure/get_coral")
+
+criteria = addCriteria("Coral Hat", "minecraft:inventory_changed")
+criteria.addItem("minecraft:clay")
+
+setPos(56,205)

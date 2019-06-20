@@ -1,0 +1,10 @@
+setIcon("primitivemobs:dodo")
+setTranslatedTitle("Love Cherry Motion")
+setTranslatedDescription("Breed an animal that doesn't exist")
+
+addParent("triumph:vanilla/husbandry/breed_an_animal")
+
+criteria = addCriteria("Dodo", "minecraft:bred_animals")
+criteria.setParentType("primitivemobs:dodo")
+
+setPos(66,-45)

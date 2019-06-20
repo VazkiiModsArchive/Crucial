@@ -13,4 +13,4 @@ setAnnounceToChat(false)
 
 criteria = addCriteria("crafting_table", "minecraft:inventory_changed")
 criteria.addItem("minecraft:crafting_table")
-setPos(-29,-1)
+setPos(-85,-1)

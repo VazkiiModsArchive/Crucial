@@ -17,4 +17,4 @@ criteria = addCriteria("diamond_boots", "minecraft:inventory_changed")
 criteria.addItem("minecraft:diamond_boots")
 
 setRequirements("any")
-setPos(181,27)
+setPos(229,3)

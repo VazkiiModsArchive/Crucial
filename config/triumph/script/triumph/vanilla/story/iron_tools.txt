@@ -6,4 +6,4 @@ addParent("triumph:vanilla/story/smelt_iron")
 
 criteria = addCriteria("iron_pickaxe", "minecraft:inventory_changed")
 criteria.addItem("minecraft:iron_pickaxe")
-setPos(100,27)
+setPos(100,36)

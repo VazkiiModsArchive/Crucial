@@ -1,0 +1,11 @@
+setIcon("storagedrawers:basicdrawers")
+setTranslatedTitle("Oneness")
+setTranslatedDescription("Craft Drawers to store your items")
+setFrameType("goal")
+
+addParent("triumph:vanilla/story/root")
+
+criteria = addCriteria("Drawers", "minecraft:inventory_changed")
+criteria.addItem("storagedrawers:basicdrawers")
+
+setPos(-43,-43)

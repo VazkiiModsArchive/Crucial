@@ -1,0 +1,56 @@
+setIcon("quark:rune", 16)
+setTranslatedTitle("Lovely Icecream Princess Sweetie")
+setTranslatedDescription("Get all 16 Rune colors")
+setFrameType("challenge")
+
+addParent("triumph:vanilla/story/upgrade_tools")
+
+criteria = addCriteria("White", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 0)
+
+criteria = addCriteria("Orange", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 1)
+
+criteria = addCriteria("Magenta", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 2)
+
+criteria = addCriteria("Light Blue", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 3)
+
+criteria = addCriteria("Yellow", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 4)
+
+criteria = addCriteria("Lime", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 5)
+
+criteria = addCriteria("Pink", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 6)
+
+criteria = addCriteria("Gray", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 7)
+
+criteria = addCriteria("Light Gray", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 8)
+
+criteria = addCriteria("Cyan", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 9)
+
+criteria = addCriteria("Purple", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 10)
+
+criteria = addCriteria("Blue", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 11)
+
+criteria = addCriteria("Brown", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 12)
+
+criteria = addCriteria("Green", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 13)
+
+criteria = addCriteria("Red", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 14)
+
+criteria = addCriteria("Black", "minecraft:inventory_changed")
+criteria.addItem("quark:rune", 15)
+
+setPos(64,-72)

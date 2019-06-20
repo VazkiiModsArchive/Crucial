@@ -7,4 +7,4 @@ addParent("triumph:vanilla/story/follow_ender_eye")
 
 criteria = addCriteria("entered_end", "minecraft:changed_dimension")
 criteria.setDimensionDestination("the_end")
-setPos(245,54)
+setPos(281,90)

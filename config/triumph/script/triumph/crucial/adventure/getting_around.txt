@@ -1,0 +1,15 @@
+
+setIcon("antiqueatlas:empty_antique_atlas")
+setTranslatedTitle("Thrilling One Way")
+setTranslatedDescription("Craft an Atlas and a Barometer")
+setFrameType("goal")
+
+addParent("triumph:vanilla/adventure/root")
+
+criteria = addCriteria("Atlas", "minecraft:inventory_changed")
+criteria.addItem("antiqueatlas:empty_antique_atlas")
+
+criteria = addCriteria("Barometer", "minecraft:inventory_changed")
+criteria.addItem("inspirations:barometer")
+
+setPos(-1,139)

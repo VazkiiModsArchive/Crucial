@@ -18,4 +18,4 @@ distanceData.setHorizontalMin(50)
 
 damageSource = criteria.getDamageSourceData()
 damageSource.isProjectile(true)
-setPos(50,-33)
+setPos(107,-49)

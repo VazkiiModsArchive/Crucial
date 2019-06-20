@@ -1,0 +1,11 @@
+setIcon("wards:ward")
+setTranslatedTitle("Power Up")
+setTranslatedDescription("Craft a Ward")
+setFrameType("goal")
+
+addParent("triumph:vanilla/story/enchant_item")
+
+criteria = addCriteria("Ward", "minecraft:inventory_changed")
+criteria.addItem("wards:ward")
+
+setPos(281,-32)

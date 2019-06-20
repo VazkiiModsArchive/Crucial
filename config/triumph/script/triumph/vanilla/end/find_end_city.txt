@@ -7,4 +7,4 @@ addParent("triumph:vanilla/end/enter_end_gateway")
 
 criteria = addCriteria("in_city", "minecraft:location")
 criteria.setFeature("EndCity")
-setPos(119,40)
+setPos(127,10)

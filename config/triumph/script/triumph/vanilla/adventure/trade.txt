@@ -6,4 +6,4 @@ setTranslatedDescription("advancements.adventure.trade.description")
 addParent("triumph:vanilla/adventure/root")
 
 addCriteria("traded", "minecraft:villager_trade")
-setPos(49,92)
+setPos(56,91)

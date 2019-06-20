@@ -1,0 +1,26 @@
+
+setIcon("coralreef:coral")
+setTranslatedTitle("Empty Mermaid")
+setTranslatedDescription("Get all types of Coral")
+
+addParent("triumph:vanilla/adventure/sleep_in_bed")
+
+criteria = addCriteria("Orange Coral", "minecraft:inventory_changed")
+criteria.addItem("coralreef:coral", 0)
+
+criteria = addCriteria("Magenta Coral", "minecraft:inventory_changed")
+criteria.addItem("coralreef:coral", 1)
+
+criteria = addCriteria("Pink Coral", "minecraft:inventory_changed")
+criteria.addItem("coralreef:coral", 2)
+
+criteria = addCriteria("Cyan Coral", "minecraft:inventory_changed")
+criteria.addItem("coralreef:coral", 3)
+
+criteria = addCriteria("Green Coral", "minecraft:inventory_changed")
+criteria.addItem("coralreef:coral", 4)
+
+criteria = addCriteria("Gray Coral", "minecraft:inventory_changed")
+criteria.addItem("coralreef:coral", 5)
+
+setPos(-1,205)

@@ -1,0 +1,18 @@
+
+setIcon("quark:pirate_hat")
+setTranslatedTitle("All Eyes on Me")
+setTranslatedDescription("Get all special hats")
+setFrameType("challenge")
+
+addParent("triumph:vanilla/adventure/kill_a_mob")
+
+criteria = addCriteria("Pirate Hat", "minecraft:inventory_changed")
+criteria.addItem("quark:pirate_hat")
+
+criteria = addCriteria("Witch Hat", "minecraft:inventory_changed")
+criteria.addItem("quark:witch_hat")
+
+criteria = addCriteria("Archaeologist Hat", "minecraft:inventory_changed")
+criteria.addItem("quark:archaeologist_hat")
+
+setPos(23,-56)

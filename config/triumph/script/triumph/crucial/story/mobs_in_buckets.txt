@@ -1,0 +1,13 @@
+setIcon("quark:slime_bucket")
+setTranslatedTitle("Small and Significant")
+setTranslatedDescription("Catch a Bat and a Small Slime in a bucket")
+
+addParent("triumph:vanilla/story/lava_bucket")
+
+criteria = addCriteria("Slime in a Bucket", "minecraft:inventory_changed")
+criteria.addItem("quark:slime_bucket")
+
+criteria = addCriteria("Bat in a Bucket", "minecraft:inventory_changed")
+criteria.addItem("charm:bat_bucket")
+
+setPos(136,126)

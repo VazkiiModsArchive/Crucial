@@ -5,4 +5,4 @@ setTranslatedDescription("advancements.story.enchant_item.description")
 addParent("triumph:vanilla/story/mine_diamond")
 
 criteria = addCriteria("enchanted_item", "minecraft:enchanted_item")
-setPos(183,-10)
+setPos(229,-32)

@@ -1,0 +1,11 @@
+setIcon("hammerx:item.hammer", 0, "{HammerX.HammerType:'diamond'}")
+setTranslatedTitle("Mr. Downer")
+setTranslatedDescription("Craft a Diamond Hammer")
+setFrameType("goal");
+
+addParent("triumph:crucial/end/hawthorn")
+
+criteria = addCriteria("Hammer", "minecraft:inventory_changed")
+criteria.addItem("hammerx:item.hammer")
+
+setPos(201,128)

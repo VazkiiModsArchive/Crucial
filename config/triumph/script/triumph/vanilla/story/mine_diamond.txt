@@ -6,4 +6,4 @@ addParent("triumph:vanilla/story/iron_tools")
 
 criteria = addCriteria("diamond", "minecraft:inventory_changed")
 criteria.addItem("minecraft:diamond")
-setPos(136,27)
+setPos(181,36)

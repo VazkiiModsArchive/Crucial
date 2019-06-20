@@ -1,0 +1,10 @@
+setIcon("quark:ancient_tome")
+setTranslatedTitle("Book of Spells")
+setTranslatedDescription("Find an Ancient Tome")
+
+addParent("triumph:vanilla/story/enchant_item")
+
+criteria = addCriteria("Tome", "minecraft:inventory_changed")
+criteria.addItem("quark:ancient_tome")
+
+setPos(281,-71)

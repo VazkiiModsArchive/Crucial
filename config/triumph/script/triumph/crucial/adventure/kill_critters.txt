@@ -1,0 +1,29 @@
+
+setIcon("minecraft:wooden_sword")
+setTranslatedTitle("Coldheartedness")
+setTranslatedDescription("Kill all tiny harmless critters")
+setFrameType("challenge")
+
+addParent("triumph:vanilla/adventure/kill_a_mob")
+
+setRewardExperience(100)
+
+criteria = addCriteria("Bat", "minecraft:player_killed_entity")
+criteria.setEntityType("minecraft:bat")
+
+criteria = addCriteria("Snail", "minecraft:player_killed_entity")
+criteria.setEntityType("familiarfauna:familiarfauna.snail")
+
+criteria = addCriteria("Pixie", "minecraft:player_killed_entity")
+criteria.setEntityType("familiarfauna:familiarfauna.pixie")
+
+criteria = addCriteria("Dragonfly", "minecraft:player_killed_entity")
+criteria.setEntityType("familiarfauna:familiarfauna.dragonfly")
+
+criteria = addCriteria("Butterfly", "minecraft:player_killed_entity")
+criteria.setEntityType("familiarfauna:familiarfauna.butterfly")
+
+criteria = addCriteria("Mogus", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:mogus")
+
+setPos(27,7)

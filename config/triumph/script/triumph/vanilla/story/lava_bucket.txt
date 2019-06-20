@@ -6,4 +6,4 @@ addParent("triumph:vanilla/story/smelt_iron")
 
 criteria = addCriteria("lava_bucket", "minecraft:inventory_changed")
 criteria.addItem("minecraft:lava_bucket")
-setPos(100,54)
+setPos(100,90)

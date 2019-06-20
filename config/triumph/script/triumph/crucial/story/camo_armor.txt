@@ -1,0 +1,19 @@
+setIcon("primitivemobs:camouflage_chestplate")
+setTranslatedTitle("No Differences")
+setTranslatedDescription("Suit yourself in full Camouflage Armor")
+
+addParent("triumph:vanilla/story/obtain_armor")
+
+criteria = addCriteria("Camouflage Helmet", "minecraft:inventory_changed")
+criteria.addItem("primitivemobs:camouflage_helmet")
+
+criteria = addCriteria("Camouflage Chestplate", "minecraft:inventory_changed")
+criteria.addItem("primitivemobs:camouflage_chestplate")
+
+criteria = addCriteria("Camouflage Leggings", "minecraft:inventory_changed")
+criteria.addItem("primitivemobs:camouflage_leggings")
+
+criteria = addCriteria("Camouflage Boots", "minecraft:inventory_changed")
+criteria.addItem("primitivemobs:camouflage_boots")
+
+setPos(136,-1)

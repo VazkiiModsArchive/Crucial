@@ -1,4 +1,4 @@
-setIcon("minecraft:wheat")
+setIcon("minecraft:wheat_seeds")
 setTranslatedTitle("advancements.husbandry.plant_seed.title")
 setTranslatedDescription("advancements.husbandry.plant_seed.description")
 

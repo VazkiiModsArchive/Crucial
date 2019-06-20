@@ -1,0 +1,11 @@
+setIcon("redstonepcb:pcb_block")
+setTranslatedTitle("Psychic Fire")
+setTranslatedDescription("Use Stygian Acid to create Etched Stone Blocks")
+setFrameType("goal")
+
+addParent("triumph:vanilla/end/enter_end_gateway")
+
+criteria = addCriteria("PCB", "minecraft:inventory_changed")
+criteria.addItem("redstonepcb:pcb_block")
+
+setPos(126,69)

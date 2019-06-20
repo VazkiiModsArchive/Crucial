@@ -1,0 +1,11 @@
+setIcon("minecraftfuture:trident")
+setTranslatedTitle("Spear of Justice")
+setTranslatedDescription("Craft a Trident")
+setFrameType("goal")
+
+addParent("triumph:vanilla/story/enter_the_nether")
+
+criteria = addCriteria("Trident", "minecraft:inventory_changed")
+criteria.addItem("minecraftfuture:trident")
+
+setPos(229,124)

@@ -51,7 +51,7 @@ JEI.addDescription(<quark:glowshroom>, "Glowshrooms can be found in Underground 
 JEI.addDescription(<quark:smoker>, "Nether Vents are found in the edges of lava lakes in the standard Nether biome.");
 JEI.addDescription(<quark:crystal:*>, "Cave Crystals can be found in the rare Crystal Caves that spawn underground.");
 JEI.addDescription(<quark:rune:*>, "Runes can be found in loot chests like in dungeons, and can be used in an anvil with an enchanted item to change its shine.");
-JEI.addDescription(<quark:ancient_tome:*>, "Ancient Tomes can be found in loot chests like in dungeons, and can be used in an anvil with a book with the same enchantment to power it up.");
+JEI.addDescription(<quark:ancient_tome:*>, "Ancient Tomes can be found in loot chests like in dungeons, and can be used in an anvil with a book with the same enchantment (and same level) to power it up.");
 JEI.addDescription(<quark:root>, "Cave Roots can be found underground. They can be harvested with shears and will grow naturally in dark areas.");
 JEI.addDescription(<quark:root_flower:*>, "Sprouts drop from Cave Roots, which can be found underground. They can be harvested with shears and will grow naturally in dark areas.");
 JEI.addDescription(<quark:biotite>, "Ender Biotite spawns as an ore in the main end island after killing the Enderdragon. Killing more dragons makes more Biotite.");

@@ -1,0 +1,123 @@
+
+setIcon("minecraft:record_13")
+setTranslatedTitle("Opera of the Wasteland")
+setTranslatedDescription("Collect all Music Discs")
+setFrameType("challenge")
+
+addParent("triumph:vanilla/adventure/shoot_arrow")
+
+criteria = addCriteria("13", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_13")
+
+criteria = addCriteria("cat", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_cat")
+
+criteria = addCriteria("blocks", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_blocks")
+
+criteria = addCriteria("chirp", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_chirp")
+
+criteria = addCriteria("far", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_far")
+
+criteria = addCriteria("mall", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_mall")
+
+criteria = addCriteria("mellohi", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_mellohi")
+
+criteria = addCriteria("stal", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_stal")
+
+criteria = addCriteria("strad", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_strad")
+
+criteria = addCriteria("ward", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_ward")
+
+criteria = addCriteria("11", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_11")
+
+criteria = addCriteria("wait", "minecraft:inventory_changed")
+criteria.addItem("minecraft:record_wait")
+
+criteria = addCriteria("Minecraft", "minecraft:inventory_changed")
+criteria.addItem("charm:record_calm1")
+
+criteria = addCriteria("Clark", "minecraft:inventory_changed")
+criteria.addItem("charm:record_calm2")
+
+criteria = addCriteria("Sweden", "minecraft:inventory_changed")
+criteria.addItem("charm:record_calm3")
+
+criteria = addCriteria("Subwoofer Lullaby", "minecraft:inventory_changed")
+criteria.addItem("charm:record_hal1")
+
+criteria = addCriteria("Living Mice", "minecraft:inventory_changed")
+criteria.addItem("charm:record_hal2")
+
+criteria = addCriteria("Haggstrom", "minecraft:inventory_changed")
+criteria.addItem("charm:record_hal3")
+
+criteria = addCriteria("Danny", "minecraft:inventory_changed")
+criteria.addItem("charm:record_hal4")
+
+criteria = addCriteria("Key", "minecraft:inventory_changed")
+criteria.addItem("charm:record_nuance1")
+
+criteria = addCriteria("Oxygène", "minecraft:inventory_changed")
+criteria.addItem("charm:record_nuance2")
+
+criteria = addCriteria("Dry Hands", "minecraft:inventory_changed")
+criteria.addItem("charm:record_piano1")
+
+criteria = addCriteria("Wet Hands", "minecraft:inventory_changed")
+criteria.addItem("charm:record_piano2")
+
+criteria = addCriteria("Mice on Venus", "minecraft:inventory_changed")
+criteria.addItem("charm:record_piano3")
+
+criteria = addCriteria("Biome Fest", "minecraft:inventory_changed")
+criteria.addItem("charm:record_creative1")
+
+criteria = addCriteria("Blind Spots", "minecraft:inventory_changed")
+criteria.addItem("charm:record_creative2")
+
+criteria = addCriteria("Haunt Muskie", "minecraft:inventory_changed")
+criteria.addItem("charm:record_creative3")
+
+criteria = addCriteria("Aria Math", "minecraft:inventory_changed")
+criteria.addItem("charm:record_creative4")
+
+criteria = addCriteria("Dreiton", "minecraft:inventory_changed")
+criteria.addItem("charm:record_creative5")
+
+criteria = addCriteria("Taswell", "minecraft:inventory_changed")
+criteria.addItem("charm:record_creative6")
+
+criteria = addCriteria("Concrete Halls", "minecraft:inventory_changed")
+criteria.addItem("charm:record_nether1")
+
+criteria = addCriteria("Dead Voxel", "minecraft:inventory_changed")
+criteria.addItem("charm:record_nether2")
+
+criteria = addCriteria("Warmth", "minecraft:inventory_changed")
+criteria.addItem("charm:record_nether3")
+
+criteria = addCriteria("Ballad of the Cats", "minecraft:inventory_changed")
+criteria.addItem("charm:record_nether4")
+
+criteria = addCriteria("Mutation", "minecraft:inventory_changed")
+criteria.addItem("charm:record_menu1")
+
+criteria = addCriteria("Moog City 2", "minecraft:inventory_changed")
+criteria.addItem("charm:record_menu2")
+
+criteria = addCriteria("Beginning 2", "minecraft:inventory_changed")
+criteria.addItem("charm:record_menu3")
+
+criteria = addCriteria("Floating Trees", "minecraft:inventory_changed")
+criteria.addItem("charm:record_menu4")
+
+setPos(107,2)

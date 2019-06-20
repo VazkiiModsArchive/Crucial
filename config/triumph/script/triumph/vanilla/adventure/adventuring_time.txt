@@ -115,4 +115,4 @@ criteria.setBiome("minecraft:mushroom_island")
 
 criteria = addCriteria("extreme_hills_with_trees", "minecraft:location")
 criteria.setBiome("minecraft:extreme_hills_with_trees")
-setPos(39,173)
+setPos(56,170)

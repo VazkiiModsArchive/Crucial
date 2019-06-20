@@ -112,3 +112,4 @@ criteria.setItem("minecraft:beetroot")
 
 criteria = addCriteria("beetroot_soup", "minecraft:consume_item")
 criteria.setItem("minecraft:beetroot_soup")
+setPos(64,81)

@@ -1,0 +1,11 @@
+setIcon("quark:pickarang")
+setTranslatedTitle("The World Revolving")
+setTranslatedDescription("Craft a Pickarang")
+setFrameType("goal")
+
+addParent("triumph:crucial/story/heart_of_diamond")
+
+criteria = addCriteria("Drawers", "minecraft:inventory_changed")
+criteria.addItem("quark:pickarang")
+
+setPos(281,36)
