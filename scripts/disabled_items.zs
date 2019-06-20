@@ -50,7 +50,9 @@ removeFromJEIRegex("storagedrawers:.*upgrade.*");
 removeFromJEIRegex("traverse:fir_.*");
 
 hideFromJEIRegex("ore_stone_variants:.*");
-JEI.hide(<ore_stone_variants:lapis_ore:1>);
+
+JEI.hide(<redstoneplusplus:rotator_moving>);
+JEI.hide(<redstoneplusplus:rotator_head>);
 
 recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>);
 recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);
