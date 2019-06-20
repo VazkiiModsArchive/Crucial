@@ -40,6 +40,7 @@ JEI.removeAndHide(<storagedrawers:basicdrawers:3>);
 JEI.removeAndHide(<storagedrawers:basicdrawers:4>);
 JEI.removeAndHide(<inspirations:materials:4>);
 JEI.removeAndHide(<inspirations:materials:5>);
+JEI.removeAndHide(<nex:nether_brick_fence_gate>);
 
 removeFromJEIRegex("earthworks:.*slate.*");
 removeFromJEIRegex("earthworks:.*chalk.*");
@@ -55,6 +56,7 @@ JEI.hide(<redstoneplusplus:rotator_moving>);
 JEI.hide(<redstoneplusplus:rotator_head>);
 JEI.hide(<redstoneplusplus:rotator_clockwise>);
 JEI.hide(<storagedrawers:upgrade_creative>);
+JEI.hide(<patchouli:guide_book>);
 
 recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>);
 recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);
