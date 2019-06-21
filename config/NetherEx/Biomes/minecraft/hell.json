@@ -1975,6 +1975,110 @@
       "minGroupCount": 1,
       "maxGroupCount": 1,
       "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_lava",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:flame_spewer",
+      "creatureType": "multimob_lava",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:mother_spider",
+      "creatureType": "multimob_monster",
+      "weight": 40,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:support_creeper",
+      "creatureType": "multimob_monster",
+      "weight": 30,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:traveling_merchant",
+      "creatureType": "multimob_passive",
+      "weight": 25,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:lost_miner",
+      "creatureType": "multimob_passive",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:sheepman",
+      "creatureType": "multimob_passive",
+      "weight": 40,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:dodo",
+      "creatureType": "multimob_passive",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_passive",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_water",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:flame_spewer",
+      "creatureType": "multimob_lava",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_lava",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "primitivemobs:flame_spewer",
+      "creatureType": "multimob_lava",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
     }
   ],
   "features": [
