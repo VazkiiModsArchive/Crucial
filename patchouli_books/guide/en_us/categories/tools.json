@@ -1,0 +1,7 @@
+{
+	"name": "Tools",
+	"description": "Different items and blocks that you can use to make your life easier.",
+	"icon": "quark:trowel",
+	"secret": true,
+	"sortnum": 2
+}

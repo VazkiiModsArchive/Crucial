@@ -79,6 +79,7 @@ JEI.addDescription(<charm:bound_compass>, "The Bound Compass can be created by r
 JEI.addDescription(<quark:glowshroom_block>, "Glowshroom Blocks can be acquired by bone mealing a Glowshroom over Glowcelium. The blocks can only be harvested with Silk Touch.");
 JEI.addDescription(<familiarfauna:bug_net>, "Can be used to capture Butterflies, Dragonflies, and Pixies. You need a Bug Habitat to store them.");
 JEI.addDescription(<familiarfauna:bug_habitat>, "Can be used to store Butterflies, Dragonflies, and Pixies. You need a Bug Net to catch them.");
+JEI.addDescription(<minecraft:shulker_shell>, "Endermites can bury into Purpur blocks. If they do so, they'll turn into Shulkers.");
 
 // Cakes
 JEI.addDescription(<charm:cake_swiftness>, "To get a Cake of Swiftness, right click a Cake with a long Potion of Swiftness. Eating the cake will give you the effect.");

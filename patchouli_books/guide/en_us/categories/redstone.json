@@ -1,0 +1,7 @@
+{
+	"name": "Redstone Blocks",
+	"description": "Blocks that can be used as part of your redstone automation.",
+	"icon": "minecraft:redstone",
+	"secret": true,
+	"sortnum": 3
+}

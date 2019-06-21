@@ -1,0 +1,24 @@
+{
+    "name": "Welcome to Crucial",
+    "icon": "minecraft:writable_book",
+    "category": "intro",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Welcome to the $(thing)Crucial Modpack$(), we hope you enjoy your experience! This guide will aid you in understanding everything new the modpack brings to the table.$(br2)$(thing)Crucial$() is a \"vanilla plus\" modpack, designed around fitting to the vanilla game, and feeling consistent in the content it adds. The plan is that it would play as vanilla itself, only better!"
+        },
+        {
+            "type": "text",
+            "text": "New content will show up in the guide book as you progress.$(br2)$(thing)Crucial$() comes with some new $(thing)Advancements$() to help guide you through the content the pack provides, so keep an eye on them often for suggestions as to what you can try to do next. You can open the advancements menu by pressing the $(item)$(k:advancements)$() key on your keyboard while playing."
+        },
+        {
+            "type": "text",
+            "text": "For now, just play as you would. More information will show up as you do, so check back once you see the unlock notification in the corner!$(br2)Enjoy and have fun! If you need any help, feel free to tweet $(l:https://twitter.com/Vazkii)@Vazkii$(), or join our $(l:https://vazkii.net/discord)Discord Server$() for help.$(br2)Lastly, if you enjoy the modpack, a donation on $(l:https://patreon.com/Vazkii)$(#f96854)Patreon$() would be really appreciated. You even get some cool ingame benefits for it, so check it out!"
+        },
+        {
+            "type": "text",
+            "text": "$(bold)Modpack Credits$()$(li)$(item)Vazkii$() - Creator, Designer, and Developer$(li)$(item)DylanGK$() - Earthworks Frame Block Recipe Script$(li)$(item)jaredlll08$() - Lots of help with CraftTweaker$(li)$(item)personthecat$() - Help with Ore Stone Variants$(li)$(item)Cleverpanda$() - Ore Chunk textures$(li)$(item)MCVinnyq$() - Snail Shell Block texture$(li)$(item)HgsBoson$() - Pixie Dust Block texture$(li)And of course, all the modders here represented!"
+        }
+    ]
+}

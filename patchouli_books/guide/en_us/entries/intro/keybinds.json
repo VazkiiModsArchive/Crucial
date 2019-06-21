@@ -1,0 +1,16 @@
+{
+    "name": "Useful Keybinds",
+    "icon": "minecraft:heavy_weighted_pressure_plate",
+    "category": "intro",
+    "advancement": "triumph:vanilla/story/upgrade_tools",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(thing)Crucial$() comes with a few new keyboard shortcuts for your pleasure. This entry will list their uses so you can take full advantage.$(br2)As always, these can be changed in the Controls menu."
+        }, 
+        {
+            "type": "text",
+            "text": "$(li)$(bold)Change Hotbar$()$(br)Pressing $(item)$(k:quark.keybind.changeHotbar)$() will expand your hotbar to display your entire inventory. From there press one of the numbers to swap the two rows.$(li)$(bold)Lock Orientation$()$(br)Pressing $(item)$(k:quark.keybind.lockBuilding)$() will lock your rotation and block half. Any blocks you place after this will be rotated the same way you were when you locked it. Just press $(item)$(k:quark.keybind.lockBuilding)$() again to reset it.$(li)$(bold)Toggle Autojump$()$(br)Pressing $(item)$(k:quark.keybind.toggleAutojump)$() will toggle your auto jump on and off. "
+        }
+    ]
+}

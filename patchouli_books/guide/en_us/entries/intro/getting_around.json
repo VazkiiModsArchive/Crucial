@@ -1,0 +1,21 @@
+{
+    "name": "Getting Around",
+    "icon": "minecraft:map",
+    "category": "intro",
+    "advancement": "triumph:vanilla/story/upgrade_tools",
+    "pages": [
+        {
+            "type": "text",
+            "text": "You may or may not have realised it yet, but in this modpack, your F3 screen is a bit barren. Indeed, coordinates are not available here. You'll have to make due with some special items we prepared for you.$(br2)Arm yourself with an $(item)Atlas$() to tell where you are, and a $(item)Barometer$() to tel how deep down you are, and you'll be golden."
+        },
+        {
+            "type": "crafting",
+            "recipe": "antiqueatlas:atlas_blank",
+            "recipe2": "inspirations:tools/barometer"
+        },
+        {
+            "type": "text",
+            "text": "Out of the two, the $(item)Atlas$() is the most straightforward. Simply right click to open it, and it'll show you where you are in relation to the world around you. You can also hold it in your hand to display it as a minimap of sorts.$(br2)As for the $(item)Barometer$(), the water inside it will fill up more the deeper into the earth you go, so keep it on you to keep track of that."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Just Enough Items",
+    "icon": "minecraft:chest",
+    "category": "intro",
+    "advancement": "triumph:vanilla/story/upgrade_tools",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(thing)Just Enough Items$(), most commonly known as $(thing)JEI$(), is the panel full of items you might have seen on the right side of your inventory.$(br2)In nearly all facets of modded minecraft, $(thing)JEI$() is how you get the recipes for all the items you want to make. In this modpack, it replaces the vanilla recipe book as well."
+        },
+        {
+            "type": "text",
+            "text": "To see the recipe for an item, simply hover over it either in your inventory or on the side panel, and press $(item)$(k:jei.showRecipe)$() on your keyboard. To see what recipes use the item, press $(item)$(k:jei.showUses)$() instead. In the item panel, you may also left or right click, respectively.$(br2)If you see any items you'd like to check out later, you can bookmark them by pressing $(item)$(k:jei.bookmark)$() while hovering over them. Bookmarked items will show up on the left."
+        },
+        {
+            "type": "text",
+            "text": "Aside from showing recipes and uses, $(thing)Crucial$() includes descriptions for a variety of different items. You can access these by clicking the blue $(#00f)i$() icon when looking at an item's recipe or uses.$(br2)Make sure to check these information panels every time you see one. If you're ever confused as to what an item does or how to make it, try checking if it has an information panel!"
+        }
+    ]
+}

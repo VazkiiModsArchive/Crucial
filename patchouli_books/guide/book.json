@@ -1,8 +1,10 @@
 {
-	"name": "Guide",
-	"landing_text": "Fill me in with some decent shit later idk",
+	"name": "Crucial Guide",
+	"landing_text": "Your hub for all you need to know about the Crucial Modpack.$(br2)New categories and entries are unlocked as you progress. Check your Advancements for what suggested things to do!",
 	"version": 1,
 	"book_texture": "patchouli:textures/gui/book_cyan.png",
 	"model": "patchouli:book_cyan",
-	"show_progress": false
+	"show_progress": false,
+	"advancements_tab": "triumph:vanilla/story",
+	"advancement_namespaces": [ "triumph" ]
 }

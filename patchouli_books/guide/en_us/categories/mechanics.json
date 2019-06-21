@@ -1,0 +1,7 @@
+{
+	"name": "Mechanics",
+	"description": "Changes to game mechanics from vanilla.",
+	"icon": "minecraft:piston",
+	"secret": true,
+	"sortnum": 1
+}
