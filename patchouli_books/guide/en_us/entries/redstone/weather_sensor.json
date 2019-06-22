@@ -1,0 +1,16 @@
+{
+    "name": "Weather Sensor",
+    "icon": "quark:rain_detector",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/end/find_end_city",
+    "pages": [
+        {
+            "type": "text",
+            "text": "As the name implies, the $(item)Weather Sensor$() can sense changes in the weather. The block will emit a redstone signal while it's raining,$(br2)Similarly to the daylight sensor, the output can be inverted by right clicking. "
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:rain_detector"
+        }
+    ]
+}

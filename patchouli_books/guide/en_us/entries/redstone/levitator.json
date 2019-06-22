@@ -1,0 +1,21 @@
+{
+    "name": "Levitator",
+    "icon": "trapexpansion:fan",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/end/find_end_city",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Levitator$() allows you to live your inner shulker dreams.$(br2)When given a redstone signal, it'll make any entities in the direction its facing fly! (or just be pushed if the block is horizontal, but that's not as cool)"
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:levitator"
+        },
+        {
+            "type": "text",
+            "title": "Disclaimer",
+            "text": "The $(item)Levitator$() is a reskinned version of the $(item)Fan$() from the $(thing)Trap Expansion$() mod. It was reskinned and renamed for purposes of the modpack$(br2)If you were to download the mod yourself, you'll get a $(item)Fan$() block, which does the exact same thing."
+        }
+    ]
+}

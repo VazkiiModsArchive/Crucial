@@ -37,6 +37,7 @@ JEI.addDescription(<quark:enderdragon_scale>, "The Dragon Scale is dropped by an
 JEI.addDescription(<quark:pirate_hat>, "The Pirate Hat is dropped by Pirates or found in their chests out by the open sea.");
 JEI.addDescription(<minecraft:sand:0>, "Sand is dropped from Husks upon death.");
 JEI.addDescription(<minecraft:sand:1>, "Red Sand is dropped from Husks upon death, if the Husk is on fire.");
+JEI.addDescription(<minecraft:soul_sand>, "Soul Sand can be made by pouring Ichor over Sand and waiting a few seconds.");
 
 // Worldgen
 JEI.addDescription(<coralreef:coral:*>, "Coral spawns in the depths of Oceans.");

@@ -1,0 +1,16 @@
+{
+    "name": "Half Slime Block",
+    "icon": "redstoneplusplus:half_slime",
+    "category": "redstone",
+    "advancement": "triumph:crucial/end/hawthorn",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Half Slime Blocks$() are a cool way to create distinct connections for pistons and $(l:redstone/rotator)Rotators$().$(br2)When moved, blocks will stick to the all slime side, but not the all stone side. Only slime blocks and $(item)Half Slime Blocks$() will stick to the half stone half slime side."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:hawthorn_half_slime"
+        }
+    ]
+}

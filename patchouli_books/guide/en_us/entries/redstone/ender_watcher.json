@@ -1,0 +1,16 @@
+{
+    "name": "Ender Watcher",
+    "icon": "quark:ender_watcher",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/end/kill_dragon",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Ender Watcher$() is a cool hip new redstone input block. As long as a player is looking directly at it, it'll emit a redstone signal."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:ender_watcher"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Chute",
+    "icon": "quark:chute",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Chute$() functions as a very simple block to aid automation. Any items that enter its inventory will be immediately ejected to the bottom, and always in the center.$(br2)The $(item)Chute$() can be used in conjunction with hoppers or $(l:redstone/item_pipes)Item Pipes$() to drop items directly downwards."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:chute"
+        }
+    ]
+}

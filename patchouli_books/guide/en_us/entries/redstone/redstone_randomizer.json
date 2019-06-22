@@ -1,0 +1,16 @@
+{
+    "name": "Redstone Randomizer",
+    "icon": "quark:redstone_randomizer",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/end/kill_dragon",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Redstone Randomizer$() is a new redstone circuit piece. As the name implies, when given a redstone signal, it'll propagate that signal either left or right, picked randomly.$(br2)Similarly to other circuit pieces, this induces a 1 redstone tick delay."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:redstone_randomizer"
+        }
+    ]
+}

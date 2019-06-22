@@ -1,0 +1,28 @@
+{
+    "name": "Item Frame Variants",
+    "icon": "quark:colored_item_frame:5",
+    "category": "mechanics",
+    "advancement": "triumph:crucial/husbandry/cow_tipper",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Item Frames$() have a few new ways of being displayed.$(br2)First off, you can place the frames in the ceiling and floor now. You may also dye the frames in any of the 16 colors.$(br2)Additionally, a $(item)Glass Item Frame$() can be crafted, which shows only the item. If you place a banner in it, it'll even double as wallpaper!"
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:colored_item_frame_5",
+            "recipe2": "quark:glass_item_frame"
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:item_frames0.png",
+                "patchouli:item_frames1.png",
+                "patchouli:item_frames2.png"
+            ],
+            "title": "Demonstration",
+            "border": true,
+            "text": "The various types of new item frames."
+        }
+    ]
+}

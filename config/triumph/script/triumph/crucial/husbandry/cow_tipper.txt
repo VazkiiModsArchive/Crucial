@@ -1,0 +1,10 @@
+setIcon("minecraft:leather")
+setTranslatedTitle("Cow Tipper")
+setTranslatedDescription("Kill a cow to get leather")
+
+addParent("triumph:vanilla/husbandry/root")
+
+criteria = addCriteria("Leather", "minecraft:inventory_changed")
+criteria.addItem("minecraft:leather")
+
+setPos(-49,-45)

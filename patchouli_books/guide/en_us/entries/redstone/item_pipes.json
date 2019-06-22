@@ -1,0 +1,37 @@
+{
+    "name": "Item Pipes",
+    "icon": "quark:pipe",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Item Pipes$() can be used to transport items around. Pipes will connect to any adjacent pipe blocks, and will transfer items between them.$(br2)To insert items into a pipe, you can use any sort of item manipulation, such as a $(item)Hopper$(), or a $(item)Dropper$(). Pipes may also accept dropped items from a endpoint."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:pipe"
+        },
+        {
+            "type": "text",
+            "text": "For pathing, pipes use a simple ruleset to determine where items will go on an intersection.$(li)Items never leave the intersection from the side they came in from.$(li)Items will always go down if the possibility exists.$(li)If not, items will never go sideways if they can go forward.$(li)If an item can go left and right, it'll go in a direction randomly.$(li)If other choices exist, items will never go up."
+        },
+        {
+            "type": "text",
+            "text": "Additionally, pipes have some extra rules not related to pathing.$(li)Pipes can be turned off with redstone. Disabled pipes will not accept items.$(li)The contents of a pipe can be read with a comparator$(li)Pipes can be moved by pistons, and will keep the items inside.$(li)Pipes with a wall block above or below get a structural tidbit."
+        },
+        {
+            "type": "text",
+            "text": "$(li)A pipe can only hold up to 16 items at once. If it has more than that, it'll break.$(li)Pipes can take in dropped items from open ends, and will take them in.$(li)Pipes with wall blocks above or below get a structural bit."
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:pipes.png"
+            ],
+            "title": "Demonstration",
+            "border": true,
+            "text": "Here's an example of pipes moving stuff around."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Redstone Barrel",
+    "icon": "inspirations:redstone_barrel",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/nether/root",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Redstone Barrel$() is designed to be used alongside comparators.$(br2)Right-click the barrel with redstone to add the redstone to it. Any comparators hooked up to the barrel will emit a singal equal to the amount of redstone you placed in."
+        },
+        {
+            "type": "crafting",
+            "recipe": "inspirations:utility/redstone_barrel"
+        }
+    ]
+}

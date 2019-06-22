@@ -1,0 +1,16 @@
+{
+    "name": "Rotator",
+    "icon": "redstoneplusplus:rotator",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/story/iron_tools",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Rotator$() serves as a counterpart to pistons. Whereas pistons push, the $(item)Rotator$() rotates.$(br2)The direction of rotation can be changed simply by right clicking the block. As you would expect, the $(item)Rotator$() fully functions with slime blocks."
+        },
+        {
+            "type": "crafting",
+            "recipe": "redstoneplusplus:rotator"
+        }
+    ]
+}

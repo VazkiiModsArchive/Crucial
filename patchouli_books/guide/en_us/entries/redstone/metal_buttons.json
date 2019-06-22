@@ -1,0 +1,17 @@
+{
+    "name": "Metal Buttons",
+    "icon": "quark:iron_button",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "If the length of your standard buttons isn't right for you, try making some metal ones.$(li)$(item)Iron Buttons$() emit a pulse that lasts for an entire five seconds.$(li)$(item)Gold Buttons$() emit a pulse that lasts only a single redstone tick."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:iron_button",
+            "recipe2": "quark:gold_button"
+        }
+    ]
+}

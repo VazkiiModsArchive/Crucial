@@ -1,0 +1,17 @@
+{
+    "name": "Collector",
+    "icon": "inspirations:collector",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/story/iron_tools",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Collector$() does exactly as its name implies - when given a redstone signal, it'll pick up any dropped items, or items in inventories, one block in front of it, and place them in its internal inventory.$(br2)The $(item)Collector$() can be placed facing any direction, just like a dispenser."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:inspirations-utility/collector-modified",
+            "recipe2": "crafttweaker:ez_collector"
+        }
+    ]
+}

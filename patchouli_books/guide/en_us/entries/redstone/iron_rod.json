@@ -1,0 +1,16 @@
+{
+    "name": "Iron Rod",
+    "icon": "quark:iron_rod",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/end/find_end_city",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Iron Rod$() is a fairly simple tool. When attached to a piston face (not indirectly through slime blocks), it'll break any block in front of it when the piston extends.$(br2)The rod will, however, not break hard blocks such as obsidian."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:iron_rod_rime"
+        }
+    ]
+}

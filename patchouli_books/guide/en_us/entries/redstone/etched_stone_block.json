@@ -1,0 +1,21 @@
+{
+    "name": "Etched Stone Block",
+    "icon": "redstonepcb:pcb_block",
+    "category": "redstone",
+    "advancement": "triumph:crucial/end/etched_stone_block",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Etched Stone Blocks$() are extremely useful for redstone purposes. You can right click the stone block's edges to change the pattern in it.$(br2)Redstone placed on top of the $(item)Etched Stone Block$() will adhere to the pattern."
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:etched_stone_block.png"
+            ],
+            "title": "Demonstration",
+            "border": true,
+            "text": "Here's an example of redstone not connecting to eachother."
+        }
+    ]
+}
