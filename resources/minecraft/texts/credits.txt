@@ -30,8 +30,6 @@
 §f          And all other contributors!
 
 §7Mod Developers
-§f          Cleverpanda
-§f          Hunternif
 §f          acnessdev
 §f          Alsnder
 §f          asiekierka
@@ -39,6 +37,7 @@
 §f          BloodNBonesGaming
 §f          boni
 §f          BordListian
+§f          Cleverpanda
 §f          Daomephsta
 §f          Darkhax
 §f          Daveyx0
@@ -49,6 +48,7 @@
 §f          Fuzs_
 §f          Glitchfiend
 §f          hancin
+§f          Hunternif
 §f          Hunternif
 §f          InsomniaKitten
 §f          jaquadro
