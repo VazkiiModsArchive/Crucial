@@ -1,0 +1,17 @@
+{
+    "name": "Lock & Key",
+    "icon": "inspirations:materials:0",
+    "category": "tools",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "If you want to protect your items, you can do so with a $(item)Lock$(). Name the lock an an anvil and right click it into your container of choice and the container will be locked.$(br2)The only way to open it will be with a $(item)Key$() with a matching name."
+        },
+        {
+            "type": "crafting",
+            "recipe": "inspirations:tools/lock",
+            "recipe2": "inspirations:tools/key"
+        }
+    ]
+}

@@ -16,6 +16,23 @@
         {
             "type": "text",
             "text": "Out of the two, the $(item)Atlas$() is the most straightforward. Simply right click to open it, and it'll show you where you are in relation to the world around you. You can also hold it in your hand to display it as a minimap of sorts.$(br2)As for the $(item)Barometer$(), the water inside it will fill up more the deeper into the earth you go, so keep it on you to keep track of that."
+        },
+        {
+            "type": "text",
+            "text": "Since $(thing)Crucial$() comes with a few new biomes, and biomes come with more unique features to each, you may want to locate a particular one.$(br2)If this is the case, reach out to your local village $(thing)Cartographer$(), level it up a bit and purchase a $(item)Pathfinder Map$(). These maps come in various different tiers based on how much you traded with the villager, and will take you directly to the biome they're named after."
+        },
+        {
+            "type": "text",
+            "text": "While you're at the village, make sure to pass by a $(thing)Leatherworker$(), and give it a trade or two. Once you do, they may want to fashion a $(item)Backpack$() for you.$(br2)This is highly recommended as an early goal, as having additional inventory space will help you massively when it comes to hauling all the new content.$(br2)You can dye it any color too, if you want to be stylish."
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:backpack_gui.png"
+            ],
+            "title": "Backpack UI",
+            "border": true,
+            "text": "Look at all the extra space!"
         }
     ]
 }

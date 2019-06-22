@@ -1,0 +1,22 @@
+{
+    "name": "Mobs in Buckets",
+    "icon": "quark:slime_bucket",
+    "category": "tools",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "An empty bucket can hold more than a few liquids! Right clicking a $(thing)Small Slime$() or a $(thing)Bat$() with it will stick the small critter in there. You can then move them around, and release them at any point.$(br2)Additionally, each of these can provide special benefits to the person who picked them up."
+        },
+        {
+            "type": "spotlight",
+            "item": "quark:slime_bucket",
+            "text": "A $(thing)Small Slime$() inside of a bucket will react to areas where slimes can spawn$(br2)While the slime is in your hand, it'll jump slightly when you're in a $(thing)Slime Chunk$()."
+        },
+        {
+            "type": "spotlight",
+            "item": "charm:bat_bucket",
+            "text": "A $(thing)Bat$() captured in a bucket won't do you too good. However, should you release it, the bat will do you a small favor, and make any monsters around you glow for a small period of time."
+        }
+    ]
+}

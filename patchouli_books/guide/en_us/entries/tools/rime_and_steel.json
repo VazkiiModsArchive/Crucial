@@ -1,0 +1,25 @@
+{
+    "name": "Rime and Steel",
+    "icon": "nex:rime_and_steel",
+    "category": "tools",
+    "advancement": "triumph:crucial/nether/ores",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Rime and Steel$() functions as an improved version of $(item)Flint and Steel$(). Not only does it make objectively cooler $(thing)Blue Fire$(), it can also be used to ignite nether portals in any shape, even horizontally!"
+        },
+        {
+            "type": "crafting",
+            "recipe": "nex:rime_and_steel_0"
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:wacky_portal.png"
+            ],
+            "title": "Demonstration",
+            "border": true,
+            "text": "Check out these $(italic)WACKY PORTALS$()!"
+        }
+    ]
+}

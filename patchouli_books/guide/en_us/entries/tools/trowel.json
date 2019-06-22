@@ -1,0 +1,16 @@
+{
+    "name": "Trowel",
+    "icon": "quark:trowel",
+    "category": "tools",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Trowel$() is a fairly useful tool for anyone wanting to build anything with a level of randomization. When right clicked, it'll place one random block from the ones available in your hotbar.$(br2)This can be useful for building things such as paths or ruins."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:trowel"
+        }
+    ]
+}

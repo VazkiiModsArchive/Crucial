@@ -1,0 +1,33 @@
+{
+    "name": "Hammock",
+    "icon": "comforts:hammock",
+    "category": "tools",
+    "advancement": "triumph:crucial/adventure/get_bamboo",
+    "pages": [
+        {
+            "type": "text",
+            "text": "If you want to sleep through the day and wake up fresh for a night stroll, take a nap on a $(item)Hammock$(), you'll wake up straight at nightfall$(br2)To set the hammock up, you'll need to get some $(item)Rope and Nail$(), see the next page for assembly instructions. Additionally, you can make a hammock with any color of wool you desire."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:bamboo_hammock_0",
+            "recipe2": "comforts:rope"
+        }, 
+        {
+            "type": "text",
+            "title": "Assembling",
+            "text": "$(li)Place two pillars, four blocks apart.$(li)Attach $(item)Rope and Nail$() to each pillar.$(li)Right click with your $(item)Hammock$() in either rope block.$(li)Enjoy!"
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:hammock0.png",
+                "patchouli:hammock1.png",
+                "patchouli:hammock2.png"
+            ],
+            "title": "",
+            "border": true,
+            "text": ""
+        }
+    ]
+}

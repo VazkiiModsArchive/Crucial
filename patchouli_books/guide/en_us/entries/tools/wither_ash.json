@@ -1,0 +1,25 @@
+{
+    "name": "Wither Ash",
+    "icon": "quark:black_ash",
+    "category": "tools",
+    "advancement": "triumph:vanilla/nether/find_fortress",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Wither Ash$() is a new type of placeable dust. Made from the essense of $(thing)Wither Skeletons$(), any blocks you coat with this will never spawn any hostile mobs.$(br2)Additionally, if $(item)Wither Ash$() is placed $(italic)below$() a block, that block will also become mob-proof."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:wither_dust"
+        },
+        {
+            "type": "image",
+            "images": [
+                "patchouli:wither_ash.png"
+            ],
+            "title": "Demonstration",
+            "border": true,
+            "text": "Both of these situations prevent monsters from spawning."
+        }
+    ]
+}

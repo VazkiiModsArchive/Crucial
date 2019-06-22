@@ -1,0 +1,17 @@
+{
+    "name": "Heart of Diamond",
+    "icon": "quark:diamond_heart",
+    "category": "tools",
+    "advancement": "triumph:crucial/story/heart_of_diamond",
+    "pages": [
+        {
+            "type": "text",
+            "text": "If you've come across a $(item)Heart of Diamond$(), surely you must've slain a $(thing)Stoneling$() in your travels. Worry not, should you right click with the heart on a block of stone, you'll get your very own friendly $(thing)Stoneling$()!$(br2)You can feed your friend Stone to make it love you. You can also give it any other item to have it carry it. Lastly, friendly $(thing)Stonelings$() will follow anyone carrying a $(item)Diamond$()."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:pickarang",
+            "text": "Alternatively, you may use the heart to create a $(item)Pickarang$(), a cool new way to mine! Throw it at a block and it'll break it and return to you with the drops!"
+        }
+    ]
+}

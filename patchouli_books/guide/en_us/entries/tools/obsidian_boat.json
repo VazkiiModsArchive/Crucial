@@ -1,0 +1,16 @@
+{
+    "name": "Obsidian Boat",
+    "icon": "nex:obsidian_boat",
+    "category": "tools",
+    "advancement": "triumph:vanilla/story/form_obsidian",
+    "pages": [
+        {
+            "type": "text",
+            "text": "A boat made of obsidian seems structurally sound, right?$(br2)Don't question it. Make yourself an $(item)Obsidian Boat$(), and you'll be smooth sailing through the lava lakes of the nether.$(br2)$(bold)ProTip(tm):$() Try right clicking a chest into a boat! You can access the chest by opening your inventory."
+        },
+        {
+            "type": "crafting",
+            "recipe": "nex:obsidian_boat_0"
+        }
+    ]
+}

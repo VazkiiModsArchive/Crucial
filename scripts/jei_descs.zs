@@ -65,8 +65,8 @@ JEI.addDescription(<traverse:red_autumnal_sapling>, autumnalSaplingInfo);
 JEI.addDescription(<traverse:brown_autumnal_sapling>, autumnalSaplingInfo);
 JEI.addDescription(<traverse:orange_autumnal_sapling>, autumnalSaplingInfo);
 JEI.addDescription(<traverse:yellow_autumnal_sapling>, autumnalSaplingInfo);
-JEI.addDescription(<charm:totem_of_returning>, "The Totem of Returning can be found in loot chests in mineshafts, fortresses, or mansions.");
-JEI.addDescription(<charm:totem_of_shielding>, "The Totem of Shielding can be found in loot chests in temples or mansions.");
+JEI.addDescription(<charm:totem_of_returning>, "This item can be found in mineshafts, fortresses, or mansions.\n\nTo use it, right click a block, the next time you use it, you'll return there.");
+JEI.addDescription(<charm:totem_of_shielding>, "This item can be found in temples or mansions.\n\nHolding it in your off-hand will protect you from damage until it breaks.");
 
 // Misc Info
 JEI.addDescription(<charm:rune_portal_frame:*>, "Right click a Rune onto an End Portal frame to place the rune in it. Two portals with the same runes will teleport to eachother.");

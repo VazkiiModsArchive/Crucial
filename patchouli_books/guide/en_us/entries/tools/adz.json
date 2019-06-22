@@ -1,0 +1,16 @@
+{
+    "name": "Adz",
+    "icon": "earthworks:tool_adz",
+    "category": "tools",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Should you wish to rotate blocks around in the world, the $(item)Adz$() is the tool for you.$(br2)Right clicking any block with the $(item)Adz$() rotates it around the axis you clicked on. You can use this to rotate pistons, stairs, furnaces and many more.$(br2)See also, the $(l:intro/keybinds)Lock Rotation keybind$()."
+        },
+        {
+            "type": "crafting",
+            "recipe": "earthworks:tool_adz"
+        }
+    ]
+}

@@ -5,9 +5,6 @@ setTranslatedDescription("Mine all different types of ores in the nether")
 
 addParent("triumph:vanilla/nether/root")
 
-criteria = addCriteria("Gold", "minecraft:inventory_changed")
-criteria.addItem("minecraft:gold_nugget")
-
 criteria = addCriteria("Quartz", "minecraft:inventory_changed")
 criteria.addItem("minecraft:quartz")
 

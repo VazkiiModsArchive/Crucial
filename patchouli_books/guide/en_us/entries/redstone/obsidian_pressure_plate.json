@@ -1,0 +1,16 @@
+{
+    "name": "Obsidian Pressute Plate",
+    "icon": "quark:obsidian_pressure_plate",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/story/form_obsidian",
+    "pages": [
+        {
+            "type": "text",
+            "text": "For those situations when you only want yourself to be able to trigger something, get an $(item)Obsidian Pressure Plate$(). Only players can trigger this pressure plate, making it perfect for base entrances and the like."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:obsidian_pressure_plate"
+        }
+    ]
+}

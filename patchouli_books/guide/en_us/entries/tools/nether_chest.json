@@ -1,0 +1,16 @@
+{
+    "name": "Nether Chest",
+    "icon": "netherchest:nether_chest",
+    "category": "tools",
+    "advancement": "triumph:crucial/end/hawthorn",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Nether Chest$() embodies the dimensional properties of the nether to provide a storage solution that can store eight times as many items per slot. Each slot in the chest can store up to 512 items!$(br2)As a downside to this, however, the chest can not have items inserted or taken from it via automation."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:hawthorn_nether_chest"
+        }
+    ]
+}

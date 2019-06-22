@@ -65,6 +65,9 @@ recipes.removeByRegex("traverse:fir_.*");
 
 LootTable.removeGlobalItem("minecraft:fishing_rod");
 
+// Disable coords in the totem of returning
+<charm:totem_of_returning>.removeTooltip(".+, Dimension.+");
+
 function removeFromJEIRegex(exp as string) {
 	var allItems = itemUtils.getItemsByRegexRegistryName(exp) as IItemStack[];
 	for item in allItems {

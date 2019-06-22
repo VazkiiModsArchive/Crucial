@@ -1,0 +1,16 @@
+{
+    "name": "Redstone Charger",
+    "icon": "inspirations:redstone_charger",
+    "category": "tools",
+    "advancement": "triumph:crucial/nether/ores",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Redstone Charger$() is a really simple tool. When right clicked, it creates a short redstone pulse on the block you right clicked on."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:amethyst_charger"
+        }
+    ]
+}
