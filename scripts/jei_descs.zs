@@ -35,6 +35,8 @@ JEI.addDescription(<quark:diamond_heart>, "The Heart of Diamond is dropped by St
 JEI.addDescription(<quark:soul_bead>, "Soul Beads are dropped by Wraiths in the nether. Note that Wraiths only spawn on Soul Sand.");
 JEI.addDescription(<quark:enderdragon_scale>, "The Dragon Scale is dropped by an Enderdragon that was manually spawned by a player.");
 JEI.addDescription(<quark:pirate_hat>, "The Pirate Hat is dropped by Pirates or found in their chests out by the open sea.");
+JEI.addDescription(<minecraft:sand:0>, "Sand is dropped from Husks upon death.");
+JEI.addDescription(<minecraft:sand:1>, "Red Sand is dropped from Husks upon death, if the Husk is on fire.");
 
 // Worldgen
 JEI.addDescription(<coralreef:coral:*>, "Coral spawns in the depths of Oceans.");

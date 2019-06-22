@@ -1,5 +1,6 @@
 // Variables
 var amethyst = <ore:gemAmethyst>;
+var amethystBlock = <ore:blockAmethyst>;
 var bamboo = <ore:cropBamboo>;
 var blazePowder = <minecraft:blaze_powder>;
 var book = <ore:book>;
@@ -177,9 +178,9 @@ recipes.addShapeless("hawthorn_half_redstone", <redstoneplusplus:half_redstone>,
 
 // Queen's Charm
 recipes.addShaped("queen_charm", <contenttweaker:queen_charm>,
-	[[goldIngot, goldIngot, goldIngot],
+	[[goldIngot, amethystBlock, goldIngot],
 	[goldIngot, <nex:ghast_queen_tear>, goldIngot],
-	[goldIngot, goldIngot, goldIngot]]);
+	[goldIngot, rimeBlock, goldIngot]]);
 
 // Eye of Ender
 recipes.removeByRecipeName("minecraft:ender_eye");
