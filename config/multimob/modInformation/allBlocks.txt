@@ -305,6 +305,9 @@ additionalenderblocks:end_brick_stairs
 additionalenderblocks:smooth_end_stone_stairs
 additionalenderblocks:end_door
 additionalenderblocks:end_trapdoor
+quark:glowstone_dust_block
+quark:gunpowder_block
+quark:black_ash
 quark:sandstone_new
 quark:sandstone_bricks_stairs
 quark:red_sandstone_bricks_stairs
@@ -646,9 +649,6 @@ quark:acacia_button
 quark:dark_oak_button
 quark:charcoal_block
 quark:pipe
-quark:glowstone_dust_block
-quark:gunpowder_block
-quark:black_ash
 redstoneplusplus:rotator
 redstoneplusplus:rotator_clockwise
 redstoneplusplus:rotator_moving

@@ -173,7 +173,7 @@ recipes.addShapeless("hawthorn_half_slime", <redstoneplusplus:half_slime>,
 // Half Redstone Block
 recipes.removeByRecipeName("redstoneplusplus:half_redstone");
 recipes.addShapeless("hawthorn_half_redstone", <redstoneplusplus:half_redstone>,
-	[<minecraft:slime>, <minecraft:stone_slab>, hawthornPaste]);
+	[<minecraft:redstone_block>, <minecraft:stone_slab>, hawthornPaste]);
 
 // Queen's Charm
 recipes.addShaped("queen_charm", <contenttweaker:queen_charm>,

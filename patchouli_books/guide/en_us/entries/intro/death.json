@@ -6,7 +6,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "Death in $(thing)Crucial$() works in a slightly different manner from vanilla.$(br2)Should you die, a $(item)Totem of Holding$() will spawn in your deathbed, and will hold any items you were carrying on you. If you manage to reach the totem without dying again, simply whack it a few times to get your stuff back. If you die on the way, though, your items will fall to the ground."
+            "text": "Death in $(thing)Crucial$() works in a slightly different manner from vanilla.$(br2)Should you die, a $(item)Totem of Holding$() will spawn in your deathbed, and will hold any items you were carrying on you. If you manage to reach the totem without dying again, simply whack it a few times to get your stuff back."
+        },
+        {
+            "type": "text",
+            "text": "Be aware, however, that if you die on the way to collecting your items, they will all fall to the ground!$(br2)Lastly, holding the $(item)$(k:playerlist)$() key will show the amount of deaths of the players in your world, right next to their names. (yes, even in singleplayer)"
         }
     ]
 }
