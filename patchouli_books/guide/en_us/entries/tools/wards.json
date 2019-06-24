@@ -1,0 +1,29 @@
+{
+    "name": "Wards",
+    "icon": "wards:ward",
+    "category": "tools",
+    "advancement": "triumph:crucial/story/ward",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Wards$() are cool new blocks that allow you to make use of your spare enchantment books in new ways.$(br2)For starters, place one down, and right click it with a compatible enchanted book (look for the $(item)Ward$() icon on the tooltip). The $(item)Ward$() is fueled by either Lapis or $(item)Enchanted Paper$(), so right click it with some of that, too."
+        },
+        {
+            "type": "crafting",
+            "recipe": "crafttweaker:amethyst_ward",
+            "recipe2": "wards:enchanted_paper"
+        }, 
+        {
+            "type": "text",
+            "text": "$(item)Wards$() have two different effects, based on the type of books you put in them. The first being player buffs.$(br2)Putting a compatible book inside the $(item)Ward$() will provide the book's effect to any nearby players. The higher the level, the higher the range.$(br2)The second effect is $(thing)Expel Magic$(). Specific enchantments allow for the $(item)Ward$() to emit bursts of energy every 5 seconds that attack nearby monsters"
+        },
+        {
+            "type": "text",
+            "text": "Depending on the enchantment, different effects may be applied. We leave that for you to find out.$(br2)$(item)Wards$() may also be controlled through redstone. Any level of power to the ward will disable its passive effect. To disable expel magic, provide a level of power higher than 12.$(br2)Furthermore, two $(item)Wards$() within 15 blocks of eachother will cancel out, so make sure to keep them at a safe distance."
+        },
+        {
+            "type": "text",
+            "text": "Lastly, should you wish to disable a $(item)Ward$()'s effects and have it only as a display feature, you may right click it with a Stick to do so."
+        }
+    ]
+}

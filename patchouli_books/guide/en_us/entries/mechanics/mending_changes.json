@@ -1,0 +1,12 @@
+{
+    "name": "Mending Changes",
+    "icon": "minecraft:enchanted_book",
+    "category": "mechanics",
+    "advancement": "triumph:crucial/nether/ores",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Mending enchantment functions in a different way in $(thing)Crucial$(). Instead of repairing your tools, it serves as a way to reset the repair cost on an item.$(br2)You'll notice that repaired items will get a tooltip to note they've been repaired. Combining a repaired item with a mending book gets rid of this, as well as the extra cost associated with it."
+        }
+    ]
+}
