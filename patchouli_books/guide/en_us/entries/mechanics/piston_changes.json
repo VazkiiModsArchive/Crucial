@@ -1,0 +1,16 @@
+{
+    "name": "Piston Changes",
+    "icon": "minecraft:piston",
+    "category": "mechanics",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "A few changes are made to Pistons in the $(thing)Crucial$() modpack.$(li)Pistons may push up to 24 blocks, rather than 12.$(li)Pistons can push blocks with more complex contents, such as Chests or Hoppers.$(li)Non-sticky Pistons can push dropped items further, they just launch them!$(li)Sticky Pistons can pull dropped items into them, provided they're adjacent."
+        },
+        {
+            "type": "text",
+            "text": "Additionally, while not directly relating to Pistons, items will bounce off Slime Blocks just as much as normal living things do.$(br2)You can combine this with Pistons' new ability to push items for some fun devices."
+        }
+    ]
+}

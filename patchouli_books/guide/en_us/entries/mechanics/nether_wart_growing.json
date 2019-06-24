@@ -1,0 +1,12 @@
+{
+    "name": "Nether Wart Growing",
+    "icon": "minecraft:nether_wart",
+    "category": "mechanics",
+    "advancement": "triumph:vanilla/nether/obtain_blaze_rod",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Before you can plant Nether Wart, you'll need to treat the Soul Sand it'll grow in.$(br2)To do so, simply grab a hoe and till it. However, do bear in mind that Soul Sand will not be hydrated by Water. You'll have to go to the frozen biome in the nether and grab yourself some $(item)Ichor$()."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Dispenser Changes",
+    "icon": "minecraft:dispenser",
+    "category": "mechanics",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Dispensers are powered up in $(thing)Crucial$()! Aside from their usual tasks, they can do much more, such as...$(li)Place blocks$(li)Plant seeds$(li)Play music discs with a Jukebox$(li)Feed animals (they'll eat the food off the ground)$(li)Place blocks in minecarts"
+        }
+    ]
+}

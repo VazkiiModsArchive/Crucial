@@ -1,0 +1,54 @@
+{
+    "name": "Beacon Modification",
+    "icon": "minecraft:beacon",
+    "category": "mechanics",
+    "advancement": "triumph:vanilla/nether/create_beacon",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Placing special blocks on top of the beacon pyramid will unlock different effects for your Beacon.$(br2)The blocks must be placed at the same layer as the Beacon block itself, and will replace effects from the beacon.$(br2)Check the $(l:mechanics/custom_potions)New Potions$() page for any you may not recognise."
+        },
+        {
+            "type": "spotlight",
+            "item": "quark:crystal",
+            "title": "Night Vision",
+            "text": "$(bold)Beacon Tier: 1$()$(br2)Using any color of $(item)Cave Crystal$() will have the beacon provide $(thing)Night Vision$()."
+        },
+        {
+            "type": "spotlight",
+            "item": "quark:glowshroom_block",
+            "title": "Danger Sight",
+            "text": "$(bold)Beacon Tier: 2$()$(br2)Using a $(item)Glowshroom Block$() (harvestable with Silk Touch from a big Glowshroom) will have the beacon provide $(thing)Danger Sight$()."
+        },
+        {
+            "type": "spotlight",
+            "item": "nex:frostburn_ice",
+            "title": "Fire Resistance",
+            "text": "$(bold)Beacon Tier: 3$()$(br2)Using $(item)Frostburn Ice$() will have the beacon provide $(thing)Fire Resistance$()."
+        },
+        {
+            "type": "spotlight",
+            "item": "nex:rime_block",
+            "title": "Magnetism",
+            "text": "$(bold)Beacon Tier: 1$()$(br2)Using a $(item)Nether Rime Block$() will have the beacon provide $(thing)Magnetism$()."
+        },
+        {
+            "type": "spotlight",
+            "item": "coralreef:reef",
+            "title": "Water Breathing",
+            "text": "$(bold)Beacon Tier: 3$()$(br2)Using $(item)Coral Reef$() will have the beacon provide $(thing)Water Breathing$()."
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:pixie_dust_block",
+            "title": "Learning",
+            "text": "$(bold)Beacon Tier: 3$()$(br2)Using a $(item)Pixie Dust Block$() will have the beacon provide $(thing)Learning$()."
+        },
+        {
+            "type": "spotlight",
+            "item": "charm:rotten_flesh_block",
+            "title": "Hunger",
+            "text": "$(bold)Beacon Tier: 3$()$(br2)Using a $(item)Rotten Flesh Block$() will have the beacon provide $(thing)Hunger$().$(br2)You monster."
+        }
+    ]
+}

@@ -59,7 +59,7 @@ JEI.addDescription(<quark:root>, "Cave Roots can be found underground. They can 
 JEI.addDescription(<quark:root_flower:*>, "Sprouts drop from Cave Roots, which can be found underground. They can be harvested with shears and will grow naturally in dark areas.");
 JEI.addDescription(<quark:biotite>, "Ender Biotite spawns as an ore in the main end island after killing the Enderdragon. Killing more dragons makes more Biotite.");
 JEI.addDescription(<stygian:endmagma>, "Leachstone spawns in the outer islands of the End.");
-JEI.addDescription(<stygian:endcactus>, "Hawthorn spawns in the outer islands of the End. It grows on Leachstone.");
+JEI.addDescription(<stygian:endcactus>, "Hawthorn spawns in the outer islands of the End. Unfortunately, it does not seem to grow.");
 JEI.addDescription(<forge:bucketfilled>.withTag({FluidName: "endacid", Amount: 1000}), "Stygian Acid spawns on the outer islands of the End. Bring a bucket to get it.");
 JEI.addDescription(<forge:bucketfilled>.withTag({FluidName: "blood", Amount: 1000}), "Ichor spawns in the frozen Nether biome. Bring a bucket to get it.");
 JEI.addDescription(<traverse:red_rock>, "Red Rock spawns in the Canyon biome.");

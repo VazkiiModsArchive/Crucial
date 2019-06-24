@@ -1,0 +1,16 @@
+{
+	"components": [
+		{
+			"type": "image",
+			"image": "patchouli:textures/gui/crafting.png",
+			"texture_width": 128,
+			"texture_height": 128,
+			"u": 65,
+			"v": 27,
+			"width": 9,
+			"height": 9,
+			"x": 0,
+			"y": 0
+		}
+	]
+}

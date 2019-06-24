@@ -1,0 +1,25 @@
+{
+    "name": "Half Blocks",
+    "icon": "redstoneplusplus:half_slime",
+    "category": "redstone",
+    "advancement": "triumph:crucial/end/hawthorn",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Half Slime Blocks$() are a cool way to create distinct connections for pistons and $(l:redstone/rotator)Rotators$().$(br2)When moved, blocks will stick to the all slime side, but not the all stone side. Only slime blocks and $(item)Half Slime Blocks$() will stick to the half stone half slime side."
+        },
+        {
+            "type": "crafting",
+            "recipe": "redstoneplusplus:half_slime"
+        },
+        {
+            "type": "text",
+            "text": "$(item)Half Redstone Blocks$() allow one to create direction redstone signals that can be moved by pistons and $(l:redstone/rotator)Rotators$().$(br2)The $(item)Half Redstone Block$() only emits a redstone signal from the all redstone side. Other sides do not emit any signals."
+        },
+        {
+            "type": "crafting",
+            "recipe": "redstoneplusplus:half_redstone"
+        }
+    ]
+}
+

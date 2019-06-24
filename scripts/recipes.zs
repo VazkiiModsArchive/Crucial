@@ -166,16 +166,6 @@ recipes.addShaped("hawthorn_nether_chest", <netherchest:nether_chest>,
 	[hawthornPaste, blazePowder, hawthornPaste],
 	[ironIngot, <minecraft:nether_brick>, ironIngot]]);
 
-// Half Slime Block
-recipes.removeByRecipeName("redstoneplusplus:half_slime");
-recipes.addShapeless("hawthorn_half_slime", <redstoneplusplus:half_slime>,
-	[<minecraft:slime>, <minecraft:stone_slab>, hawthornPaste]);
-
-// Half Redstone Block
-recipes.removeByRecipeName("redstoneplusplus:half_redstone");
-recipes.addShapeless("hawthorn_half_redstone", <redstoneplusplus:half_redstone>,
-	[<minecraft:redstone_block>, <minecraft:stone_slab>, hawthornPaste]);
-
 // Queen's Charm
 recipes.addShaped("queen_charm", <contenttweaker:queen_charm>,
 	[[goldIngot, amethystBlock, goldIngot],

@@ -1,0 +1,90 @@
+{
+    "name": "New Potions",
+    "icon": "minecraft:brewing_stand",
+    "category": "mechanics",
+    "advancement": "triumph:vanilla/nether/obtain_blaze_rod",
+    "pages": [
+        {
+            "type": "text",
+            "text": "A whole slew of new potions can be made using ingredients you may find in your travels.$(br2)This entry serves to catalogue all of them for your perusal."
+        },
+        {
+            "type": "brewing",
+            "item": "minecraft:firework_charge",
+            "potion": "extraalchemy:fuse_normal",
+            "text": "When the effect of this potion runs out, whichever entity had it will explode!$(br2)Probably not something you want on yourself, make an arrow out of it perhaps."
+        },
+        {
+            "type": "brewing",
+            "item": "minecraft:clay_ball",
+            "potion": "extraalchemy:sinking_normal",
+            "text": "Any entities under the effect of this potion will be unable to swim, and will sink instead."
+        },
+        {
+            "type": "brewing",
+            "item": "minecraft:beetroot",
+            "potion": "extraalchemy:pyper_normal",
+            "text": "If you find herding animals troublesome, simply have a swig of this potion, and they'll all come following you."
+        },
+        {
+            "type": "brewing",
+            "item": "quark:root",
+            "potion": "extraalchemy:magnetism_normal",
+            "text": "While under the effect of this potion, items will jump into your inventory from much further away.$(br2)You may negate this effect by pressing $(item)$(k:Toggle Magnetism Suppressor)$() on your keyboard."
+        },
+        {
+            "type": "brewing",
+            "item": "nex:wither_bone",
+            "potion": "extraalchemy:crumbling_normal",
+            "text": "Any entities under the effect of this potion will crumble away any dirt, sand, gravel, or stone blocks under them."
+        },
+        {
+            "type": "brewing",
+            "item": "minecraftfuture:sweetberry",
+            "potion": "extraalchemy:photosynthesis_normal",
+            "text": "Players under this effect will regenerate hunger points while under the sunlight.$(br2)Turns out sunlight isn't very saturating though, so make sure to actually eat something too."
+        },
+        {
+            "type": "brewing",
+            "item": "nex:salamander_hide,nex:salamander_hide:1",
+            "potion": "extraalchemy:reincarnation_normal",
+            "text": "Dying under the effect of this potion keeps your potion effects on you.$(br2)If you want to not bring the negative ones with you as well, make sure to upgrade it."
+        },
+        {
+            "type": "brewing",
+            "item": "familiarfauna:pixie_dust",
+            "potion": "extraalchemy:learning_normal",
+            "text": "Any players under the effect of this potion will gain additional experience."
+        },
+        {
+            "type": "brewing",
+            "item": "minecraft:apple",
+            "potion": "extraalchemy:gravity_normal",
+            "text": "This potion will prevent anything infused with its effect from flying. Shoot it at a ghast for some fun times."
+        },
+        {
+            "type": "brewing",
+            "item": "coralreef:coral:0,coralreef:coral:1,coralreef:coral:2,coralreef:coral:3,coralreef:coral:4,coralreef:coral:5",
+            "potion": "extraalchemy:sails_normal",
+            "text": "Players affected with this potion will row their boat at incredible speeds, allowing them to sail through the oceans faster than ever."
+        },
+        {
+            "type": "brewing",
+            "item": "quark:glowshroom",
+            "potion": "quark:danger_sight",
+            "text": "Drinking this potion will make it so that any areas around in which mobs can spawn will have particles coming out of them."
+        },
+        {
+            "type": "brewing",
+            "item": "minecraft:prismarine_crystals",
+            "potion": "quark:haste",
+            "text": "This is just the vanilla Haste effect, but with a recipe!$(br2)Additionally, you can toss a Fermented Spider Eye into it to annoy your friends with Mining Fatigue."
+        },
+        {
+            "type": "brewing",
+            "item": "quark:biotite",
+            "potion": "quark:resistance",
+            "text": "This is also just the vanilla Resistance effect, again, with a recipe."
+        }
+    ]
+}

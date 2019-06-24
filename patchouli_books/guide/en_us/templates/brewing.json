@@ -1,0 +1,43 @@
+{
+	"include": [
+		{
+			"template": "component/arrow",
+			"as": "arrrow",
+			"x": 54,
+			"y": 28
+		}
+	],
+	"components": [
+		{
+			"type": "header",
+			"text": "minecraft:potion{Potion:'#potion#'}->iname",
+			"x": -1
+		},
+		{
+			"type": "item",
+			"framed": true,
+			"item": "#item",
+			"x": 30,
+			"y": 15
+		},
+		{
+			"type": "item",
+			"framed": true,
+			"item": "minecraft:potion{Potion:'#potion#'}",
+			"x": 70,
+			"y": 25
+		},
+		{
+			"type": "item",
+			"framed": false,
+			"item": "minecraft:potion{Potion:'minecraft:awkward'}",
+			"x": 30,
+			"y": 35
+		},
+		{
+			"type": "text",
+			"text": "#text",
+			"y": 60
+		}
+	]
+}

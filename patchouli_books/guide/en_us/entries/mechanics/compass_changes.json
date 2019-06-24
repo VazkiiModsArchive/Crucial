@@ -1,0 +1,16 @@
+{
+    "name": "Compass Changes",
+    "icon": "minecraft:compass",
+    "category": "mechanics",
+    "advancement": "triumph:vanilla/story/smelt_iron",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Compasses will now function in both the Nether and the End.$(li)When used in the Nether, a compass will point to the portal you came in from. Note that you must have the compass on you when you $(italic)enter$() the Nether.$(li)When used in the End, it'll point to the return portal to the Overworld."
+        },
+        {
+            "type": "text",
+            "text": "Furthermore, both Compasses and Clocks no longer function unless they are crafted.$(br2)Say goodbye to looking through your guides for directions."
+        }
+    ]
+}
