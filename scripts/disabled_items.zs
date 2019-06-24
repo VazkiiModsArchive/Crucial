@@ -52,9 +52,6 @@ removeFromJEIRegex("traverse:fir_.*");
 
 hideFromJEIRegex("ore_stone_variants:.*");
 
-JEI.hide(<redstoneplusplus:rotator_moving>);
-JEI.hide(<redstoneplusplus:rotator_head>);
-JEI.hide(<redstoneplusplus:rotator_clockwise>);
 JEI.hide(<storagedrawers:upgrade_creative>);
 JEI.hide(<patchouli:guide_book>);
 
