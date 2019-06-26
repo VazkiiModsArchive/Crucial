@@ -51,7 +51,6 @@ removeFromJEIRegex("traverse:fir_.*");
 
 hideFromJEIRegex("ore_stone_variants:.*");
 
-JEI.hide(<storagedrawers:upgrade_creative>);
 JEI.hide(<patchouli:guide_book>);
 
 recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>);
