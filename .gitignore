@@ -23,5 +23,17 @@ playerschoice.marker
 desktop.ini
 .ReAuth.cfg
 patchouli_data.json
-config/multimob/modInformation/*.txt
-config/NetherEx/Biomes/**/*.json
+
+# Things that change all the time
+config/splash.properties
+config/jei/worldSettings.cfg
+config/multimob/modInformation/allBiomeTypes.txt
+config/multimob/modInformation/allBlocks.txt
+config/multimob/modInformation/allBlockStates.txt
+config/multimob/modInformation/allEntities.txt
+config/multimob/modInformation/allItems.txt
+config/NetherEx/Biomes/minecraft/hell.json
+config/NetherEx/Biomes/minecraft/arctic_abyss.json
+config/NetherEx/Biomes/minecraft/fungi_forest.json
+config/NetherEx/Biomes/minecraft/ruthless_sands.json
+config/NetherEx/Biomes/minecraft/torrid_wasteland.json
