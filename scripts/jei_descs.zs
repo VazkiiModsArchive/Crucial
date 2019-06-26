@@ -23,7 +23,7 @@ JEI.addDescription(<jaff:fish_bucket_pufferfish>, "Fish a Pufferfish with a Buck
 
 // Mob Drops
 JEI.addDescription(<charm:endermite_powder>, "Endermite Powder is dropped by Endermites in the End.");
-JEI.addDescription(<nex:wither_bone>, "Wither Boens are dropped by Wither Skeletons.");
+JEI.addDescription(<nex:wither_bone>, "Wither Bones are dropped by Wither Skeletons.");
 JEI.addDescription(<nex:salamander_hide:*>, "Salamander Hide is dropped by Salamanders in the Nether.");
 JEI.addDescription(<nex:bone_spider_fang>, "Frost Fangs are dropped by Bone Spiders in the Nether.");
 JEI.addDescription(<nex:ghast_queen_tear>, "Ghast Queen Tears are dropped by the Ghast Queen boss.\n\nTo summon the Ghast Queen, use a Potion of the Lost and a Ghast Tear on an Urn of Sorrow.");

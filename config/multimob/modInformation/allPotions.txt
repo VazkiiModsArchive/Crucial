@@ -25,6 +25,8 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
+quark:curse
+quark:danger_sight
 extraalchemy:effect.fuse
 extraalchemy:effect.recall
 extraalchemy:effect.sinking

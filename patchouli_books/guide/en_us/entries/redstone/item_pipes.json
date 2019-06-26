@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Item Pipes$() can be used to transport items around. Pipes will connect to any adjacent pipe blocks, and will transfer items between them.$(br2)To insert items into a pipe, you can use any sort of item manipulation, such as a $(item)Hopper$(), or a $(item)Dropper$(). Pipes may also accept dropped items from a endpoint."
+            "text": "$(item)Item Pipes$() can be used to transport items around. Pipes will connect to any adjacent pipe blocks, and will transfer items between them.$(br2)To insert items into a pipe, you can use any sort of item manipulation, such as a $(item)Hopper$(), or a $(item)Dropper$()."
         },
         {
             "type": "crafting",
@@ -18,7 +18,7 @@
         },
         {
             "type": "text",
-            "text": "Additionally, pipes have some extra rules not related to pathing.$(li)Pipes can be turned off with redstone. Disabled pipes will not accept items.$(li)The contents of a pipe can be read with a comparator$(li)Pipes can be moved by pistons, and will keep the items inside.$(li)Pipes with a wall block above or below get a structural tidbit."
+            "text": "Additionally, pipes have some extra rules not related to pathing.$(li)Pipes can be turned off with redstone. Disabled pipes will not accept items.$(li)The contents of a pipe can be read with a comparator$(li)Pipes can be moved by pistons, and will keep the items inside."
         },
         {
             "type": "text",

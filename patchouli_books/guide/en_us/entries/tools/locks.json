@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "If you want to protect your items, you can do so with a $(item)Lock$(). Name the lock an an anvil and right click it into your container of choice and the container will be locked.$(br2)The only way to open it will be with a $(item)Key$() with a matching name."
+            "text": "If you want to protect your items, you can do so with a $(item)Lock$(). Name the lock at an anvil and right click it into your container of choice and the container will be locked.$(br2)The only way to open it will be with a $(item)Key$() with a matching name."
         },
         {
             "type": "crafting",

@@ -3,8 +3,9 @@
 
 // Specific Blocks
 var plaster = <earthworks:block_plaster>;
-var daub_cob = <earthworks:block_wattle>;
+var wattle = <earthworks:block_wattle>;
 var framed_lp = <earthworks:plaster_square>;
+var framed_cd = <earthworks:daub_cob_square>;
 var timber = <earthworks:item_timber>;
 
 // Oredict Definitions 
@@ -372,12 +373,12 @@ cobdaub.add(<earthworks:daub_cob_right>);
 cobdaub.add(<earthworks:daub_cob_left>);
 
 // This is going to be good
-recipes.addShaped(framed_lp * 10,
-	[[timber, plaster, timber],
-	[plaster, plaster, plaster],
-	[timber, plaster, timber]]);
+recipes.addShaped(framed_cd * 10,
+	[[timber, wattle, timber],
+	[wattle, wattle, wattle],
+	[timber, wattle, timber]]);
 	
-recipes.addShaped(framed_lp * 8,
+recipes.addShaped(framed_cd * 8,
 	[[cobdaub, cobdaub, cobdaub],
 	[cobdaub, null, cobdaub],
 	[cobdaub, cobdaub, cobdaub]]);

@@ -179,7 +179,7 @@ recipes.addShapeless("queen_ender_eye", <minecraft:ender_eye>,
 
 // Bamboo Block
 recipes.removeByRecipeName("earthworks:block_reed");
-recipes.addShaped("bamboo_reed", <earthworks:block_reed> * 4,
+recipes.addShaped("bamboo_reed", <earthworks:block_reed>,
 	[[bamboo, bamboo],
 	[bamboo, bamboo]]);
 

@@ -35,6 +35,17 @@ minecraft:strong_strength
 minecraft:weakness
 minecraft:long_weakness
 minecraft:luck
+quark:haste
+quark:long_haste
+quark:strong_haste
+quark:mining_fatigue
+quark:long_mining_fatigue
+quark:strong_mining_fatigue
+quark:resistance
+quark:long_resistance
+quark:strong_resistance
+quark:danger_sight
+quark:long_danger_sight
 extraalchemy:fuse_normal
 extraalchemy:fuse_strong
 extraalchemy:fuse_quick

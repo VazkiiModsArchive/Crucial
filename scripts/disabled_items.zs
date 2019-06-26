@@ -1,6 +1,5 @@
 import crafttweaker.item.IItemStack;
 import mods.jei.JEI;
-import mods.ltt.LootTable;
 
 JEI.removeAndHide(<charm:crate:*>);
 JEI.removeAndHide(<extraalchemy:vial_break>);
@@ -59,8 +58,7 @@ recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>)
 recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);
 
 recipes.removeByRegex("traverse:fir_.*");
-
-LootTable.removeGlobalItem("minecraft:fishing_rod");
+recipes.removeByRecipeName("redstonepcb:pcb_block");
 
 // Disable coords in the totem of returning
 <charm:totem_of_returning>.removeTooltip(".+, Dimension.+");
