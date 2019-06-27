@@ -202,3 +202,8 @@ furnace.addRecipe(<minecraft:gold_ingot>, <contenttweaker:gold_chunk>, 1.0);
 
 // Bamboo To Sticks
 recipes.addShapeless("bamboo_to_sticks", <minecraft:stick> * 2, [bamboo]);
+
+// Logs to Sticks
+recipes.addShaped("log_to_sticks", <minecraft:stick> * 16,
+	[[log],
+	[log]]);
