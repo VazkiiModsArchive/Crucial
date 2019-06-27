@@ -10,7 +10,7 @@
         },
         {
             "type": "text",
-            "text": "Be aware, however, that if you die on the way to collecting your items, they will all fall to the ground!$(br2)Lastly, holding the $(item)$(k:playerlist)$() key will show the amount of deaths of the players in your world, right next to their names. (yes, even in singleplayer)"
+            "text": "Be aware, however, that if you die on the way to collecting your items, they will all fall to the ground!$(br2)Chances are, by the time you're reading this, you can't make one yet, but a $(item)Soul Compass$() will point to where you last died, should you need it.$(br2)Lastly, holding the $(item)$(k:playerlist)$() key will show the amount of deaths of the players in your world, right next to their names. (yes, even in singleplayer)"
         }
     ]
 }
