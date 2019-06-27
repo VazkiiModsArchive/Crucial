@@ -203,7 +203,7 @@
         "block": "minecraft:netherrack"
       },
       "veinSize": 3,
-      "genAttempts": 16,
+      "genAttempts": 32,
       "genProbability": 1.0,
       "minGenHeight": 10,
       "maxGenHeight": 108,
