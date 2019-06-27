@@ -55,6 +55,7 @@ JEI.hide(<patchouli:guide_book>);
 
 recipes.replaceAllOccurences(<minecraft:fishing_rod>, <jaff:wooden_fishing_rod>);
 recipes.replaceAllOccurences(<jaff:iron_hook>, <minecraft:string>);
+recipes.replaceAllOccurences(<storagedrawers:upgrade_template>, <minecraft:gold_ingot>);
 
 recipes.removeByRegex("traverse:fir_.*");
 recipes.removeByRecipeName("redstonepcb:pcb_block");
