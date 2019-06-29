@@ -41,7 +41,6 @@ JEI.removeAndHide(<inspirations:materials:4>);
 JEI.removeAndHide(<inspirations:materials:5>);
 JEI.removeAndHide(<nex:nether_brick_fence_gate>);
 
-removeFromJEIRegex("earthworks:.*slate.*");
 removeFromJEIRegex("earthworks:.*chalk.*");
 removeFromJEIRegex("earthworks:.*concrete.*");
 removeFromJEIRegex("earthworks:.*thatch.*");
