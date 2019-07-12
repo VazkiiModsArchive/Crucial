@@ -25,6 +25,9 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
+quark:blue
+quark:black
+quark:white
 quark:curse
 quark:danger_sight
 extraalchemy:effect.fuse

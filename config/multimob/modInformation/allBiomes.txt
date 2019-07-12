@@ -60,7 +60,6 @@ minecraft:mutated_savanna_rock
 minecraft:mutated_mesa
 minecraft:mutated_mesa_rock
 minecraft:mutated_mesa_clear_rock
-minecraftfuture:bamboo_forest
 nex:ruthless_sands
 nex:fungi_forest
 nex:torrid_wasteland
