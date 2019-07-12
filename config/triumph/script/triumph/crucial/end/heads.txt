@@ -1,0 +1,27 @@
+
+setIcon("minecraft:skull")
+setTranslatedTitle("Brain Power")
+setTranslatedDescription("Get all heads and skulls")
+setFrameType("challenge")
+
+addParent("triumph:vanilla/end/find_end_city")
+
+criteria = addCriteria("Skeleton Skull", "minecraft:inventory_changed")
+criteria.addItem("minecraft:skull", 0)
+
+criteria = addCriteria("Wither Skeleton Skull", "minecraft:inventory_changed")
+criteria.addItem("minecraft:skull", 1)
+
+criteria = addCriteria("Zombie Head", "minecraft:inventory_changed")
+criteria.addItem("minecraft:skull", 2)
+
+criteria = addCriteria("Player Head", "minecraft:inventory_changed")
+criteria.addItem("minecraft:skull", 3)
+
+criteria = addCriteria("Creeper Head", "minecraft:inventory_changed")
+criteria.addItem("minecraft:skull", 4)
+
+criteria = addCriteria("Dragon Head", "minecraft:inventory_changed")
+criteria.addItem("minecraft:skull", 5)
+
+setPos(173,-65)

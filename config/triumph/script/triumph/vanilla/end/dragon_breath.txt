@@ -8,4 +8,4 @@ addParent("triumph:vanilla/end/kill_dragon")
 
 criteria = addCriteria("dragon_breath", "minecraft:inventory_changed")
 criteria.addItem("minecraft:dragon_breath")
-setPos(43,-44)
+setPos(44,-24)

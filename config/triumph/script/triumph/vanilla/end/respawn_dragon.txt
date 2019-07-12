@@ -9,4 +9,4 @@ addParent("triumph:vanilla/end/kill_dragon")
 
 criteria = addCriteria("summoned_dragon", "minecraft:summoned_entity")
 criteria.setEntityType("ender_dragon")
-setPos(43,17)
+setPos(44,-58)

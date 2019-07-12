@@ -7,4 +7,4 @@ addParent("triumph:vanilla/husbandry/plant_seed")
 criteria = addCriteria("Egg", "minecraft:inventory_changed")
 criteria.addItem("quark:parrot_egg")
 
-setPos(66,40)
+setPos(65,40)

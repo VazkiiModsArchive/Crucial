@@ -9,4 +9,4 @@ addParent("triumph:vanilla/adventure/trade")
 
 criteria = addCriteria("summoned_golem", "minecraft:summoned_entity")
 criteria.setEntityType("minecraft:villager_golem")
-setPos(111,123)
+setPos(111,121)
