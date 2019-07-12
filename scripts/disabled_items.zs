@@ -47,6 +47,7 @@ removeFromJEIRegex("earthworks:.*thatch.*");
 removeFromJEIRegex("redstoneplusplus:.*dummy.*");
 removeFromJEIRegex("storagedrawers:.*upgrade.*");
 removeFromJEIRegex("traverse:fir_.*");
+removeFromJEIRegex("lumen:.*");
 
 hideFromJEIRegex("ore_stone_variants:.*");
 

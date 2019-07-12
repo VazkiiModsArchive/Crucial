@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-12T02:48:35.1750842Z",
+  "lastPlayed": "2019-07-12T04:02:03.6288915Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -88,6 +88,21 @@
       "queryTimestamp": "2019-07-12T01:30:46.6210704Z",
       "fileCount": 1,
       "fileSize": 462335
+    },
+    {
+      "folderName": "Endthereal-1.0.jar",
+      "fingerprint": 3976768327,
+      "fileDateHash": 1578983937,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3976768327
+      ],
+      "status": 1,
+      "timestamp": "2019-07-12T03:48:39.2348685Z",
+      "lastWriteTimeUtc": "2019-07-12T03:47:15.2740466Z",
+      "queryTimestamp": "2019-07-12T03:48:39.8988648Z",
+      "fileCount": 1,
+      "fileSize": 37013
     },
     {
       "folderName": "LibEx-1.12.2-1.0.8.jar",
@@ -496,42 +511,54 @@
     },
     {
       "folderName": "New World--",
-      "fingerprint": 1479013613,
-      "fileDateHash": 2701210035,
+      "fingerprint": 1763212267,
+      "fileDateHash": 526389426,
       "sectionID": 10,
       "individualFingerprints": [
+        6855735,
+        65933019,
         78630948,
-        381278443,
+        116977670,
+        158030775,
+        209440111,
+        367938562,
+        453967880,
         489458212,
-        489458212,
-        633649231,
+        533152453,
+        690691859,
         758054953,
         758054953,
         758054953,
-        770499991,
-        961879906,
-        1385291760,
+        855619063,
+        859376094,
+        1003956988,
+        1046986622,
+        1294463060,
         1392723290,
-        1511253860,
-        1571146366,
-        1859687061,
+        1591495087,
+        1617943012,
+        1694069257,
+        1811979710,
+        2167310422,
+        2231352004,
         2336574816,
+        2451171252,
         2748824091,
         2748824091,
         2748824091,
-        3064153068,
-        3207014012,
-        3429610747,
-        3600130298,
-        3846414452,
-        4152718630,
+        2954156735,
+        3536465259,
+        3612924762,
+        3644376069,
+        3746006080,
+        3847508324,
         4213863462,
-        4226796419
+        4244409252
       ],
       "status": 1,
-      "timestamp": "2019-07-12T02:28:17.3225308Z",
-      "lastWriteTimeUtc": "2019-07-12T01:31:55.7189445Z",
-      "queryTimestamp": "2019-07-12T02:28:17.9875312Z",
+      "timestamp": "2019-07-12T03:48:39.2358661Z",
+      "lastWriteTimeUtc": "2019-07-12T03:44:37.7167689Z",
+      "queryTimestamp": "2019-07-12T03:48:39.9018672Z",
       "fileCount": 14,
       "fileSize": 0
     },
@@ -626,21 +653,6 @@
       "fileSize": 466243
     },
     {
-      "folderName": "Streams-1.12-0.4.7.jar",
-      "fingerprint": 1870294683,
-      "fileDateHash": 2309419758,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1870294683
-      ],
-      "status": 1,
-      "timestamp": "2019-07-12T01:30:45.6790714Z",
-      "lastWriteTimeUtc": "2019-06-26T05:00:53.2495201Z",
-      "queryTimestamp": "2019-07-12T01:30:46.6250705Z",
-      "fileCount": 1,
-      "fileSize": 259009
-    },
-    {
       "folderName": "multimob-1.0.5.jar",
       "fingerprint": 2815907424,
       "fileDateHash": 1437824722,
@@ -711,21 +723,6 @@
       "queryTimestamp": "2019-07-12T01:30:46.6250705Z",
       "fileCount": 1,
       "fileSize": 238863
-    },
-    {
-      "folderName": "Farseek-1.12-2.3.2.jar",
-      "fingerprint": 1273585918,
-      "fileDateHash": 2374700218,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1273585918
-      ],
-      "status": 1,
-      "timestamp": "2019-07-12T01:30:45.5850701Z",
-      "lastWriteTimeUtc": "2019-06-26T05:00:50.5587006Z",
-      "queryTimestamp": "2019-07-12T01:30:46.6250705Z",
-      "fileCount": 1,
-      "fileSize": 482035
     },
     {
       "folderName": "Inspirations-1.12.2-0.2.5.jar",
@@ -1342,7 +1339,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-07-12T02:28:18.9535284Z",
+  "lastPreviousMatchUpdate": "2019-07-12T03:48:40.844862Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -2746,68 +2743,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 229708,
-      "gameInstanceID": "63ad0f2a-6d77-431d-a716-450ac02778e5",
-      "installedFile": {
-        "id": 2705060,
-        "displayName": "Farseek-1.12-2.3.2.jar",
-        "fileName": "Farseek-1.12-2.3.2.jar",
-        "fileDate": "2019-04-29T03:48:45.047Z",
-        "fileLength": 482035,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2705/60/Farseek-1.12-2.3.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2808097956,
-            "type": 0
-          },
-          {
-            "foldername": "farseek",
-            "fingerprint": 3703021972,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 751622310,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1273585918,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Farseek-1.12-2.3.2.jar"
-      },
-      "dateInstalled": "2019-05-28T17:14:21.7702366Z",
-      "dateUpdated": "2019-05-28T17:14:21.7722357Z",
-      "dateLastUpdateAttempted": "2019-05-28T17:14:21.7722357Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 252145,
       "gameInstanceID": "63ad0f2a-6d77-431d-a716-450ac02778e5",
       "installedFile": {
@@ -3582,6 +3517,89 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 291509,
+      "gameInstanceID": "63ad0f2a-6d77-431d-a716-450ac02778e5",
+      "installedFile": {
+        "id": 2688742,
+        "displayName": "The Endergetic Expansion v0.0.1",
+        "fileName": "endergetic-0.0.1.jar",
+        "fileDate": "2019-03-18T07:52:39.763Z",
+        "fileLength": 58222,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2688/742/endergetic-0.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 572794567,
+            "type": 0
+          },
+          {
+            "foldername": "cf",
+            "fingerprint": 177218307,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2557891840,
+            "type": 0
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 2694794701,
+            "type": 0
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 452065209,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 886939892,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2331716091,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3566709926,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-06-07T05:00:00Z",
+        "gameId": 0,
+        "FileNameOnDisk": "endergetic-0.0.1.jar"
+      },
+      "dateInstalled": "2019-07-12T03:26:57.4609894Z",
+      "dateUpdated": "2019-07-12T03:55:57.5701104Z",
+      "dateLastUpdateAttempted": "2019-07-12T03:55:57.5701104Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 273227,
@@ -4379,80 +4397,6 @@
       "dateUpdated": "2019-06-26T05:11:36.8065526Z",
       "dateLastUpdateAttempted": "2019-06-26T05:11:36.8065526Z",
       "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 229769,
-      "gameInstanceID": "63ad0f2a-6d77-431d-a716-450ac02778e5",
-      "installedFile": {
-        "id": 2707706,
-        "displayName": "Streams-1.12-0.4.7.jar",
-        "fileName": "Streams-1.12-0.4.7.jar",
-        "fileDate": "2019-05-05T21:13:54.507Z",
-        "fileLength": 259009,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2707/706/Streams-1.12-0.4.7.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 229708,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2369831121,
-            "type": 0
-          },
-          {
-            "foldername": "streams",
-            "fingerprint": 1827229178,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3212127772,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2568385235,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1870294683,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Streams-1.12-0.4.7.jar"
-      },
-      "dateInstalled": "2019-05-28T17:14:22.6126629Z",
-      "dateUpdated": "2019-05-28T17:14:22.6156637Z",
-      "dateLastUpdateAttempted": "2019-05-28T17:14:22.6156637Z",
-      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
