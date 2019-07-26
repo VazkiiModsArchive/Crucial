@@ -28,12 +28,6 @@
         },
         {
             "type": "brewing",
-            "item": "quark:root",
-            "potion": "extraalchemy:magnetism_normal",
-            "text": "While under the effect of this potion, items will jump into your inventory from much further away.$(br2)You may negate this effect by pressing $(item)$(k:Toggle Magnetism Suppressor)$() on your keyboard."
-        },
-        {
-            "type": "brewing",
             "item": "nex:wither_bone",
             "potion": "extraalchemy:crumbling_normal",
             "text": "Any entities under the effect of this potion will crumble away any dirt, sand, gravel, or stone blocks under them."
