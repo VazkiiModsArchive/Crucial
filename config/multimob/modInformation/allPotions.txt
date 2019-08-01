@@ -28,6 +28,7 @@ minecraft:unluck
 quark:blue
 quark:black
 quark:white
+quark:resilience
 quark:curse
 quark:danger_sight
 extraalchemy:effect.fuse
