@@ -7,4 +7,4 @@ addParent("triumph:vanilla/nether/summon_wither")
 
 criteria = addCriteria("beacon", "minecraft:construct_beacon")
 criteria.setLevelsMin(1)
-setPos(85,116)
+setPos(114,80)

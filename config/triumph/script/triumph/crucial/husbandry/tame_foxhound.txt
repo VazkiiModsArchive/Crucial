@@ -1,0 +1,10 @@
+setIcon("minecraft:coal")
+setTranslatedTitle("Raise Your Flag")
+setTranslatedDescription("Pacify and tame a Foxhound with Coal while under Fire Resistance")
+
+addParent("triumph:vanilla/husbandry/tame_an_animal")
+
+criteria = addCriteria("Tame", "minecraft:tame_animal")
+criteria.setEntityType("quark:foxhound")
+
+setPos(64,-89)

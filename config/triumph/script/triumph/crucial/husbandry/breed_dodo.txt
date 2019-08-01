@@ -7,4 +7,4 @@ addParent("triumph:vanilla/husbandry/breed_an_animal")
 criteria = addCriteria("Dodo", "minecraft:bred_animals")
 criteria.setParentType("primitivemobs:dodo")
 
-setPos(65,-45)
+setPos(64,-45)

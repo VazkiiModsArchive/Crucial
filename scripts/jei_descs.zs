@@ -22,7 +22,7 @@ JEI.addDescription(<jaff:fish_bucket_clownfish>, "Fish a Clownfish with a Bucket
 JEI.addDescription(<jaff:fish_bucket_pufferfish>, "Fish a Pufferfish with a Bucket of Water on your hotbar to put it live in the bucket.");
 
 // Mob Drops
-JEI.addDescription(<charm:endermite_powder>, "Endermite Powder is dropped by Endermites in the End.");
+JEI.addDescription(<charm:endermite_powder>, "Endermite Powder is dropped by Endermites in the End. It can be used to locate End Cities.");
 JEI.addDescription(<nex:wither_bone>, "Wither Bones are dropped by Wither Skeletons.");
 JEI.addDescription(<nex:salamander_hide:*>, "Salamander Hide is dropped by Salamanders in the Nether.");
 JEI.addDescription(<nex:bone_spider_fang>, "Frost Fangs are dropped by Bone Spiders in the Nether.");
@@ -76,7 +76,7 @@ JEI.addDescription(<charm:rune_portal_frame:*>, "Right click a Rune onto an End 
 JEI.addDescription(<contenttweaker:queen_charm>, "The Charm is a catalyst, and is not used up when crafted with.");
 JEI.addDescription(<quark:backpack>, "Backpacks can be made by a Leatherworker villager. You'll have to trade with it once or twice to level it up first.");
 JEI.addDescription(<quark:parrot_egg:*>, "Parrot Eggs are laid by parrots after being fed a sufficient amount of Beetroot Seeds.");
-JEI.addDescription(<quark:archaeologist_hat>, "The Archaeologist Hat is sold by Archaeologists, which can be rarely found underground.");
+JEI.addDescription(<quark:archaeologist_hat>, "The Archaeologist Hat is sold by Archaeologists, which can be rarely found underground.\n\nWhen worn, there's a chance for ores to drop additional items.");
 JEI.addDescription(<redstonepcb:pcb_block>, "Etched Stone Blocks can be made by pouring Stygian Acid over Stone and waiting a few seconds.");
 JEI.addDescription(<charm:bound_compass>, "The Bound Compass can be created by right clicking a Compass on an active Beacon.");
 JEI.addDescription(<quark:glowshroom_block>, "Glowshroom Blocks can be acquired by bone mealing a Glowshroom over Glowcelium. The blocks can only be harvested with Silk Touch.");

@@ -6,4 +6,4 @@ addParent("triumph:vanilla/nether/find_fortress")
 
 criteria = addCriteria("wither_skull", "minecraft:inventory_changed")
 criteria.addItem("minecraft:skull", 1)
-setPos(19,80)
+setPos(33,80)

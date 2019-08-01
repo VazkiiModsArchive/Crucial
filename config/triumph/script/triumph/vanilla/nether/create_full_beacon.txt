@@ -9,4 +9,4 @@ addParent("triumph:vanilla/nether/create_beacon")
 
 criteria = addCriteria("beacon", "minecraft:construct_beacon")
 criteria.setLevelsMinMax(4, 4)
-setPos(132,116)
+setPos(153,80)

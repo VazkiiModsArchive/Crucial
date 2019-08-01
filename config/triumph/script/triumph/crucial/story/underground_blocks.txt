@@ -11,6 +11,9 @@ criteria.addItem("quark:biome_cobblestone", 0)
 criteria = addCriteria("Permafrost", "minecraft:inventory_changed")
 criteria.addItem("quark:biome_cobblestone", 1)
 
+criteria = addCriteria("Permafrost", "minecraft:inventory_changed")
+criteria.addItem("quark:biome_cobblestone", 2)
+
 criteria = addCriteria("Elder Prismarine", "minecraft:inventory_changed")
 criteria.addItem("quark:elder_prismarine", 0)
 

@@ -1,0 +1,10 @@
+setIcon("primitivemobs:spider_egg")
+setTranslatedTitle("Black Widow")
+setTranslatedDescription("Use a Spider Egg to get your own Baby Spider")
+
+addParent("triumph:vanilla/husbandry/tame_an_animal")
+
+criteria = addCriteria("Tame", "triumph:right_click_item")
+criteria.setItem("primitivemobs:spider_egg")
+
+setPos(64,-127)
