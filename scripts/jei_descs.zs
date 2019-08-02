@@ -43,7 +43,7 @@ JEI.addDescription(<familiarfauna:pixie_dust>, "Pixie Dust is dropped from Pixie
 // Worldgen
 JEI.addDescription(<coralreef:coral:*>, "Coral spawns in the depths of Oceans.");
 JEI.addDescription(<coralreef:reef:*>, "Coral spawns in the depths of Oceans.");
-JEI.addDescription(<minecraftfuture:bamboo>, "Bamboo spawns in Bamboo Forests, and can be grown.");
+JEI.addDescription(<minecraftfuture:bamboo>, "Bamboo spawns in Jungles, and can be grown.");
 JEI.addDescription(<nex:amethyst_crystal>, "Amethyst can be found as an ore in the regular Nether biome.");
 JEI.addDescription(<nex:rime_crystal>, "Rime can be found as an ore in the frozen Nether biome.");
 JEI.addDescription(<nex:urn_of_sorrow:*>, "The Urn of Sorrow spawns in floating castles in the Fungal Forest in the Nether. Be wary, as these castles are heavy guarded by Ghasts.");
