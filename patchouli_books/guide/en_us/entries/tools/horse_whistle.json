@@ -1,0 +1,16 @@
+{
+    "name": "Horse Whistle",
+    "icon": "quark:horse_whistle",
+    "category": "tools",
+    "advancement": "triumph:vanilla/husbandry/tame_an_animal",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Anyone who's taken horse riding as a skill is well aware that horses have a tendency to run away from you.$(br2)Simply craft yourself a $(item)Horse Whistle$() and all your troubles will be gone. Blow on the whistle, and horses that belong to you that aren't leashed or being ridden will come find you."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:horse_whistle"
+        }
+    ]
+}

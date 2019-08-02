@@ -28,12 +28,6 @@
         },
         {
             "type": "spotlight",
-            "item": "nex:rime_block",
-            "title": "Magnetism",
-            "text": "$(bold)Beacon Tier: 1$()$(br2)Using a $(item)Nether Rime Block$() will have the beacon provide $(thing)Magnetism$()."
-        },
-        {
-            "type": "spotlight",
             "item": "coralreef:reef",
             "title": "Water Breathing",
             "text": "$(bold)Beacon Tier: 3$()$(br2)Using $(item)Coral Reef$() will have the beacon provide $(thing)Water Breathing$()."

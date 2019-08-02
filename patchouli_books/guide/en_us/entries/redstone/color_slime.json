@@ -1,0 +1,30 @@
+{
+    "name": "Color Slime",
+    "icon": "quark:color_slime",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/story/iron_tools",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Everyone knows that $(item)Slime Blocks$() stick to other blocks when moved by a piston. In $(thing)Crucial$(), however, $(item)Slime Blocks$() come in various different colors.$(br2)Your typical green $(item)Slime Blocks$() can be dyed Red, or Blue. These dyed slime blocks do not connect to eachother, but they connect to normal blocks just fine."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:color_slime",
+            "recipe2": "quark:color_slime_1"
+        },
+        {
+            "type": "text",
+            "text": "Furthermore, red, green, and blue slime can be combined into cyan, magenta, and yellow slime.$(br2)These composite colors will only stick to the colors they're made of. For example, a $(item)Magenta Slime Block$() will stick to $(item)Red Slime Blocks$() and $(item)Blue Slime Blocks$(), but not $(item)Green Slime Blocks$(), or any of the other composite colors."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:color_slime_2",
+            "recipe2": "quark:color_slime_3"
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:color_slime_4"
+        }
+    ]
+}

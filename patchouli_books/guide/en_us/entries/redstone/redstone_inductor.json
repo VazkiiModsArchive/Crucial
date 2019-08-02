@@ -1,0 +1,16 @@
+{
+    "name": "Redstone Inductor",
+    "icon": "quark:redstone_inductor",
+    "category": "redstone",
+    "advancement": "triumph:vanilla/nether/root",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(item)Redstone Inductor$() is a new redstone circuit piece. Its output is the sum of the analog signal of the inputs.$(br2)Similarly to other circuit pieces, this induces a 1 redstone tick delay. Its value may also be locked using a repeater or a comparator pointing to any of the inputs."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:redstone_inductor"
+        }
+    ]
+}

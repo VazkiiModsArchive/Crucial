@@ -112,4 +112,74 @@ criteria.setItem("minecraft:beetroot")
 
 criteria = addCriteria("beetroot_soup", "minecraft:consume_item")
 criteria.setItem("minecraft:beetroot_soup")
+
+criteria = addCriteria("frog_leg", "minecraft:consume_item")
+criteria.setItem("quark:frog_leg")
+
+criteria = addCriteria("cooked_frog_leg", "minecraft:consume_item")
+criteria.setItem("quark:cooked_frog_leg")
+
+criteria = addCriteria("golden_frog_leg", "minecraft:consume_item")
+criteria.setItem("quark:golden_frog_leg")
+
+criteria = addCriteria("root", "minecraft:consume_item")
+criteria.setItem("quark:root")
+
+criteria = addCriteria("edibles", "minecraft:consume_item")
+criteria.setItem("inspirations:edibles")
+
+criteria = addCriteria("suspicious_soup", "minecraft:consume_item")
+criteria.setItem("charm:suspicious_soup")
+
+criteria = addCriteria("cooked_crab_leg", "minecraft:consume_item")
+criteria.setItem("quark:cooked_crab_leg")
+
+criteria = addCriteria("crab_leg", "minecraft:consume_item")
+criteria.setItem("quark:crab_leg")
+
+criteria = addCriteria("potato_soup", "minecraft:consume_item")
+criteria.setItem("inspirations:potato_soup")
+
+criteria = addCriteria("sweetberry", "minecraft:consume_item")
+criteria.setItem("minecraftfuture:sweetberry")
+
+criteria = addCriteria("ghast_meat_raw", "minecraft:consume_item")
+criteria.setItem("nex:ghast_meat_raw")
+
+criteria = addCriteria("ghast_meat_cooked", "minecraft:consume_item")
+criteria.setItem("nex:ghast_meat_cooked")
+
+criteria = addCriteria("congealed_magma_cream", "minecraft:consume_item")
+criteria.setItem("nex:congealed_magma_cream")
+
+criteria = addCriteria("enoki_mushroom", "minecraft:consume_item")
+criteria.setItem("nex:enoki_mushroom")
+
+criteria = addCriteria("turkey_leg_raw", "minecraft:consume_item")
+criteria.setItem("familiarfauna:turkey_leg_raw")
+
+criteria = addCriteria("turkey_leg_cooked", "minecraft:consume_item")
+criteria.setItem("familiarfauna:turkey_leg_cooked")
+
+criteria = addCriteria("venison_raw", "minecraft:consume_item")
+criteria.setItem("familiarfauna:venison_raw")
+
+criteria = addCriteria("venison_cooked", "minecraft:consume_item")
+criteria.setItem("familiarfauna:venison_cooked")
+
+criteria = addCriteria("dodo", "minecraft:consume_item")
+criteria.setItem("primitivemobs:dodo")
+
+criteria = addCriteria("cooked_dodo", "minecraft:consume_item")
+criteria.setItem("primitivemobs:cooked_dodo")
+
+criteria = addCriteria("blue_sprout", "minecraft:consume_item")
+criteria.setItem("quark:root_flower", 0)
+
+criteria = addCriteria("black_sprout", "minecraft:consume_item")
+criteria.setItem("quark:root_flower", 1)
+
+criteria = addCriteria("white_sprout", "minecraft:consume_item")
+criteria.setItem("quark:root_flower", 2)
+
 setPos(64,81)

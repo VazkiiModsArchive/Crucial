@@ -1,0 +1,16 @@
+{
+    "name": "Moonstone",
+    "icon": "charm:moonstone",
+    "category": "tools",
+    "advancement": "triumph:vanilla/nether/root",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)Moonstone$() is a powerful tool to use when aligning blocks in the world. To start, shift-right click a block with it. Should you look at the moonstone, it'll glow when you're in same position as that block in any axis. It'll glow even more if you're in that block too!$(br2)If you have multiple, you can use some dye to help with distinguishing them."
+        },
+        {
+            "type": "crafting",
+            "recipe": "charm:moonstone"
+        }
+    ]
+}

@@ -11,6 +11,11 @@
         {
             "type": "text",
             "text": "Furthermore, both Compasses and Clocks no longer function unless they are crafted.$(br2)Say goodbye to looking through your guides for directions."
+        },
+        {
+            "type": "crafting",
+            "recipe": "inspirations:tools/waypoint_compass",
+            "text": "Additionally, you may craft a new type of compass - the $(item)Beacon Compass$(). As the name implies, right clicking it onto a beacon will make it point towards where it stands. You can also dye it any color you wish."
         }
     ]
 }

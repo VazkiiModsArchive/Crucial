@@ -115,4 +115,78 @@ criteria.setBiome("minecraft:mushroom_island")
 
 criteria = addCriteria("extreme_hills_with_trees", "minecraft:location")
 criteria.setBiome("minecraft:extreme_hills_with_trees")
-setPos(56,170)
+
+criteria = addCriteria("autumnal_woods", "minecraft:location")
+criteria.setBiome("traverse:autumnal_woods")
+
+criteria = addCriteria("woodlands", "minecraft:location")
+criteria.setBiome("traverse:woodlands")
+
+criteria = addCriteria("mini_jungle", "minecraft:location")
+criteria.setBiome("traverse:mini_jungle")
+
+criteria = addCriteria("meadow", "minecraft:location")
+criteria.setBiome("traverse:meadow")
+
+criteria = addCriteria("green_swamp", "minecraft:location")
+criteria.setBiome("traverse:green_swamp")
+
+criteria = addCriteria("red_desert", "minecraft:location")
+criteria.setBiome("traverse:red_desert")
+
+criteria = addCriteria("temperate_rainforest", "minecraft:location")
+criteria.setBiome("traverse:temperate_rainforest")
+
+criteria = addCriteria("badlands", "minecraft:location")
+criteria.setBiome("traverse:badlands")
+
+criteria = addCriteria("mountainous_desert", "minecraft:location")
+criteria.setBiome("traverse:mountainous_desert")
+
+criteria = addCriteria("rocky_plateau", "minecraft:location")
+criteria.setBiome("traverse:rocky_plateau")
+
+criteria = addCriteria("forested_hills", "minecraft:location")
+criteria.setBiome("traverse:forested_hills")
+
+criteria = addCriteria("birch_forested_hills", "minecraft:location")
+criteria.setBiome("traverse:birch_forested_hills")
+
+criteria = addCriteria("autumnal_wooded_hills", "minecraft:location")
+criteria.setBiome("traverse:autumnal_wooded_hills")
+
+criteria = addCriteria("cliffs", "minecraft:location")
+criteria.setBiome("traverse:cliffs")
+
+criteria = addCriteria("glacier", "minecraft:location")
+criteria.setBiome("traverse:glacier")
+
+criteria = addCriteria("glacier_spikes", "minecraft:location")
+criteria.setBiome("traverse:glacier_spikes")
+
+criteria = addCriteria("snowy_coniferous_forest", "minecraft:location")
+criteria.setBiome("traverse:snowy_coniferous_forest")
+
+criteria = addCriteria("lush_hills", "minecraft:location")
+criteria.setBiome("traverse:lush_hills")
+
+criteria = addCriteria("canyon", "minecraft:location")
+criteria.setBiome("traverse:canyon")
+
+criteria = addCriteria("crag_cliffs", "minecraft:location")
+criteria.setBiome("traverse:crag_cliffs")
+
+criteria = addCriteria("desert_shrubland", "minecraft:location")
+criteria.setBiome("traverse:desert_shrubland")
+
+criteria = addCriteria("thicket", "minecraft:location")
+criteria.setBiome("traverse:thicket")
+
+criteria = addCriteria("arid_highland", "minecraft:location")
+criteria.setBiome("traverse:arid_highland")
+
+criteria = addCriteria("rocky_plains", "minecraft:location")
+criteria.setBiome("traverse:rocky_plains")
+
+
+setPos(111,167)

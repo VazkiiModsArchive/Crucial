@@ -37,4 +37,30 @@ criteria.setParentType("minecraft:rabbit")
 
 criteria = addCriteria("bred_llama", "minecraft:bred_animals")
 criteria.setParentType("minecraft:llama")
+
+criteria = addCriteria("bred_deer", "minecraft:bred_animals")
+criteria.setParentType("familiarfauna:familiarfauna.deer")
+
+criteria = addCriteria("bred_turkey", "minecraft:bred_animals")
+criteria.setParentType("familiarfauna:familiarfauna.turkey")
+
+criteria = addCriteria("bred_panda", "minecraft:bred_animals")
+criteria.setParentType("minecraftfuture:panda")
+
+criteria = addCriteria("bred_chameleon", "minecraft:bred_animals")
+criteria.setParentType("primitivemobs:chameleon")
+
+criteria = addCriteria("bred_dodo", "minecraft:bred_animals")
+criteria.setParentType("primitivemobs:dodo")
+
+criteria = addCriteria("bred_foxhound", "minecraft:bred_animals")
+criteria.setParentType("quark:foxhound")
+
+criteria = addCriteria("bred_frog", "minecraft:bred_animals")
+criteria.setParentType("quark:frog")
+
+criteria = addCriteria("bred_crab", "minecraft:bred_animals")
+criteria.setParentType("quark:crab")
+
+
 setPos(64,-8)

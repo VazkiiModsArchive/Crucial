@@ -38,6 +38,7 @@ JEI.addDescription(<quark:pirate_hat>, "The Pirate Hat is dropped by Pirates or 
 JEI.addDescription(<minecraft:sand:0>, "Sand is dropped from Husks upon death.");
 JEI.addDescription(<minecraft:sand:1>, "Red Sand is dropped from Husks upon death, if the Husk is on fire.");
 JEI.addDescription(<minecraft:soul_sand>, "Soul Sand can be made by pouring Ichor over Sand and waiting a few seconds.");
+JEI.addDescription(<familiarfauna:pixie_dust>, "Pixie Dust is dropped from Pixies, which spawn in Flower Forests.");
 
 // Worldgen
 JEI.addDescription(<coralreef:coral:*>, "Coral spawns in the depths of Oceans.");
@@ -83,6 +84,8 @@ JEI.addDescription(<quark:glowshroom_block>, "Glowshroom Blocks can be acquired 
 JEI.addDescription(<familiarfauna:bug_net>, "Can be used to capture Butterflies, Dragonflies, and Pixies. You need a Bug Habitat to store them.");
 JEI.addDescription(<familiarfauna:bug_habitat>, "Can be used to store Butterflies, Dragonflies, and Pixies. You need a Bug Net to catch them.");
 JEI.addDescription(<minecraft:shulker_shell>, "Endermites can bury into Purpur blocks. If they do so, they'll turn into Shulkers.");
+JEI.addDescription(<primitivemobs:spider_egg>, "Drops rarely from Mother Spiders. Can be thrown to spawn a pet Baby Spider.\n\nYou can grow the baby up with Fermented Spider eggs, and ride it as a mount when it's an adult.");
+JEI.addDescription(<primitivemobs:spider_eggshell>, "You can use the egg shell to capture Baby Spiders (including the ones spawned by you, if you haven't grown them). Once you do this, it becomes a Spider Egg.");
 
 // Cakes
 JEI.addDescription(<charm:cake_swiftness>, "To get a Cake of Swiftness, right click a Cake with a long Potion of Swiftness. Eating the cake will give you the effect.");

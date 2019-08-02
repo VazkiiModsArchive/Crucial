@@ -73,4 +73,75 @@ criteria.setEntityType("zombie")
 
 criteria = addCriteria("zombie_villager", "minecraft:player_killed_entity")
 criteria.setEntityType("zombie_villager")
+
+criteria = addCriteria("bone_spider", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:bone_spider")
+
+criteria = addCriteria("brute", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:brute")
+
+criteria = addCriteria("ember", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:ember")
+
+criteria = addCriteria("ghast_queen", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:ghast_queen")
+
+criteria = addCriteria("ghastling", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:ghastling")
+
+criteria = addCriteria("mogus", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:mogus")
+
+criteria = addCriteria("nethermite", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:nethermite")
+
+criteria = addCriteria("spinout", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:spinout")
+
+criteria = addCriteria("spore_creeper", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:spore_creeper")
+
+criteria = addCriteria("wight", "minecraft:player_killed_entity")
+criteria.setEntityType("nex:wight")
+
+criteria = addCriteria("baby_spider", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:baby_spider")
+
+criteria = addCriteria("chameleon", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:chameleon")
+
+criteria = addCriteria("filch_lizard", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:filch_lizard")
+
+criteria = addCriteria("flame_spewer", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:flame_spewer")
+
+criteria = addCriteria("goblin", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:goblin")
+
+criteria = addCriteria("harpy", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:harpy")
+
+criteria = addCriteria("lily_lurker", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:lily_lurker")
+
+criteria = addCriteria("mother_spider", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:mother_spider")
+
+criteria = addCriteria("support_creeper", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:support_creeper")
+
+criteria = addCriteria("treasure_slime", "minecraft:player_killed_entity")
+criteria.setEntityType("primitivemobs:treasure_slime")
+
+criteria = addCriteria("foxhound", "minecraft:player_killed_entity")
+criteria.setEntityType("quark:foxhound")
+
+criteria = addCriteria("pirate", "minecraft:player_killed_entity")
+criteria.setEntityType("quark:pirate")
+
+criteria = addCriteria("wraith", "minecraft:player_killed_entity")
+criteria.setEntityType("quark:wraith")
+
+
 setPos(27,46)
